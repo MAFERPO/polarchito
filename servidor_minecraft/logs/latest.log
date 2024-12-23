@@ -434,3 +434,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [23Dec2024 22:29:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
 [23Dec2024 22:29:50.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [23Dec2024 22:30:08.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 22:34:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 22:34:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 22:36:43.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Capturing Mobs]
+[23Dec2024 22:37:13.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Capture a mob using a Capture Cell]
+[23Dec2024 22:38:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 22:43:01.351] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2022, y=-8, z=-961}
+[23Dec2024 22:43:07.977] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1759, y=-2, z=-837}
+[23Dec2024 22:43:11.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24824, l='ServerLevel[world]', x=1954.37, y=95.00, z=-861.28] died, message: 'Unemployed suffocated in a wall'
+[23Dec2024 22:43:28.635] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1707, y=-52, z=-849}
+[23Dec2024 22:43:32.824] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1693, y=1, z=-1023}
+[23Dec2024 22:45:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Not Today, Thank You]
+[23Dec2024 22:55:27.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 22:55:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Dread Hound
+[23Dec2024 22:59:42.200] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 15dbe688: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23Dec2024 22:59:43.331] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 15dbe688: RandomSpreadSearchWorker succeeded with 2223 radius, 96 samples
+[23Dec2024 23:00:54.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to -687.500000, 90.000000, 3296.500000]
+[23Dec2024 23:00:54.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6609ms or 132 ticks behind
+[23Dec2024 23:00:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[23Dec2024 23:01:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
