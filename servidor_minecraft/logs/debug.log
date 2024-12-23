@@ -4455,3 +4455,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [23Dec2024 21:59:55.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 22:03:34.603] [Worker-Main-15/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
 [23Dec2024 22:04:04.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 22:04:55.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 22:04:55.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:06:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set Maufer772's game mode to Survival Mode]
+[23Dec2024 22:07:15.966] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1468, y=11, z=1345}
+[23Dec2024 22:07:16.912] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1247, y=-24, z=1459}
+[23Dec2024 22:07:18.952] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1094, y=28, z=1465}
+[23Dec2024 22:07:33.386] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1030, y=-52, z=1521}
+[23Dec2024 22:09:03.765] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1378, y=1, z=1540}
+[23Dec2024 22:09:05.102] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1222, y=24, z=1538}
+[23Dec2024 22:09:08.966] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1443, y=24, z=1561}
+[23Dec2024 22:09:13.565] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1135, y=-41, z=1599}
+[23Dec2024 22:09:55.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 22:09:55.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:10:06.346] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-852, y=21, z=1059}
+[23Dec2024 22:10:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Bison
+[23Dec2024 22:10:51.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved wrongly!
+[23Dec2024 22:10:51.896] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-827, y=32, z=1130}
+[23Dec2024 22:10:52.689] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[23Dec2024 22:12:00.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -0.04174561503737095,-10.583188926255836,0.0032148905520443805
