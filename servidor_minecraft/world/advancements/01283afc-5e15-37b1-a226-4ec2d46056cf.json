@@ -3683,6 +3683,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2024-12-23 22:29:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:32 +0000"

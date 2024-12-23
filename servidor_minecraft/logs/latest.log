@@ -399,3 +399,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [23Dec2024 22:10:51.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved wrongly!
 [23Dec2024 22:10:51.896] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-827, y=32, z=1130}
 [23Dec2024 22:12:00.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -0.04174561503737095,-10.583188926255836,0.0032148905520443805
+[23Dec2024 22:14:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[23Dec2024 22:15:03.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 13000]
+[23Dec2024 22:15:30.079] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-142, y=-26, z=-864}
+[23Dec2024 22:15:35.409] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-116, y=16, z=-884}
+[23Dec2024 22:15:37.423] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-266, y=18, z=-959}
+[23Dec2024 22:16:20.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> zzzzzzzzzzzzzz
+[23Dec2024 22:20:04.322] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-398, y=-51, z=-1028}
+[23Dec2024 22:20:04.323] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-398, y=-51, z=-1029}
+[23Dec2024 22:21:08.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
+[23Dec2024 22:22:33.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 22:22:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set Maufer772's game mode to Survival Mode]
+[23Dec2024 22:22:43.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 22:23:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Would you Like to Know More?]
+[23Dec2024 22:24:56.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 22:25:21.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[23Dec2024 22:25:21.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 10.217285576594861,0.0,-0.9865419819376484
+[23Dec2024 22:25:56.339] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=158, y=-16, z=-658}
+[23Dec2024 22:26:22.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 22:26:41.928] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Dec2024 22:26:41.944] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Dec2024 22:26:42.706] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=312, y=-46, z=-980}
+[23Dec2024 22:27:04.164] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=40, y=-17, z=-1079}
+[23Dec2024 22:27:04.165] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=39, y=-17, z=-1079}
+[23Dec2024 22:27:04.165] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=41, y=-17, z=-1077}
+[23Dec2024 22:27:17.197] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-50, y=-12, z=-1126}
+[23Dec2024 22:27:25.794] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-21, y=39, z=-1176}
+[23Dec2024 22:27:25.795] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-20, y=39, z=-1176}
+[23Dec2024 22:27:25.865] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-12, y=-50, z=-1175}
+[23Dec2024 22:27:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Grizzly Bear
+[23Dec2024 22:28:56.207] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=309, y=-13, z=-1152}
+[23Dec2024 22:28:56.208] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=309, y=-13, z=-1153}
+[23Dec2024 22:28:59.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 22:29:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 22:29:50.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 22:30:08.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
