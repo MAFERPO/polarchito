@@ -454,3 +454,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [23Dec2024 23:00:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
 [23Dec2024 23:01:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
 [23Dec2024 23:12:32.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 23:16:04.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to 2 targets]
+[23Dec2024 23:17:41.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 23:17:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Deceived Hopes]
+[23Dec2024 23:17:46.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
+[23Dec2024 23:18:08.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 23:18:13.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 23:18:54.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to 2 targets]
+[23Dec2024 23:19:16.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Sneak 100]
+[23Dec2024 23:19:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Good Demoman]
+[23Dec2024 23:20:17.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 23:20:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Cave Dweller
+[23Dec2024 23:20:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 23:22:16.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 23:23:05.345] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1672, y=-38, z=-740}
+[23Dec2024 23:23:05.357] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1675, y=22, z=-705}
+[23Dec2024 23:23:13.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[23Dec2024 23:23:35.290] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1442, y=14, z=-948}
+[23Dec2024 23:23:51.689] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1322, y=8, z=-880}
+[23Dec2024 23:23:51.690] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1322, y=8, z=-882}
+[23Dec2024 23:23:51.857] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1279, y=-27, z=-882}
+[23Dec2024 23:23:51.857] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1279, y=-27, z=-881}
+[23Dec2024 23:24:15.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 10.701859928508611,0.0,-2.0095204531955915
+[23Dec2024 23:24:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 23:25:11.602] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1748, y=12, z=-1284}
+[23Dec2024 23:25:15.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 9.718433038794728,3.374272873763992,-1.2254212831228415
