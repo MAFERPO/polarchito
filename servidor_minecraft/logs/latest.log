@@ -376,3 +376,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [23Dec2024 21:43:25.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.65.38.210:45249] logged in with entity id 930 at (-1141.1553473547426, 45.0, 1139.9305277632136)
 [23Dec2024 21:43:25.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
 [23Dec2024 21:43:25.422] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[23Dec2024 21:44:12.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 21:46:17.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]

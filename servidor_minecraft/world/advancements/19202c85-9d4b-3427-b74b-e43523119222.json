@@ -3579,64 +3579,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-23 03:32:51 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_bamboo": {
-    "criteria": {
-      "has_slashblade_wood": "2024-12-23 03:17:43 +0000",
-      "has_the_recipe": "2024-12-23 03:17:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2024-12-23 03:36:27 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/orotiagito_sealed": {
-    "criteria": {
-      "has_proudsoul": "2024-12-23 03:17:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-23 03:15:43 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/agito": {
-    "criteria": {
-      "has_proudsoul": "2024-12-23 03:17:43 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-23 03:14:42 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2024-12-23 03:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-23 03:32:51 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/tagayasan": {
-    "criteria": {
-      "has_slashblade_wood": "2024-12-23 03:17:43 +0000"
     },
     "done": true
   },
@@ -3649,6 +3594,37 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-23 03:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-23 03:15:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2024-12-23 03:17:43 +0000",
+      "has_the_recipe": "2024-12-23 03:17:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2024-12-23 03:17:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2024-12-23 03:17:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2024-12-23 03:17:43 +0000"
     },
     "done": true
   },
@@ -3667,6 +3643,30 @@
   "slashblade:blade/s_wood": {
     "criteria": {
       "crafting": "2024-12-23 03:17:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-23 03:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-23 03:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-23 03:32:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 03:36:27 +0000"
     },
     "done": true
   },

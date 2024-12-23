@@ -1135,6 +1135,7 @@
       "porkchop": "2024-12-14 20:24:19 +0000",
       "mutton": "2024-12-14 20:04:32 +0000",
       "bread": "2024-12-14 19:15:03 +0000",
+      "rotten_flesh": "2024-12-23 21:47:24 +0000",
       "glow_berries": "2024-12-17 02:59:45 +0000",
       "salmon": "2024-12-14 19:34:22 +0000",
       "cod": "2024-12-14 19:51:00 +0000"
@@ -3628,15 +3629,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-23 03:27:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2024-12-23 03:32:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
-      "has_golden_axe": "2024-12-23 03:27:06 +0000"
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:46:32 +0000"
     },
     "done": true
   },
