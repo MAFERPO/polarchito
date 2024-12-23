@@ -83,6 +83,7 @@
       "minecraft:snowy_beach": "2024-12-14 19:10:12 +0000",
       "minecraft:windswept_savanna": "2024-12-23 23:00:55 +0000",
       "minecraft:frozen_peaks": "2024-12-14 19:53:42 +0000",
+      "minecraft:deep_dark": "2024-12-23 23:43:44 +0000",
       "minecraft:plains": "2024-12-14 23:58:19 +0000"
     },
     "done": false
@@ -1136,6 +1137,7 @@
       "porkchop": "2024-12-14 20:24:19 +0000",
       "mutton": "2024-12-14 20:04:32 +0000",
       "bread": "2024-12-14 19:15:03 +0000",
+      "golden_apple": "2024-12-23 23:39:37 +0000",
       "rotten_flesh": "2024-12-23 21:47:24 +0000",
       "glow_berries": "2024-12-17 02:59:45 +0000",
       "salmon": "2024-12-14 19:34:22 +0000",
@@ -3655,6 +3657,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-23 23:43:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:32 +0000"
@@ -3682,6 +3690,24 @@
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2024-12-23 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-23 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-23 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-23 23:44:15 +0000"
     },
     "done": true
   },
@@ -3736,6 +3762,12 @@
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-23 23:43:46 +0000"
     },
     "done": true
   },

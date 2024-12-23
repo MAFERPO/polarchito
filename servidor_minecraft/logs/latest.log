@@ -479,3 +479,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [23Dec2024 23:24:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [23Dec2024 23:25:11.602] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1748, y=12, z=-1284}
 [23Dec2024 23:25:15.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 9.718433038794728,3.374272873763992,-1.2254212831228415
+[23Dec2024 23:26:09.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[23Dec2024 23:26:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Topy_16]
+[23Dec2024 23:28:39.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 23:30:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Deceived Hopes]
+[23Dec2024 23:32:25.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Corpse Fly
+[23Dec2024 23:32:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[23Dec2024 23:32:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[23Dec2024 23:34:25.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Take Aim]
+[23Dec2024 23:39:06.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 23:39:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[23Dec2024 23:41:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[23Dec2024 23:43:10.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Life turned out to be a comedy]
+[23Dec2024 23:43:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Sneak 100]
+[23Dec2024 23:43:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[23Dec2024 23:43:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Alex's Caves]
+[23Dec2024 23:43:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Alex's Caves]
+[23Dec2024 23:44:24.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Once Upon a Cave]
