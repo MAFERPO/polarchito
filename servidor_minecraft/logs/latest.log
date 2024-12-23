@@ -496,3 +496,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [23Dec2024 23:43:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Alex's Caves]
 [23Dec2024 23:43:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Alex's Caves]
 [23Dec2024 23:44:24.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Once Upon a Cave]
+[23Dec2024 23:45:39.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Cave Centipede
+[23Dec2024 23:45:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[23Dec2024 23:46:30.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Creative Mode]
+[23Dec2024 23:49:37.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[23Dec2024 23:49:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[23Dec2024 23:50:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 23:51:10.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[23Dec2024 23:51:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[23Dec2024 23:53:23.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[23Dec2024 23:53:25.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
