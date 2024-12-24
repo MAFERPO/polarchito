@@ -3645,27 +3645,9 @@
     },
     "done": true
   },
-  "portablemobs:captureadvancement": {
-    "criteria": {
-      "capture": "2024-12-23 22:37:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2024-12-23 23:57:46 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:32 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-23 23:43:55 +0000"
     },
     "done": true
   },
@@ -3675,45 +3657,9 @@
     },
     "done": true
   },
-  "portablemobs:basiccelladvancement": {
-    "criteria": {
-      "basiccell": "2024-12-23 22:36:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:32 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
-    "criteria": {
-      "has_goldenrod": "2024-12-23 22:08:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2024-12-23 22:36:13 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2024-12-23 23:43:10 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/oak_banister": {
-    "criteria": {
-      "has_item": "2024-12-23 23:44:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-23 23:44:15 +0000"
     },
     "done": true
   },
@@ -3723,45 +3669,15 @@
     },
     "done": true
   },
-  "portablemobs:recipes/misc/master_capture_cell": {
-    "criteria": {
-      "recipe_condition": "2024-12-23 22:36:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:32 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2024-12-23 23:57:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-23 23:57:46 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2024-12-23 23:17:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/frost_stew": {
-    "criteria": {
-      "has_item": "2024-12-23 22:29:21 +0000"
     },
     "done": true
   },
@@ -3783,9 +3699,93 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2024-12-23 22:08:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2024-12-23 22:29:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-23 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2024-12-23 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2024-12-23 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2024-12-23 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-23 23:17:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-23 23:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-23 23:43:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-23 23:43:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-23 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-23 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-23 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-23 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 23:57:46 +0000"
     },
     "done": true
   },
