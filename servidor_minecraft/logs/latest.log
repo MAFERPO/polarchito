@@ -430,3 +430,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [24Dec2024 21:08:08.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
 [24Dec2024 21:08:19.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [24Dec2024 21:08:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[24Dec2024 21:14:08.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Timed out
+[24Dec2024 21:14:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[24Dec2024 21:14:16.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.166.74.25:60847] logged in with entity id 11515 at (-1133.2790079641939, 44.0, 1141.953642687372)
+[24Dec2024 21:14:16.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[24Dec2024 21:14:16.732] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[24Dec2024 21:17:59.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[24Dec2024 21:17:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[24Dec2024 21:18:01.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[24Dec2024 21:18:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[24Dec2024 21:19:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 21:19:28.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 21:19:28.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 21:19:28.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 21:19:29.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 21:19:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[24Dec2024 21:19:29.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 21:19:29.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 21:19:29.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24Dec2024 21:19:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 21:19:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[24Dec2024 21:19:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 21:19:29.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 21:19:29.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24Dec2024 21:19:29.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 21:19:29.814] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Dec2024 21:19:29.815] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[24Dec2024 21:19:29.818] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
