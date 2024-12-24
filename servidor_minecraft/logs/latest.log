@@ -419,3 +419,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [24Dec2024 20:54:50.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.254.70.255:53279] logged in with entity id 6203 at (2024.5229349593408, -48.0, -1207.6297736911372)
 [24Dec2024 20:54:50.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
 [24Dec2024 20:54:50.690] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[24Dec2024 21:01:06.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[24Dec2024 21:01:06.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[24Dec2024 21:01:25.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.254.70.255:42715] logged in with entity id 8151 at (2023.300702804918, -59.0, -1252.6921298270768)
+[24Dec2024 21:01:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[24Dec2024 21:01:25.282] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[24Dec2024 21:03:12.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[24Dec2024 21:06:56.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[24Dec2024 21:07:17.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[24Dec2024 21:08:08.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[24Dec2024 21:08:19.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[24Dec2024 21:08:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
