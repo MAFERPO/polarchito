@@ -392,3 +392,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [24Dec2024 20:38:38.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Enderman
 [24Dec2024 20:38:45.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [24Dec2024 20:39:09.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Topy_16]
+[24Dec2024 20:40:15.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Nightmare Stalker
+[24Dec2024 20:40:34.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[24Dec2024 20:42:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Nightmare Stalker
+[24Dec2024 20:42:31.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[24Dec2024 20:43:19.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 4 [Command Block] to Maufer772]
+[24Dec2024 20:44:06.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[24Dec2024 20:44:22.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[24Dec2024 20:44:56.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Maufer772 to Topy_16]
+[24Dec2024 20:45:24.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was shot by Summoned Skeleton
+[24Dec2024 20:45:30.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[24Dec2024 20:45:33.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[24Dec2024 20:45:48.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was shot by Summoned Skeleton
+[24Dec2024 20:45:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[24Dec2024 20:45:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 tried to swim in lava to escape Maufer772
+[24Dec2024 20:45:58.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[24Dec2024 20:46:13.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[24Dec2024 20:48:00.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[24Dec2024 20:48:00.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[24Dec2024 20:48:32.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.254.70.255:60479] logged in with entity id 5157 at (2032.300000011921, -54.0, -1167.5560642105906)
+[24Dec2024 20:48:32.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[24Dec2024 20:48:32.948] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
