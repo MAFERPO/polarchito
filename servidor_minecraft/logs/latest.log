@@ -526,3 +526,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [25Dec2024 21:56:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [25Dec2024 21:56:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
 [25Dec2024 21:57:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[25Dec2024 21:58:42.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [It Belongs in a Museum]
+[25Dec2024 22:03:10.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Capturing Mobs]
+[25Dec2024 22:03:23.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Capture a mob using a Capture Cell]
+[25Dec2024 22:07:19.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 22:07:28.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Cave Dweller
+[25Dec2024 22:07:37.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 22:07:38.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 22:07:45.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -5.69288916913365,-3.3750001341104365,7.976728954652117
+[25Dec2024 22:07:54.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
