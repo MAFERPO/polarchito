@@ -406,3 +406,90 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [25Dec2024 21:06:06.318] [Server thread/INFO] [naturescompass/]: Search succeeded: 4720 radius, 6112 samples
 [25Dec2024 21:06:23.515] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
 [25Dec2024 21:06:24.843] [Server thread/INFO] [naturescompass/]: Search succeeded: 5023 radius, 6215 samples
+[25Dec2024 21:07:25.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:07:52.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:10:29.603] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1069, y=-26, z=1594}
+[25Dec2024 21:10:37.028] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1069, y=-26, z=1594} but found not block entity block Block{minecraft:air} at location
+[25Dec2024 21:10:37.028] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1069, y=-26, z=1594}
+[25Dec2024 21:11:43.293] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:11:43.305] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:11:48.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-961, y=73, z=1562} BlockPos{x=-960, y=71, z=1562}
+[25Dec2024 21:11:48.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-961, y=73, z=1562} BlockPos{x=-960, y=71, z=1562}
+[25Dec2024 21:11:56.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Gravedigger]
+[25Dec2024 21:12:30.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Vindicator
+[25Dec2024 21:12:42.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Not Today, Thank You]
+[25Dec2024 21:13:14.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Cave Spider
+[25Dec2024 21:13:18.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[25Dec2024 21:13:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[25Dec2024 21:13:25.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.222.194.248:36363] logged in with entity id 10028 at (-1235.6343186495935, 32.0, 1238.57510301793)
+[25Dec2024 21:13:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[25Dec2024 21:13:25.505] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[25Dec2024 21:14:07.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Timed out
+[25Dec2024 21:14:07.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[25Dec2024 21:14:26.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.98.122.155:38221] logged in with entity id 10207 at (-1111.316523842522, 68.0, 1156.0498279518101)
+[25Dec2024 21:14:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[25Dec2024 21:14:26.184] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[25Dec2024 21:14:59.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:15:17.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:15:18.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[25Dec2024 21:15:28.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[25Dec2024 21:16:01.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[25Dec2024 21:16:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:16:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[25Dec2024 21:17:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to -1231.500000, 32.000000, 1239.500000]
+[25Dec2024 21:17:21.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:17:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:17:59.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Quaint Scribe]
+[25Dec2024 21:19:52.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:20:04.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -9.786258351614833,3.374272873763994,0.41513058719874607
+[25Dec2024 21:20:33.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:21:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Chest Slayer]
+[25Dec2024 21:22:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Vex
+[25Dec2024 21:22:28.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:23:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:24:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:24:30.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:24:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[25Dec2024 21:25:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[25Dec2024 21:25:17.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:25:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:25:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:25:43.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:25:57.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:26:00.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:26:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:26:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:26:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:26:22.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:26:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:27:06.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:27:32.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:27:33.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:27:45.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:27:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:29:50.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:29:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:30:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:30:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:30:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Cover Me with Diamonds]
+[25Dec2024 21:30:26.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:30:35.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:31:13.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[25Dec2024 21:31:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:31:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[25Dec2024 21:31:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:31:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Fire Dragon
+[25Dec2024 21:32:15.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[25Dec2024 21:32:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[25Dec2024 21:32:55.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[25Dec2024 21:32:55.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[25Dec2024 21:33:01.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.222.194.248:37855] logged in with entity id 17640 at (-1364.6253928805102, 68.10701442827987, 1312.6565336851804)
+[25Dec2024 21:33:01.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[25Dec2024 21:33:01.459] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[25Dec2024 21:33:22.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[25Dec2024 21:33:33.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[25Dec2024 21:33:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[25Dec2024 21:34:02.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[25Dec2024 21:34:17.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Creative Mode]
+[25Dec2024 21:34:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[25Dec2024 21:36:42.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Cover Me with Diamonds]
