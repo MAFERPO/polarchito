@@ -385,3 +385,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [25Dec2024 20:49:48.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
 [25Dec2024 20:49:48.743] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
 [25Dec2024 20:50:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[25Dec2024 20:57:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[25Dec2024 20:58:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 fell from a high place
+[25Dec2024 21:01:09.299] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[25Dec2024 21:01:15.403] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[25Dec2024 21:01:15.404] [Server thread/ERROR] [naturescompass/]: Invalid compass after search
+[25Dec2024 21:02:12.946] [Server thread/INFO] [naturescompass/]: Search stopped: 10001 radius, 24532 samples
+[25Dec2024 21:02:12.947] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[25Dec2024 21:02:13.158] [Server thread/INFO] [naturescompass/]: Search succeeded: 1378 radius, 768 samples
+[25Dec2024 21:02:50.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[25Dec2024 21:02:50.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[25Dec2024 21:02:50.093] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 21:03:06.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.222.194.248:58783] logged in with entity id 4455 at (-1225.3118315389638, 217.87521824457627, 1095.6640360847173)
+[25Dec2024 21:03:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[25Dec2024 21:03:06.731] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[25Dec2024 21:03:52.142] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[25Dec2024 21:03:53.565] [Server thread/INFO] [naturescompass/]: Search succeeded: 4978 radius, 6214 samples
+[25Dec2024 21:05:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> eeeeeeeeeeeeee
+[25Dec2024 21:06:04.068] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[25Dec2024 21:06:06.318] [Server thread/INFO] [naturescompass/]: Search succeeded: 4720 radius, 6112 samples
+[25Dec2024 21:06:23.515] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[25Dec2024 21:06:24.843] [Server thread/INFO] [naturescompass/]: Search succeeded: 5023 radius, 6215 samples
