@@ -3827,5 +3827,17 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-25 21:36:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-25 21:43:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

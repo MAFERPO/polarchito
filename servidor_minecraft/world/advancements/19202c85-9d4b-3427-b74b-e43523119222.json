@@ -4306,6 +4306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 21:42:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-25 21:30:23 +0000"
@@ -4321,6 +4327,12 @@
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-25 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-25 21:41:46 +0000"
     },
     "done": true
   },

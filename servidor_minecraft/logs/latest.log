@@ -493,3 +493,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [25Dec2024 21:34:17.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Creative Mode]
 [25Dec2024 21:34:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
 [25Dec2024 21:36:42.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Cover Me with Diamonds]
+[25Dec2024 21:41:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Enderman
+[25Dec2024 21:41:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Cave Dweller
+[25Dec2024 21:42:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[25Dec2024 21:42:38.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
