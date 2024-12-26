@@ -341,3 +341,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 21:05:22.740] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
 [26Dec2024 21:06:12.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3df3f77b[id=<null>,name=mimy_pl,properties={},legacy=false] (/127.123.35.127:48591) lost connection: Timed out
 [26Dec2024 21:07:44.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@208c06e7[id=<null>,name=Maufer772,properties={},legacy=false] (/127.222.194.248:60443) lost connection: Timed out
+[26Dec2024 21:10:16.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.123.35.127:51485] logged in with entity id 7583 at (-1129.372641305466, 67.0, 1136.298888776159)
+[26Dec2024 21:10:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[26Dec2024 21:10:16.597] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[26Dec2024 21:11:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
