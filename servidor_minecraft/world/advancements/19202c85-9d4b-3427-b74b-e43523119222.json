@@ -4638,6 +4638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
     "criteria": {
       "has_glowflower": "2024-12-26 21:52:33 +0000"
@@ -4662,6 +4668,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-26 21:54:14 +0000"
@@ -4674,9 +4698,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/magic_wood": {
     "criteria": {
       "has_log": "2024-12-26 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
     },
     "done": true
   },
@@ -4713,6 +4761,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-26 21:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:13:30 +0000"
     },
     "done": true
   },
