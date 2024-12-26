@@ -67,7 +67,9 @@
       "minecraft:frozen_river": "2024-12-14 19:14:09 +0000",
       "minecraft:birch_forest": "2024-12-14 18:37:29 +0000",
       "minecraft:beach": "2024-12-14 18:41:24 +0000",
+      "minecraft:sparse_jungle": "2024-12-26 21:41:29 +0000",
       "minecraft:river": "2024-12-14 19:10:07 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-26 21:42:08 +0000",
       "minecraft:snowy_plains": "2024-12-14 19:22:06 +0000",
       "minecraft:stony_shore": "2024-12-14 20:20:22 +0000",
       "minecraft:snowy_taiga": "2024-12-14 19:35:18 +0000",
@@ -4629,6 +4631,60 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-26 20:58:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-26 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-26 21:44:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-26 21:44:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 21:38:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-26 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-26 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-26 21:44:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-12-26 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-26 21:44:57 +0000"
     },
     "done": true
   },

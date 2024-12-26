@@ -345,3 +345,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 21:10:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
 [26Dec2024 21:10:16.597] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
 [26Dec2024 21:11:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[26Dec2024 21:38:00.941] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78278be9[id=<null>,name=Maufer772,properties={},legacy=false] (/127.222.194.248:59063) lost connection: Timed out
+[26Dec2024 21:44:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Sea? Not a Problem]
+[26Dec2024 21:46:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Grizzly Bear
+[26Dec2024 21:46:45.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[26Dec2024 21:46:50.752] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-23, y=-30, z=25}
+[26Dec2024 21:46:50.752] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-23, y=-30, z=26}
+[26Dec2024 21:47:09.220] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=36, y=-19, z=340}
+[26Dec2024 21:47:19.317] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-212, y=-27, z=591}
+[26Dec2024 21:48:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]

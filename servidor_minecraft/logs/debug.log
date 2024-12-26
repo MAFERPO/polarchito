@@ -5437,3 +5437,95 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 21:20:19.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 21:25:19.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 21:25:19.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:30:19.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:30:19.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:35:19.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:35:19.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:37:30.895] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 43 messages to dispatch.
+[26Dec2024 21:37:30.939] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[26Dec2024 21:37:30.987] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[26Dec2024 21:37:31.039] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 2
+[26Dec2024 21:37:31.105] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 3
+[26Dec2024 21:37:31.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 4
+[26Dec2024 21:37:31.187] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 5
+[26Dec2024 21:37:31.238] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[26Dec2024 21:37:31.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[26Dec2024 21:37:31.338] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[26Dec2024 21:37:31.387] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[26Dec2024 21:37:31.438] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 10
+[26Dec2024 21:37:31.487] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 11
+[26Dec2024 21:37:31.540] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[26Dec2024 21:37:31.589] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry slashblade:combo_state' to 'fml:handshake' sequence 13
+[26Dec2024 21:37:31.639] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 14
+[26Dec2024 21:37:31.689] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[26Dec2024 21:37:31.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[26Dec2024 21:37:31.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 17
+[26Dec2024 21:37:31.840] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 18
+[26Dec2024 21:37:31.892] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 19
+[26Dec2024 21:37:31.938] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 20
+[26Dec2024 21:37:31.993] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 21
+[26Dec2024 21:37:32.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 22
+[26Dec2024 21:37:32.090] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 23
+[26Dec2024 21:37:32.138] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 24
+[26Dec2024 21:37:32.188] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 25
+[26Dec2024 21:37:32.239] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry slashblade:special_effect' to 'fml:handshake' sequence 26
+[26Dec2024 21:37:32.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 27
+[26Dec2024 21:37:32.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 28
+[26Dec2024 21:37:32.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry slashblade:slash_arts' to 'fml:handshake' sequence 29
+[26Dec2024 21:37:32.439] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 30
+[26Dec2024 21:37:32.488] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 31
+[26Dec2024 21:37:32.538] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 32
+[26Dec2024 21:37:32.589] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 33
+[26Dec2024 21:37:32.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 34
+[26Dec2024 21:37:32.689] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 35
+[26Dec2024 21:37:32.737] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 36
+[26Dec2024 21:37:32.795] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 37
+[26Dec2024 21:37:32.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 38
+[26Dec2024 21:37:32.890] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 39
+[26Dec2024 21:37:32.939] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config beautify-server.toml' to 'fml:handshake' sequence 40
+[26Dec2024 21:37:32.988] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 41
+[26Dec2024 21:37:33.038] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 42
+[26Dec2024 21:38:00.941] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78278be9[id=<null>,name=Maufer772,properties={},legacy=false] (/127.222.194.248:59063) lost connection: Timed out
+[26Dec2024 21:38:25.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[26Dec2024 21:38:25.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[26Dec2024 21:38:25.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[26Dec2024 21:38:25.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[26Dec2024 21:38:25.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[26Dec2024 21:38:25.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[26Dec2024 21:38:25.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[26Dec2024 21:38:25.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[26Dec2024 21:40:19.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:40:19.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:40:39.281] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[26Dec2024 21:40:41.773] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[26Dec2024 21:40:43.768] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[26Dec2024 21:40:43.789] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[26Dec2024 21:40:43.823] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[26Dec2024 21:40:48.194] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[26Dec2024 21:40:59.550] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[26Dec2024 21:41:24.086] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[26Dec2024 21:42:06.631] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[26Dec2024 21:42:12.625] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_01 is being run through DFU (hash 7e8b1a464799973dd5d61614e5d1a23a359defe09d4677fefeac6665c016c4d0), this will cause launch time delays
+[26Dec2024 21:42:17.468] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[26Dec2024 21:42:17.979] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[26Dec2024 21:42:39.149] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[26Dec2024 21:43:05.548] [Worker-Main-49/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_13 is being run through DFU (hash 095d46cb310c2816937d32c79500d98da0f89d4e3099785017a96fe3067cf5b8), this will cause launch time delays
+[26Dec2024 21:43:07.676] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_08
+[26Dec2024 21:43:07.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[26Dec2024 21:43:16.660] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[26Dec2024 21:43:26.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[26Dec2024 21:44:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Sea? Not a Problem]
+[26Dec2024 21:45:19.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:45:19.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:46:17.522] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[26Dec2024 21:46:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Grizzly Bear
+[26Dec2024 21:46:27.482] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[26Dec2024 21:46:45.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[26Dec2024 21:46:50.752] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-23, y=-30, z=25}
+[26Dec2024 21:46:50.752] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-23, y=-30, z=26}
+[26Dec2024 21:46:51.525] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/library_02 is being run through DFU (hash 649a1786b2b857c2b1dd8fc2d2d9e9a1c53a171102bd9dcac33f9862b719af79), this will cause launch time delays
+[26Dec2024 21:47:09.220] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=36, y=-19, z=340}
+[26Dec2024 21:47:19.317] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-212, y=-27, z=591}
+[26Dec2024 21:47:28.251] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[26Dec2024 21:47:52.585] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[26Dec2024 21:48:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
