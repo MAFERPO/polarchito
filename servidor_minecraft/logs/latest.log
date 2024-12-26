@@ -354,3 +354,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 21:47:09.220] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=36, y=-19, z=340}
 [26Dec2024 21:47:19.317] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-212, y=-27, z=591}
 [26Dec2024 21:48:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[26Dec2024 21:54:09.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=452, y=80, z=2347} BlockPos{x=453, y=79, z=2348}
+[26Dec2024 21:54:09.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=452, y=80, z=2347} BlockPos{x=453, y=79, z=2348}
+[26Dec2024 21:54:09.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=452, y=80, z=2347} BlockPos{x=453, y=79, z=2348}
+[26Dec2024 21:54:09.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=81, z=2346} BlockPos{x=455, y=80, z=2346}
+[26Dec2024 21:54:09.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=81, z=2346} BlockPos{x=455, y=80, z=2346}
+[26Dec2024 21:57:20.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[26Dec2024 21:57:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to mimy_pl]
+[26Dec2024 21:59:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]

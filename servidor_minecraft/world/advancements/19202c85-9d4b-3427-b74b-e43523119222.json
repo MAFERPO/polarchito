@@ -80,6 +80,7 @@
       "minecraft:ice_spikes": "2024-12-14 19:33:10 +0000",
       "minecraft:frozen_ocean": "2024-12-14 19:14:12 +0000",
       "minecraft:ocean": "2024-12-14 23:55:44 +0000",
+      "minecraft:jungle": "2024-12-26 21:48:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-14 20:13:12 +0000",
       "minecraft:snowy_beach": "2024-12-14 19:10:14 +0000",
       "minecraft:frozen_peaks": "2024-12-14 19:52:41 +0000",
@@ -1805,6 +1806,7 @@
       "rocky_shrubland": "2024-12-14 23:58:44 +0000",
       "highland": "2024-12-14 19:47:03 +0000",
       "jacaranda_glade": "2024-12-15 00:04:30 +0000",
+      "jade_cliffs": "2024-12-26 21:55:00 +0000",
       "mystic_grove": "2024-12-23 22:43:25 +0000",
       "maple_woods": "2024-12-14 19:39:33 +0000",
       "field": "2024-12-14 19:35:48 +0000",
@@ -1824,6 +1826,7 @@
       "snowy_coniferous_forest": "2024-12-14 19:22:41 +0000",
       "gravel_beach": "2024-12-14 19:10:13 +0000",
       "glowing_grotto": "2024-12-23 23:24:36 +0000",
+      "rainforest": "2024-12-26 21:48:31 +0000",
       "crag": "2024-12-14 19:47:22 +0000",
       "ominous_woods": "2024-12-14 20:32:01 +0000"
     },
@@ -4634,6 +4637,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_glowflower": "2024-12-26 21:52:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2024-12-26 21:44:57 +0000"
@@ -4643,6 +4652,42 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2024-12-26 21:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-26 21:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2024-12-26 21:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-26 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-26 21:52:36 +0000"
     },
     "done": true
   },
@@ -4685,6 +4730,12 @@
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2024-12-26 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_blue_hydrangea": "2024-12-26 21:53:23 +0000"
     },
     "done": true
   },
