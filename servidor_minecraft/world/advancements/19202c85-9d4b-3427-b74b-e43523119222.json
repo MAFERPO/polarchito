@@ -4656,9 +4656,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2024-12-26 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
     },
     "done": true
   },
@@ -4677,6 +4689,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-26 22:22:32 +0000"
     },
     "done": true
   },
@@ -4716,6 +4734,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 22:13:30 +0000"
@@ -4725,6 +4755,18 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2024-12-26 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
     },
     "done": true
   },
@@ -4746,6 +4788,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/cherry": {
     "criteria": {
       "has_wood": "2024-12-26 22:05:19 +0000"
@@ -4755,6 +4803,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-26 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
     },
     "done": true
   },
@@ -4791,6 +4845,12 @@
   "iceandfire:recipes/combat/tide_green_chestplate": {
     "criteria": {
       "has_item": "2024-12-26 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 22:28:29 +0000"
     },
     "done": true
   },
