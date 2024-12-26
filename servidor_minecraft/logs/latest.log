@@ -372,3 +372,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 22:07:15.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
 [26Dec2024 22:19:37.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
 [26Dec2024 22:24:29.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> what?
+[26Dec2024 22:36:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Voluntary Exile]
