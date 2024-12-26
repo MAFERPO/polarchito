@@ -362,3 +362,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 21:57:20.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
 [26Dec2024 21:57:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to mimy_pl]
 [26Dec2024 21:59:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[26Dec2024 22:01:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl was slain by Dread Hound
+[26Dec2024 22:01:40.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
+[26Dec2024 22:01:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[26Dec2024 22:02:30.013] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Dec2024 22:02:30.016] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Dec2024 22:03:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[26Dec2024 22:05:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[26Dec2024 22:07:15.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]

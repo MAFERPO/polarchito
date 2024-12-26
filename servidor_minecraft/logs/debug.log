@@ -5575,3 +5575,176 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 22:00:19.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 22:00:23.735] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
 [26Dec2024 22:00:23.929] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[26Dec2024 22:00:38.271] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_06 is being run through DFU (hash 63276fa78d533c2e166921682e7c5317ed145426273dbcff045c3f90f00150a1), this will cause launch time delays
+[26Dec2024 22:00:40.624] [Worker-Main-49/DEBUG] [ModernFix/]: Structure graveyard:haunted_house/downstairs_pool/haunted_house_downstairs is being run through DFU (hash e09a3a60ecbc31516424a24a955a61cb56bd4df114492fb499c293199a62fc81), this will cause launch time delays
+[26Dec2024 22:00:44.651] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[26Dec2024 22:00:51.884] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[26Dec2024 22:00:53.847] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_07 is being run through DFU (hash 767a5d86c479c452da0739030ae366937978b46a338baea6f743b3d64d68803a), this will cause launch time delays
+[26Dec2024 22:01:05.786] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_01 is being run through DFU (hash f1654765854fa332de1ee5ca1121166c19dcceb49cdf937a789033199835de49), this will cause launch time delays
+[26Dec2024 22:01:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl was slain by Dread Hound
+[26Dec2024 22:01:35.921] [Server thread/DEBUG] [twilightforest/]: Player mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539) respawned and received items held in storage
+[26Dec2024 22:01:36.591] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/medium_decorations is being run through DFU (hash 4eaf96652ffd077c56876f6a2765f9f36a19d5f3d4dddc0f2f5e42ed5fbe2244), this will cause launch time delays
+[26Dec2024 22:01:36.616] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/campsite is being run through DFU (hash 878161300074d11eb1fb71bab7a4fa1e706b9bf11c47d3725c497de6576c7ce1), this will cause launch time delays
+[26Dec2024 22:01:36.641] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/villager_cage is being run through DFU (hash 0a6cdf5b7c17e0f2ffe3f77bdd31ac259f57d7f502af44447c440e48c3937d43), this will cause launch time delays
+[26Dec2024 22:01:36.655] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/small_decorations is being run through DFU (hash 612506561292a8e174cde84c234d5520f09c1e1e15b05ded052ffaf7d1c6f568), this will cause launch time delays
+[26Dec2024 22:01:36.660] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/tent is being run through DFU (hash b284c55c656b42d667d13448ffae751a6b3f5b03989bbe7ba9fdc25f6c47e2e3), this will cause launch time delays
+[26Dec2024 22:01:36.690] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/shack is being run through DFU (hash 4e5246bc25a0d30cc1167da55cfdecdac0ce133c33cc314bcded0f983a7e35e2), this will cause launch time delays
+[26Dec2024 22:01:36.707] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/hay is being run through DFU (hash 99f6c3ebaf0dd784e245360cb43687bef96827a550604bb8069684e7fe07d207), this will cause launch time delays
+[26Dec2024 22:01:36.712] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/barrels is being run through DFU (hash cd73884748a85a3bacadeb0ab759765ca88c0555986e0cfee715a6684404d1a1), this will cause launch time delays
+[26Dec2024 22:01:36.718] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/targets is being run through DFU (hash 574e4895223108cdc5f545258d25a9e49224f850649594d05a559e18eea72ee7), this will cause launch time delays
+[26Dec2024 22:01:36.720] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/rock_1 is being run through DFU (hash 14976d2f4615d013937d9390fded5841b2648bb869dc6d70f6e6d4ace19282da), this will cause launch time delays
+[26Dec2024 22:01:36.722] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/rock_2 is being run through DFU (hash cb7c4373291aceb71485e2df507a100c8159ae7f5040cb48a93a2c374186a761), this will cause launch time delays
+[26Dec2024 22:01:36.723] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/potato is being run through DFU (hash 96eee7dcab41488e563dff6473fde64a510c1894eee988dbcb405e49aeb6995d), this will cause launch time delays
+[26Dec2024 22:01:36.725] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/tower is being run through DFU (hash a2ee1c76a286766d4c8f3655852123a4886bab2a1fa06c167b143f7c8af60018), this will cause launch time delays
+[26Dec2024 22:01:36.728] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/mobs is being run through DFU (hash 1eaf29fa0bb2716a7362b92685e2de91c85c70859ef697c4a828b1afed9c61cc), this will cause launch time delays
+[26Dec2024 22:01:36.736] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/iron_golem_cage is being run through DFU (hash 97731cf3901f94d603517a0397b3e6c602ff2b023262c948c98d852889deb387), this will cause launch time delays
+[26Dec2024 22:01:40.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
+[26Dec2024 22:01:45.111] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_03 is being run through DFU (hash 1834937b8d78c38af3aedfb2b34b67a6d141ad3147329358331659dfffa23172), this will cause launch time delays
+[26Dec2024 22:01:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[26Dec2024 22:02:29.997] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/staircase is being run through DFU (hash 3c0815a0bac672c8254edd4fac8774e53b46f25695e37f40eaf7929da85e30b9), this will cause launch time delays
+[26Dec2024 22:02:30.001] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/basement is being run through DFU (hash a0201551ff55bb5c6e98126314bcede86796000369b972ddfb597a9039f25ea6), this will cause launch time delays
+[26Dec2024 22:02:30.013] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Dec2024 22:02:30.014] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway is being run through DFU (hash 112e690566ac507d0e351955af59e8b028cd93963a29ff3e51feeb952701c0f8), this will cause launch time delays
+[26Dec2024 22:02:30.016] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Dec2024 22:02:30.017] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction is being run through DFU (hash df0e4ebe73d446b6af7e73e6d47b2a2003f0c38a0ac884625889eed4aa4aab3b), this will cause launch time delays
+[26Dec2024 22:02:30.019] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage is being run through DFU (hash 1d9302405e7a722df261d2baa708c379c318e5d34e4e4df847db212717775e79), this will cause launch time delays
+[26Dec2024 22:02:30.021] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks is being run through DFU (hash c3dd3a9638990ccef6d21bb9d4ba7a6da8ae8a095ee529b9b783e8548ce2dd1c), this will cause launch time delays
+[26Dec2024 22:02:30.025] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped is being run through DFU (hash 255ec8a4267f10f595c62bde654e0e64b9cd9130c56e9df90f8f712fe37cda35), this will cause launch time delays
+[26Dec2024 22:02:30.027] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack is being run through DFU (hash faeb48fce9997a048508c7dced1cde411fd6cfebb1152d2706c29ae79a6d9b0d), this will cause launch time delays
+[26Dec2024 22:02:30.031] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end is being run through DFU (hash 15b38ac94ad2d9e2e32b55c21612c45a3def8c98c5a1beb3a8ff1481617f2b07), this will cause launch time delays
+[26Dec2024 22:02:30.032] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage is being run through DFU (hash 8e26b498cd07c30cfb1f815977d24404de399f713931ce444d8a85aee5138a65), this will cause launch time delays
+[26Dec2024 22:02:30.035] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret is being run through DFU (hash daf24d8fe1943f83b857676b366e2b20c22fe646558228409eccdac21b0752fc), this will cause launch time delays
+[26Dec2024 22:02:30.038] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2 is being run through DFU (hash 04b6097ae405b90ce5f29101f28bb8c2ec28069b7581dc8d5feb1e18472ff455), this will cause launch time delays
+[26Dec2024 22:02:30.040] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening is being run through DFU (hash fb597bc343ece17eabf6350e005963175205e285d9b9bb72d6197a35eb300ec0), this will cause launch time delays
+[26Dec2024 22:02:30.042] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage is being run through DFU (hash 70f314b09ad5aca4f0b46a4af19fd0f5eb9c37695b1d17e9fb9abb174b2f1dff), this will cause launch time delays
+[26Dec2024 22:02:30.043] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell is being run through DFU (hash f0b4b0bc758aa76668a36d059d4a6f3e59676abfaa345bbc63c75d0481123131), this will cause launch time delays
+[26Dec2024 22:02:30.045] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn is being run through DFU (hash 1a98376213106f17a566433dd45f7c49572289fd15532acb67303f6686393d57), this will cause launch time delays
+[26Dec2024 22:02:30.047] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall is being run through DFU (hash 180fea8e3c781df8c55357596400aa3f4c9fa34410d2b006ea713bf5053af98c), this will cause launch time delays
+[26Dec2024 22:03:16.346] [Worker-Main-49/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_12 is being run through DFU (hash 352ddcf800ad0c963554150f024d28ec3c93539b8b738530f23ee3b5cbbaa339), this will cause launch time delays
+[26Dec2024 22:03:25.803] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:25.810] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:25.811] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1730, y=93, z=4372}
+[26Dec2024 22:03:25.812] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1743, y=93, z=4372}
+[26Dec2024 22:03:25.812] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1737, y=93, z=4359}
+[26Dec2024 22:03:25.817] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:25.821] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:25.831] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:25.833] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:25.834] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1750, y=93, z=4366}
+[26Dec2024 22:03:29.469] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:29.473] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:29.476] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1750, y=93, z=4366}
+[26Dec2024 22:03:30.370] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:30.375] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:30.394] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:30.400] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1741, y=107, z=4384}
+[26Dec2024 22:03:30.400] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:30.404] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1730, y=93, z=4372}
+[26Dec2024 22:03:30.404] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1743, y=93, z=4372}
+[26Dec2024 22:03:30.404] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1743, y=93, z=4379}
+[26Dec2024 22:03:31.352] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:31.356] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:31.363] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:31.365] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1741, y=107, z=4384}
+[26Dec2024 22:03:31.365] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:31.372] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1744, y=112, z=4352}
+[26Dec2024 22:03:31.373] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1721, y=100, z=4389}
+[26Dec2024 22:03:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[26Dec2024 22:03:59.624] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_02 is being run through DFU (hash a5366fae0c3157f85b576090ebed772608ba18ee8ebfeb6bc41458e176a8b60b), this will cause launch time delays
+[26Dec2024 22:04:33.180] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_tee_2 is being run through DFU (hash ddc035e32a14d18c922540490b5bfcebf9b2e259761be12fbdea81585f215a23), this will cause launch time delays
+[26Dec2024 22:04:33.186] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[26Dec2024 22:04:33.187] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[26Dec2024 22:04:33.188] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[26Dec2024 22:04:33.189] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[26Dec2024 22:04:33.191] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[26Dec2024 22:04:33.194] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[26Dec2024 22:04:33.195] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[26Dec2024 22:04:33.196] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[26Dec2024 22:04:33.196] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_room_wall is being run through DFU (hash fa6752c910b6419f7e91fb9ac6d0b60e7eac0bf7151df2da07b76d11d01b41ff), this will cause launch time delays
+[26Dec2024 22:04:33.200] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_pitfall is being run through DFU (hash d5ba426cfcd818119f431d16cd3909b73fb128dd7f7bbb873e063abef0a334b9), this will cause launch time delays
+[26Dec2024 22:04:33.241] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[26Dec2024 22:04:33.242] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[26Dec2024 22:04:33.243] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_1 is being run through DFU (hash c6f77167dc5ad017f105d8d648e3d901f817e0a407f7684700be61accc774a88), this will cause launch time delays
+[26Dec2024 22:04:33.271] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[26Dec2024 22:04:33.271] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[26Dec2024 22:04:33.273] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/ravager_prison is being run through DFU (hash 8beed8211af18c58fa3143832d111e7f4d2cb8fd28c6046dbd93078640bcd0e4), this will cause launch time delays
+[26Dec2024 22:04:33.285] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_spawner_1 is being run through DFU (hash 50e33a4b9356a0698f4cb9cf6a75e2eb81fe38aca765c982e2d1afb9adfc75f3), this will cause launch time delays
+[26Dec2024 22:04:33.289] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/double_storage is being run through DFU (hash f7e8db79a930a748736e118e2ca1cca0e4f7901e6f526a4c2a2673611486fc01), this will cause launch time delays
+[26Dec2024 22:04:33.300] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_2 is being run through DFU (hash 3c9ef6a50d571cbbf2236fe8328b67270fcf28177a0c23535170ac434a07bb63), this will cause launch time delays
+[26Dec2024 22:04:33.310] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[26Dec2024 22:04:33.312] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/armorstand is being run through DFU (hash 80daf3838bde3ca4d4b922380caee4a9ed02a98623b6c507d83bf9aac282ec8e), this will cause launch time delays
+[26Dec2024 22:04:33.318] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_2 is being run through DFU (hash cd2c82202236fa12a230a3e1ea4e23bb934b80cdafb27c699483921ca2acf980), this will cause launch time delays
+[26Dec2024 22:04:33.325] [Worker-Main-49/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/boiler is being run through DFU (hash c10eb28f7ca575fda9e31f21e8a24942fc3d99c04e86cee1f70f42c0af38320c), this will cause launch time delays
+[26Dec2024 22:04:33.329] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[26Dec2024 22:04:33.330] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[26Dec2024 22:04:39.987] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:40.018] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:40.118] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:40.459] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:40.494] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:40.508] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:40.512] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2626, y=5, z=4813}
+[26Dec2024 22:04:40.513] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2637, y=5, z=4814}
+[26Dec2024 22:04:40.513] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2627, y=5, z=4808}
+[26Dec2024 22:04:40.739] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2637, y=5, z=4814}
+[26Dec2024 22:04:41.111] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4771}
+[26Dec2024 22:04:41.111] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2640, y=18, z=4763}
+[26Dec2024 22:04:41.111] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4755}
+[26Dec2024 22:04:41.112] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2650, y=18, z=4764}
+[26Dec2024 22:04:41.113] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2640, y=18, z=4758}
+[26Dec2024 22:04:41.116] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:41.119] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4771}
+[26Dec2024 22:04:41.120] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2650, y=18, z=4764}
+[26Dec2024 22:04:41.120] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2652, y=18, z=4770}
+[26Dec2024 22:04:41.154] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:41.262] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:41.265] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2644, y=5, z=4801}
+[26Dec2024 22:04:41.266] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2626, y=5, z=4813}
+[26Dec2024 22:04:41.269] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4755}
+[26Dec2024 22:04:41.961] [Worker-Main-1/DEBUG] [ModernFix/]: Structure iceandfire:village/plains_scriber_1 is being run through DFU (hash 76a607dd4093491f52ecde52887eafe16741dcdeacbe41d03515821e3ebfb9df), this will cause launch time delays
+[26Dec2024 22:04:42.020] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house is being run through DFU (hash d76810475d0e95759e3aba14294cb4faa0f372ebdd371e669f8740fcad373d48), this will cause launch time delays
+[26Dec2024 22:04:42.041] [Worker-Main-1/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[26Dec2024 22:04:42.376] [Worker-Main-1/DEBUG] [ModernFix/]: Structure beautify:botanist_house_plains is being run through DFU (hash edb02d155e35b6f7cfe44a7c1e2909bb24d10ccb0452c6415f7d4533c75e6734), this will cause launch time delays
+[26Dec2024 22:04:44.946] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:44.949] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2644, y=5, z=4801}
+[26Dec2024 22:04:44.953] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:44.959] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:44.963] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4771}
+[26Dec2024 22:04:44.963] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2658, y=18, z=4771}
+[26Dec2024 22:04:44.966] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4771}
+[26Dec2024 22:04:44.967] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2658, y=18, z=4771}
+[26Dec2024 22:04:44.967] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2665, y=5, z=4740}
+[26Dec2024 22:04:44.968] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2640, y=18, z=4763}
+[26Dec2024 22:04:44.968] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4755}
+[26Dec2024 22:04:45.113] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2665, y=5, z=4740}
+[26Dec2024 22:04:45.114] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=5, z=4755}
+[26Dec2024 22:04:45.401] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=5, z=4775}
+[26Dec2024 22:04:45.401] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4770}
+[26Dec2024 22:04:45.401] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2690, y=5, z=4746}
+[26Dec2024 22:04:45.406] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:45.409] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=5, z=4776}
+[26Dec2024 22:04:45.409] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=5, z=4775}
+[26Dec2024 22:04:45.410] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4770}
+[26Dec2024 22:04:45.474] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:45.479] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=5, z=4776}
+[26Dec2024 22:04:45.480] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2674, y=5, z=4797}
+[26Dec2024 22:04:45.481] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=12, z=4807}
+[26Dec2024 22:04:45.487] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=5, z=4800}
+[26Dec2024 22:04:45.491] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2674, y=5, z=4797}
+[26Dec2024 22:04:45.493] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=12, z=4807}
+[26Dec2024 22:04:45.712] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2689, y=5, z=4741}
+[26Dec2024 22:04:45.713] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2678, y=5, z=4740}
+[26Dec2024 22:04:45.714] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2690, y=5, z=4746}
+[26Dec2024 22:04:45.759] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2678, y=5, z=4740}
+[26Dec2024 22:04:46.072] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2690, y=5, z=4746}
+[26Dec2024 22:04:46.098] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2689, y=5, z=4741}
+[26Dec2024 22:04:46.099] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2678, y=5, z=4740}
+[26Dec2024 22:04:46.099] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2690, y=5, z=4746}
+[26Dec2024 22:04:46.294] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2678, y=5, z=4740}
+[26Dec2024 22:04:50.465] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_04 is being run through DFU (hash 91b7ce066ce4c2b0e2dd5a3896b22f4df5997c711f02b0cbe321f946ed80070f), this will cause launch time delays
+[26Dec2024 22:05:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[26Dec2024 22:05:19.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 22:05:19.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 22:07:15.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[26Dec2024 22:10:19.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 22:10:19.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
