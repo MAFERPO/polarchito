@@ -319,3 +319,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 20:34:49.187] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e048b83[id=<null>,name=Maufer772,properties={},legacy=false] (/127.222.194.248:52879) lost connection: Took too long to log in
 [26Dec2024 20:34:49.234] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [26Dec2024 20:37:23.934] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43065597[id=<null>,name=Maufer772,properties={},legacy=false] (/127.222.194.248:58199) lost connection: Timed out
+[26Dec2024 20:41:06.433] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d0f0a82[id=<null>,name=Maufer772,properties={},legacy=false] (/127.222.194.248:53049) lost connection: Timed out
+[26Dec2024 20:44:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[26Dec2024 20:44:51.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[26Dec2024 20:44:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
