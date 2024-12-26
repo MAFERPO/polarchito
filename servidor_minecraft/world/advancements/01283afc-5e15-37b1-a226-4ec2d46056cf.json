@@ -1422,6 +1422,7 @@
       "highland": "2024-12-14 19:42:01 +0000",
       "jacaranda_glade": "2024-12-15 00:05:32 +0000",
       "mystic_grove": "2024-12-16 23:46:00 +0000",
+      "cold_desert": "2024-12-26 18:25:40 +0000",
       "maple_woods": "2024-12-14 19:40:12 +0000",
       "field": "2024-12-14 19:35:46 +0000",
       "orchard": "2024-12-15 00:23:50 +0000",
@@ -3864,27 +3865,9 @@
     },
     "done": true
   },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_taiga": "2024-12-26 03:11:03 +0000"
-    },
-    "done": false
-  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-26 02:57:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-26 03:25:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-26 03:25:33 +0000"
     },
     "done": true
   },
@@ -3897,6 +3880,24 @@
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-12-26 02:57:36 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_taiga": "2024-12-26 03:11:03 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 03:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 03:25:33 +0000"
     },
     "done": true
   },
