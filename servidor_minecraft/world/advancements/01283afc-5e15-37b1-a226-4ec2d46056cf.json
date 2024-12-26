@@ -3864,6 +3864,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_taiga": "2024-12-26 03:11:03 +0000"
+    },
+    "done": false
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-26 02:57:36 +0000"
