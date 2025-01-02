@@ -4455,5 +4455,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-02 21:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-02 21:22:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -2521,7 +2521,8 @@
       "minecraft:wither_skeleton": "2025-01-01 23:09:13 +0000",
       "minecraft:cave_spider": "2024-12-17 02:40:34 +0000",
       "minecraft:enderman": "2024-12-17 02:16:06 +0000",
-      "minecraft:zombie": "2024-12-23 03:16:11 +0000"
+      "minecraft:zombie": "2024-12-23 03:16:11 +0000",
+      "minecraft:zombie_villager": "2025-01-02 21:33:50 +0000"
     },
     "done": false
   },
@@ -5702,6 +5703,24 @@
   "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-02 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-02 21:32:07 +0000"
+    },
+    "done": true
+  },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2025-01-02 21:28:19 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2025-01-02 21:28:19 +0000"
     },
     "done": true
   },
