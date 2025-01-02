@@ -372,3 +372,10 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [02Jan2025 21:34:51.690] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [02Jan2025 21:35:43.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
 [02Jan2025 21:35:43.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[02Jan2025 21:42:31.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1148, y=68, z=1116} BlockPos{x=-1150, y=68, z=1115}
+[02Jan2025 21:42:31.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1148, y=68, z=1116} BlockPos{x=-1150, y=68, z=1115}
+[02Jan2025 21:44:06.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[02Jan2025 21:45:18.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.251.132.42:60027] logged in with entity id 8272 at (-1128.341554819706, 67.0, 1136.8080736434129)
+[02Jan2025 21:45:18.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[02Jan2025 21:45:18.492] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[02Jan2025 21:49:14.840] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c4eb5e3[id=<null>,name=JAUZAMETT,properties={},legacy=false] (/127.91.106.172:39129) lost connection: Timed out

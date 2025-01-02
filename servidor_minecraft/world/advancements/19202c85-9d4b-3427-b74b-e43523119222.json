@@ -5706,6 +5706,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-01-02 21:42:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-01-02 21:32:07 +0000"
