@@ -537,3 +537,19 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [02Jan2025 23:18:53.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/65621, l='ServerLevel[world]', x=-713.28, y=77.00, z=4324.63] died, message: 'Unemployed suffocated in a wall'
 [02Jan2025 23:19:40.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
 [02Jan2025 23:22:34.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1322, y=68, z=1418} BlockPos{x=-1324, y=66, z=1418}
+[02Jan2025 23:23:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[02Jan2025 23:24:36.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -4.147196294803848,5.999966430969067,6.989699717738404
+[02Jan2025 23:24:36.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -1.4576897751351225,0.8787031594607981,9.879755446884701
+[02Jan2025 23:24:36.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[02Jan2025 23:24:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[02Jan2025 23:24:47.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Disconnected
+[02Jan2025 23:24:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[02Jan2025 23:25:40.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[02Jan2025 23:25:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 13000]
+[02Jan2025 23:26:17.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[02Jan2025 23:27:01.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [A Seedy Place]
+[02Jan2025 23:27:45.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[02Jan2025 23:28:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[02Jan2025 23:29:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[02Jan2025 23:33:42.459] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[02Jan2025 23:33:43.657] [Server thread/INFO] [naturescompass/]: Search succeeded: 4661 radius, 5563 samples
