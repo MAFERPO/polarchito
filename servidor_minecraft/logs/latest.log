@@ -472,3 +472,46 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [02Jan2025 22:42:20.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
 [02Jan2025 22:42:24.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Timed out
 [02Jan2025 22:42:24.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[02Jan2025 22:42:52.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed by Necromancer's magic missile
+[02Jan2025 22:43:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[02Jan2025 22:43:39.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[02Jan2025 22:44:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set spawn point to -1472, 106, 1297 [0.0] in minecraft:overworld for 3 players]
+[02Jan2025 22:45:08.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Maufer772]
+[02Jan2025 22:45:23.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[02Jan2025 22:45:30.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.254.110.26:59569] logged in with entity id 38151 at (-1154.9617877440242, 69.0, 1131.1524774061847)
+[02Jan2025 22:45:30.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[02Jan2025 22:45:30.667] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[02Jan2025 22:46:33.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has reached the goal [Big Boy]
+[02Jan2025 22:46:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:46:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:46:59.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:47:05.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Enchanter]
+[02Jan2025 22:47:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:47:13.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:47:21.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:47:29.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:47:29.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Enchanter]
+[02Jan2025 22:47:34.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:47:39.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[02Jan2025 22:47:42.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
+[02Jan2025 22:47:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> Xd
+[02Jan2025 22:48:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[02Jan2025 22:49:21.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to mimy_pl]
+[02Jan2025 22:50:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Hanging Tree]
+[02Jan2025 22:52:40.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> duermas putas
+[02Jan2025 22:52:48.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> JAS un barra kill le hara reflexionar
+[02Jan2025 22:52:52.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mimy_pl> D:
+[02Jan2025 22:54:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> duermanse
+[02Jan2025 22:55:03.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Maufer772 to Topy_16]
+[02Jan2025 22:55:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> o los duermo
+[02Jan2025 22:55:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported mimy_pl to Topy_16]
+[02Jan2025 22:55:25.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> (no tiene ni espada)
+[02Jan2025 22:57:23.598] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1098, y=8, z=715}
+[02Jan2025 22:58:11.471] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1166, y=-16, z=653}
+[02Jan2025 22:58:11.472] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1167, y=-16, z=653}
+[02Jan2025 23:00:06.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Jan2025 23:01:06.706] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 23:01:06.707] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 23:01:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Ice Bucket Challenge]
+[02Jan2025 23:01:24.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1333, y=66, z=1425} BlockPos{x=-1332, y=65, z=1425}
+[02Jan2025 23:01:34.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1330, y=66, z=1426} BlockPos{x=-1330, y=65, z=1426}

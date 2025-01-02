@@ -68,6 +68,7 @@
       "minecraft:cherry_grove": "2024-12-15 00:03:59 +0000",
       "minecraft:sunflower_plains": "2024-12-15 01:10:31 +0000",
       "minecraft:birch_forest": "2024-12-14 18:32:39 +0000",
+      "minecraft:windswept_hills": "2025-01-02 22:58:27 +0000",
       "minecraft:beach": "2024-12-14 18:32:59 +0000",
       "minecraft:river": "2024-12-14 19:10:04 +0000",
       "minecraft:snowy_plains": "2024-12-14 19:22:35 +0000",
@@ -1136,6 +1137,7 @@
       "baked_potato": "2024-12-16 23:51:30 +0000",
       "beef": "2024-12-16 23:43:00 +0000",
       "porkchop": "2024-12-14 20:24:19 +0000",
+      "apple": "2025-01-02 22:45:57 +0000",
       "mutton": "2024-12-14 20:04:32 +0000",
       "bread": "2024-12-14 19:15:03 +0000",
       "golden_apple": "2024-12-23 23:39:37 +0000",
@@ -4470,9 +4472,27 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-01-02 22:42:51 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-01-02 22:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-02 23:01:14 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-01-02 22:50:12 +0000"
     },
     "done": true
   },
@@ -4491,6 +4511,12 @@
   "jeg:scrap": {
     "criteria": {
       "Item": "2025-01-02 22:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 23:01:14 +0000"
     },
     "done": true
   },
