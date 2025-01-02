@@ -515,3 +515,25 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [02Jan2025 23:01:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Ice Bucket Challenge]
 [02Jan2025 23:01:24.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1333, y=66, z=1425} BlockPos{x=-1332, y=65, z=1425}
 [02Jan2025 23:01:34.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1330, y=66, z=1426} BlockPos{x=-1330, y=65, z=1426}
+[02Jan2025 23:04:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [The Parrots and the Bats]
+[02Jan2025 23:06:09.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> You shouldn't be here.
+[02Jan2025 23:06:11.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[02Jan2025 23:06:11.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I am to succumb to this infection soon.
+[02Jan2025 23:08:18.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Not Today, Thank You]
+[02Jan2025 23:10:18.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported mimy_pl to Topy_16]
+[02Jan2025 23:11:16.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl moved too quickly! -8.252213560480413,2.127890238205481,-5.3216460735498
+[02Jan2025 23:11:33.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Timed out
+[02Jan2025 23:11:33.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[02Jan2025 23:12:03.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.254.110.26:47449] logged in with entity id 58922 at (-1141.8822600632002, 67.16610926093821, 1108.8979074866302)
+[02Jan2025 23:12:03.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[02Jan2025 23:12:03.946] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[02Jan2025 23:12:14.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl lost connection: Disconnected
+[02Jan2025 23:12:14.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl left the game
+[02Jan2025 23:13:46.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mimy_pl[/127.254.110.26:33849] logged in with entity id 60931 at (-1141.8822600632002, 66.0, 1108.8979074866302)
+[02Jan2025 23:13:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl joined the game
+[02Jan2025 23:13:46.972] [Server thread/INFO] [Jade/]: Syncing config to mimy_pl (1f3c2981-9a91-3e2d-8047-2da49bb5d539)
+[02Jan2025 23:15:22.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[02Jan2025 23:17:05.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported mimy_pl to Topy_16]
+[02Jan2025 23:18:53.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/65621, l='ServerLevel[world]', x=-713.28, y=77.00, z=4324.63] died, message: 'Unemployed suffocated in a wall'
+[02Jan2025 23:19:40.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[02Jan2025 23:22:34.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1322, y=68, z=1418} BlockPos{x=-1324, y=66, z=1418}
