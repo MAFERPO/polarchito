@@ -1141,7 +1141,8 @@
       "rotten_flesh": "2024-12-23 21:47:24 +0000",
       "glow_berries": "2024-12-17 02:59:45 +0000",
       "salmon": "2024-12-14 19:34:22 +0000",
-      "cod": "2024-12-14 19:51:00 +0000"
+      "cod": "2024-12-14 19:51:00 +0000",
+      "carrot": "2025-01-02 21:50:45 +0000"
     },
     "done": false
   },
@@ -4464,6 +4465,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-02 21:23:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-01-02 21:54:00 +0000"
     },
     "done": true
   },

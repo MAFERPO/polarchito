@@ -5507,3 +5507,117 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [02Jan2025 21:48:46.889] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 41
 [02Jan2025 21:48:46.938] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 42
 [02Jan2025 21:49:14.840] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c4eb5e3[id=<null>,name=JAUZAMETT,properties={},legacy=false] (/127.91.106.172:39129) lost connection: Timed out
+[02Jan2025 21:52:10.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:52:10.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:52:21.097] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 43 messages to dispatch.
+[02Jan2025 21:52:21.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[02Jan2025 21:52:21.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[02Jan2025 21:52:21.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 2
+[02Jan2025 21:52:21.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 3
+[02Jan2025 21:52:21.343] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 4
+[02Jan2025 21:52:21.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 5
+[02Jan2025 21:52:21.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[02Jan2025 21:52:21.490] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[02Jan2025 21:52:21.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[02Jan2025 21:52:21.590] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[02Jan2025 21:52:21.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 10
+[02Jan2025 21:52:21.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 11
+[02Jan2025 21:52:21.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[02Jan2025 21:52:21.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry slashblade:combo_state' to 'fml:handshake' sequence 13
+[02Jan2025 21:52:21.840] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 14
+[02Jan2025 21:52:21.894] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[02Jan2025 21:52:21.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[02Jan2025 21:52:21.990] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 17
+[02Jan2025 21:52:22.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 18
+[02Jan2025 21:52:22.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 19
+[02Jan2025 21:52:22.145] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 20
+[02Jan2025 21:52:22.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 21
+[02Jan2025 21:52:22.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 22
+[02Jan2025 21:52:22.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 23
+[02Jan2025 21:52:22.344] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 24
+[02Jan2025 21:52:22.394] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 25
+[02Jan2025 21:52:22.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry slashblade:special_effect' to 'fml:handshake' sequence 26
+[02Jan2025 21:52:22.492] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 27
+[02Jan2025 21:52:22.542] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 28
+[02Jan2025 21:52:22.597] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry slashblade:slash_arts' to 'fml:handshake' sequence 29
+[02Jan2025 21:52:22.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 30
+[02Jan2025 21:52:22.695] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 31
+[02Jan2025 21:52:22.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 32
+[02Jan2025 21:52:22.792] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 33
+[02Jan2025 21:52:22.840] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 34
+[02Jan2025 21:52:22.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 35
+[02Jan2025 21:52:22.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 36
+[02Jan2025 21:52:22.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 37
+[02Jan2025 21:52:23.042] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 38
+[02Jan2025 21:52:23.094] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 39
+[02Jan2025 21:52:23.140] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config beautify-server.toml' to 'fml:handshake' sequence 40
+[02Jan2025 21:52:23.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 41
+[02Jan2025 21:52:23.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 42
+[02Jan2025 21:52:51.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@367270b8[id=<null>,name=JAUZAMETT,properties={},legacy=false] (/127.91.106.172:55073) lost connection: Timed out
+[02Jan2025 21:53:14.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[02Jan2025 21:54:10.679] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[02Jan2025 21:54:10.684] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[02Jan2025 21:54:10.695] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[02Jan2025 21:54:13.845] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for Topy_16 at BlockPos{x=-9185, y=4, z=9307}
+[02Jan2025 21:54:14.110] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:54:14.125] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:54:14.126] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1149, y=68, z=1125}
+[02Jan2025 21:54:14.126] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1149, y=68, z=1126}
+[02Jan2025 21:54:14.126] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1148, y=68, z=1125}
+[02Jan2025 21:54:14.126] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:54:15.629] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:54:15.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4974ms or 99 ticks behind
+[02Jan2025 21:54:15.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8035.046276723891,-63.92159999847412,8181.006993215593
+[02Jan2025 21:54:33.945] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:54:35.155] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:54:36.040] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:55:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Best Friends Forever]
+[02Jan2025 21:55:54.292] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:55:54.355] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[02Jan2025 21:55:54.420] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[02Jan2025 21:55:54.441] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[02Jan2025 21:55:54.561] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[02Jan2025 21:55:55.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[02Jan2025 21:55:55.826] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[02Jan2025 21:55:55.945] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[02Jan2025 21:55:56.635] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[02Jan2025 21:55:56.877] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Jan2025 21:55:56.992] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[02Jan2025 21:55:57.321] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[02Jan2025 21:55:57.555] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[02Jan2025 21:55:57.683] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[02Jan2025 21:55:57.721] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[02Jan2025 21:56:00.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6281ms or 125 ticks behind
+[02Jan2025 21:56:15.031] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:56:15.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 8035.896339067454,64.07840000152588,-8183.8703871132875
+[02Jan2025 21:56:16.489] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[02Jan2025 21:56:17.405] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[02Jan2025 21:56:18.793] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[02Jan2025 21:56:18.903] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:56:19.107] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_plains
+[02Jan2025 21:56:19.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl moved too quickly! 8035.90048275041,64.07840000152588,-8183.07552235571
+[02Jan2025 21:56:19.186] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[02Jan2025 21:56:19.302] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[02Jan2025 21:56:44.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> el perrito ttien que lanzarse tambien
+[02Jan2025 21:56:48.089] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:56:50.604] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:56:55.892] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:56:57.458] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:57:11.890] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:57:13.708] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:57:14.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl moved too quickly! 8035.528574335882,64.05661124052122,-8183.192434285709
+[02Jan2025 21:57:14.483] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[02Jan2025 21:57:17.733] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:57:21.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:57:21.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:57:27.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[02Jan2025 21:57:29.398] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:57:31.356] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:57:31.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mimy_pl moved too quickly! 8035.178214816195,64.05661124052122,-8182.952089439044
+[02Jan2025 21:57:39.642] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:57:40.752] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[02Jan2025 21:57:46.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[02Jan2025 21:57:55.252] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[02Jan2025 21:58:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[02Jan2025 21:58:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to mimy_pl]
+[02Jan2025 22:01:04.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mimy_pl has made the advancement [Cover Me with Diamonds]

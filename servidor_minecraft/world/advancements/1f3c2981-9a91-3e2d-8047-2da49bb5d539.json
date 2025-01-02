@@ -3154,5 +3154,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-02 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-02 21:54:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
