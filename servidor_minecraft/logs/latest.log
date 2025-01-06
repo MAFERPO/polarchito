@@ -401,3 +401,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 22:10:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Exorcism]
 [06Jan2025 22:11:03.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
 [06Jan2025 22:13:16.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 22:13:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was shot by Skeleton
+[06Jan2025 22:13:58.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[06Jan2025 22:13:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[06Jan2025 22:13:59.008] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jan2025 22:13:59.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.61.0.68:38341] logged in with entity id 27057 at (-966.0838818938039, 0.17675927506423733, 1201.8841802187667)
+[06Jan2025 22:13:59.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[06Jan2025 22:13:59.081] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[06Jan2025 22:14:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[06Jan2025 22:14:49.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[06Jan2025 22:16:42.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.34.73.39:51705] logged in with entity id 27709 at (-1320.6882026003777, 67.0, 1447.7147707952613)
+[06Jan2025 22:16:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[06Jan2025 22:16:42.129] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[06Jan2025 22:16:49.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[06Jan2025 22:16:52.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[06Jan2025 22:16:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[06Jan2025 22:17:21.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Zombie
+[06Jan2025 22:17:25.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Disconnected
+[06Jan2025 22:17:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
+[06Jan2025 22:17:32.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[06Jan2025 22:17:32.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[06Jan2025 22:19:08.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.61.0.68:53463] logged in with entity id 28513 at (-960.6250650331709, -8.0, 1185.5249615745133)
+[06Jan2025 22:19:08.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[06Jan2025 22:19:08.037] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[06Jan2025 22:19:27.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 22:19:50.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
