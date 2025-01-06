@@ -351,3 +351,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:31:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was shot by Skeleton
 [06Jan2025 21:31:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Not Today, Thank You]
 [06Jan2025 21:31:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was shot by Skeleton
+[06Jan2025 21:34:06.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Zombie
+[06Jan2025 21:35:22.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to JAUZAMETT]
+[06Jan2025 21:35:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[06Jan2025 21:41:09.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
