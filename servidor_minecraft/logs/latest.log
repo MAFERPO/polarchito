@@ -346,3 +346,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:19:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
 [06Jan2025 21:19:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
 [06Jan2025 21:21:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[06Jan2025 21:28:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT fell from a high place
+[06Jan2025 21:29:09.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT fell from a high place
+[06Jan2025 21:31:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was shot by Skeleton
+[06Jan2025 21:31:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Not Today, Thank You]
+[06Jan2025 21:31:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was shot by Skeleton
