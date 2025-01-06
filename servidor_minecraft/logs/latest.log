@@ -387,3 +387,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:57:06.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
 [06Jan2025 21:57:06.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
 [06Jan2025 22:02:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
+[06Jan2025 22:04:04.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was blown up by Skeleton Creeper
+[06Jan2025 22:04:04.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[06Jan2025 22:04:15.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 22:05:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was doomed to fall
+[06Jan2025 22:05:21.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 22:05:46.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was shot by Skeleton
+[06Jan2025 22:05:52.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 22:06:11.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 22:07:27.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Tools of the Trade]
+[06Jan2025 22:08:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
+[06Jan2025 22:09:16.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Alex's Caves]
+[06Jan2025 22:10:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Exorcism]
+[06Jan2025 22:11:03.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[06Jan2025 22:13:16.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
