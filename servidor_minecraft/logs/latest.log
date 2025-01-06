@@ -547,3 +547,74 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 23:34:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [06Jan2025 23:34:11.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
 [06Jan2025 23:34:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[06Jan2025 23:35:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was eviscerated by The Dead King's vexes
+[06Jan2025 23:35:19.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:35:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:35:32.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:35:44.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[06Jan2025 23:35:47.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:36:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:36:14.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:36:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:36:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:36:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:36:51.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:36:52.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:36:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:36:59.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[06Jan2025 23:37:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:37:06.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has completed the challenge [Premium!]
+[06Jan2025 23:37:06.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [No Longer Short-Staffed]
+[06Jan2025 23:37:06.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has completed the challenge [Staff of Blood]
+[06Jan2025 23:37:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:38:01.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [No Longer Short-Staffed]
+[06Jan2025 23:38:01.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has completed the challenge [Staff of Blood]
+[06Jan2025 23:38:10.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 23:38:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:38:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Cave Dweller
+[06Jan2025 23:38:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:39:08.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 23:39:13.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:39:18.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was blasted by The Dead King
+[06Jan2025 23:39:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by The Dead King
+[06Jan2025 23:39:38.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 23:39:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Cover Me with Diamonds]
+[06Jan2025 23:39:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Ice Bucket Challenge]
+[06Jan2025 23:39:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Hot Stuff]
+[06Jan2025 23:39:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has completed the challenge [Premium!]
+[06Jan2025 23:39:56.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 23:40:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:40:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[06Jan2025 23:40:40.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[06Jan2025 23:41:17.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Bone Imp
+[06Jan2025 23:41:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Bone Imp
+[06Jan2025 23:41:41.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed
+[06Jan2025 23:41:41.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:42:06.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed
+[06Jan2025 23:42:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:42:10.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has completed the challenge [Premium!]
+[06Jan2025 23:42:14.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed
+[06Jan2025 23:42:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:42:14.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[06Jan2025 23:42:14.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[06Jan2025 23:42:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by JAUZAMETT
+[06Jan2025 23:42:23.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed
+[06Jan2025 23:42:23.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:42:31.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed
+[06Jan2025 23:42:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:42:38.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed
+[06Jan2025 23:42:38.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:42:46.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Topy_16
+[06Jan2025 23:42:55.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed
+[06Jan2025 23:42:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:43:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was killed whilst fighting Topy_16
+[06Jan2025 23:43:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Killed JAUZAMETT]
+[06Jan2025 23:43:10.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Disconnected
+[06Jan2025 23:43:10.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
+[06Jan2025 23:43:31.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.34.73.39:38121] logged in with entity id 36604 at (-1099.7027923187516, -32.9375, 1354.237500011921)
+[06Jan2025 23:43:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[06Jan2025 23:43:31.450] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[06Jan2025 23:43:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:43:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:44:06.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[06Jan2025 23:44:46.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]

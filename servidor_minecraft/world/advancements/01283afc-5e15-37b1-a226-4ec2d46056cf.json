@@ -4649,6 +4649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-06 22:54:14 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/enter_catacombs": {
     "criteria": {
       "in_catacombs": "2025-01-06 22:58:33 +0000"
@@ -4661,9 +4667,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-01-06 22:54:14 +0000"
+      "requirement": "2025-01-06 23:38:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-01-06 23:38:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-01-06 23:42:10 +0000"
     },
     "done": true
   },
