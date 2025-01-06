@@ -5548,3 +5548,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 23:12:39.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [06Jan2025 23:12:45.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
 [06Jan2025 23:13:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:14:57.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 23:14:57.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:16:09.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:16:14.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:16:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:16:24.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:16:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:16:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:16:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:17:24.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:17:25.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Dungeon Delving]
+[06Jan2025 23:17:56.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:18:24.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:19:16.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:19:40.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 23:19:46.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:19:52.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
+[06Jan2025 23:19:54.187] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1099, y=8, z=715}
+[06Jan2025 23:19:54.187] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1098, y=8, z=715}
+[06Jan2025 23:19:56.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:19:57.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 23:19:57.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:20:04.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[06Jan2025 23:20:04.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[06Jan2025 23:20:04.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[06Jan2025 23:20:04.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[06Jan2025 23:20:04.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[06Jan2025 23:20:06.879] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1166, y=-16, z=653}
+[06Jan2025 23:21:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:21:48.222] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-482, y=-39, z=1258}
+[06Jan2025 23:22:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was shot by Skeleton
+[06Jan2025 23:22:05.839] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[06Jan2025 23:22:37.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 7.926390172191191,-3.3716331880620363,-5.8210332118574115
+[06Jan2025 23:22:48.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 23:23:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 23:23:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:23:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[06Jan2025 23:24:27.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:24:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[06Jan2025 23:24:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]

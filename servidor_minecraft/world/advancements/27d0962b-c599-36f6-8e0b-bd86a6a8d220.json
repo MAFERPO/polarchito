@@ -2012,6 +2012,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-06 23:11:12 +0000",
+      "minecraft:nether_wastes": "2025-01-06 23:11:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-06 22:55:33 +0000"
@@ -2744,6 +2751,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-06 23:11:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_planks": "2025-01-06 22:55:33 +0000"
@@ -3017,6 +3030,12 @@
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-01-06 22:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-06 23:11:00 +0000"
     },
     "done": true
   },
