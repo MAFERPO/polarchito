@@ -6399,5 +6399,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-06 22:52:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
