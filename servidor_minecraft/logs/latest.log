@@ -374,3 +374,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:50:23.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Spiders Mother
 [06Jan2025 21:51:31.182] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
 [06Jan2025 21:52:39.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Cave Dweller
+[06Jan2025 21:53:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> duermete o te uermo
+[06Jan2025 21:54:00.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.34.73.39:48809] logged in with entity id 20503 at (-1320.6882026003777, 67.0, 1447.7147707952613)
+[06Jan2025 21:54:00.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[06Jan2025 21:54:00.363] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[06Jan2025 21:54:05.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[06Jan2025 21:54:05.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[06Jan2025 21:56:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[06Jan2025 21:56:56.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.34.73.39:55939] logged in with entity id 22070 at (-1320.6882026003777, 67.0, 1447.7147707952613)
+[06Jan2025 21:56:56.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[06Jan2025 21:56:56.373] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[06Jan2025 21:57:06.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[06Jan2025 21:57:06.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[06Jan2025 22:02:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
