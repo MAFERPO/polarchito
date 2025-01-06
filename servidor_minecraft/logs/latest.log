@@ -355,3 +355,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:35:22.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to JAUZAMETT]
 [06Jan2025 21:35:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
 [06Jan2025 21:41:09.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[06Jan2025 21:42:53.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[06Jan2025 21:42:53.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[06Jan2025 21:44:02.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was blown up by Creeper
+[06Jan2025 21:44:07.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.34.73.39:36639] logged in with entity id 15780 at (-1320.6882026003777, 67.0, 1447.7147707952613)
+[06Jan2025 21:44:07.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[06Jan2025 21:44:07.808] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[06Jan2025 21:44:19.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[06Jan2025 21:44:19.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[06Jan2025 21:46:49.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.34.73.39:56659] logged in with entity id 17187 at (-1320.6882026003777, 67.0, 1447.7147707952613)
+[06Jan2025 21:46:49.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[06Jan2025 21:46:49.358] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[06Jan2025 21:46:59.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[06Jan2025 21:46:59.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[06Jan2025 21:47:10.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Deceived Hopes]
+[06Jan2025 21:47:21.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Diamond Termite
+[06Jan2025 21:47:46.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by The Damned
+[06Jan2025 21:50:23.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Spiders Mother
+[06Jan2025 21:51:31.182] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[06Jan2025 21:52:39.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Cave Dweller
