@@ -518,3 +518,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 23:24:27.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [06Jan2025 23:24:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
 [06Jan2025 23:24:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:24:59.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[06Jan2025 23:25:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[06Jan2025 23:25:24.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[06Jan2025 23:25:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:25:52.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -8.856602080405764,-3.3749879189293104,4.107371797327232
+[06Jan2025 23:26:28.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:27:57.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[06Jan2025 23:28:17.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:28:26.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:28:27.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by The Dead King
+[06Jan2025 23:28:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:28:39.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:28:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[06Jan2025 23:29:14.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:29:18.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Into Darkness]
+[06Jan2025 23:31:09.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Dungeon Delving]
+[06Jan2025 23:32:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was eviscerated by The Dead King's vexes
+[06Jan2025 23:32:45.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was eviscerated by The Dead King's vexes
+[06Jan2025 23:32:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 23:32:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 23:33:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[06Jan2025 23:33:08.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 3.4401188158185505,-3.3750001338424873,9.121081358824313
+[06Jan2025 23:33:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 23:33:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Maufer772]
+[06Jan2025 23:33:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 23:33:55.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was eviscerated by The Dead King's vexes
+[06Jan2025 23:34:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[06Jan2025 23:34:11.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[06Jan2025 23:34:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
