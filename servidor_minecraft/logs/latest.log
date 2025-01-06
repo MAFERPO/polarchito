@@ -321,3 +321,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:07:10.902] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
 [06Jan2025 21:07:48.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
 [06Jan2025 21:07:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[06Jan2025 21:12:18.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.61.0.68:38441] logged in with entity id 1287 at (-1036.8533334562774, 69.0, 1143.9181722043597)
+[06Jan2025 21:12:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[06Jan2025 21:12:19.051] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[06Jan2025 21:13:14.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[06Jan2025 21:13:14.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[06Jan2025 21:13:58.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:49923] logged in with entity id 1446 at (-1039.087620536545, 69.0, 1143.300000011921)
+[06Jan2025 21:13:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
+[06Jan2025 21:13:58.655] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
+[06Jan2025 21:14:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 21:14:34.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by The Damned
+[06Jan2025 21:14:44.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 21:15:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> duermasn perras
+[06Jan2025 21:15:14.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.61.0.68:49535] logged in with entity id 1615 at (-1036.724347277752, 69.0, 1145.1653977680742)
+[06Jan2025 21:15:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[06Jan2025 21:15:14.208] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[06Jan2025 21:15:45.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 21:16:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[06Jan2025 21:16:23.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 21:16:44.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[06Jan2025 21:16:50.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[06Jan2025 21:17:01.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 21:19:40.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[06Jan2025 21:19:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[06Jan2025 21:19:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[06Jan2025 21:21:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
