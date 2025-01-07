@@ -371,3 +371,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 22:14:53.023] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Jan2025 22:14:53.030] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Jan2025 22:14:56.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6802ms or 136 ticks behind
+[07Jan2025 22:17:10.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2065, y=100, z=1229} BlockPos{x=-2065, y=98, z=1228}
+[07Jan2025 22:17:35.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[07Jan2025 22:19:18.202] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 22:19:18.202] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 22:27:39.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[07Jan2025 22:28:49.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
+[07Jan2025 22:29:05.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[07Jan2025 22:30:18.166] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[07Jan2025 22:30:18.356] [Server thread/INFO] [naturescompass/]: Search succeeded: 1025 radius, 543 samples
+[07Jan2025 22:31:36.269] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3853, y=-27, z=1160}
+[07Jan2025 22:40:10.204] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2201, y=-35, z=-1367}
+[07Jan2025 22:40:10.205] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2201, y=-35, z=-1366}
+[07Jan2025 22:42:17.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[07Jan2025 22:43:18.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[07Jan2025 22:43:37.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[07Jan2025 22:43:45.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Invitation to the Tea Party]
+[07Jan2025 22:43:57.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[07Jan2025 22:44:02.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[07Jan2025 22:44:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Spooky Scary Skeleton]
+[07Jan2025 22:45:43.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[07Jan2025 22:45:58.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[07Jan2025 22:46:17.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Acolyte
+[07Jan2025 22:46:26.567] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-467, y=-10, z=25}
+[07Jan2025 22:47:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[07Jan2025 22:47:55.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[07Jan2025 22:48:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[07Jan2025 22:49:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[07Jan2025 22:49:42.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[07Jan2025 22:49:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game

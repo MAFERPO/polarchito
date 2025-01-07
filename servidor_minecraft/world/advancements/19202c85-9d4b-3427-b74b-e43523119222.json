@@ -1828,6 +1828,7 @@
       "dune_beach": "2024-12-14 23:58:13 +0000",
       "seasonal_forest": "2024-12-14 23:47:53 +0000",
       "pasture": "2024-12-17 02:04:46 +0000",
+      "rocky_rainforest": "2025-01-07 22:29:05 +0000",
       "lavender_field": "2024-12-17 02:03:38 +0000",
       "pumpkin_patch": "2024-12-14 19:48:13 +0000",
       "grassland": "2024-12-14 20:23:24 +0000",
@@ -6510,6 +6511,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-07 21:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-07 22:13:45 +0000"
     },
     "done": true
   },
