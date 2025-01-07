@@ -328,3 +328,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 21:38:16.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [07Jan2025 21:39:17.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
 [07Jan2025 21:40:57.645] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[07Jan2025 21:44:49.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Gotta Capture Them All!]
+[07Jan2025 21:48:26.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [A Seedy Place]
+[07Jan2025 21:50:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [The Parrots and the Bats]
+[07Jan2025 21:52:22.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by The Damned
+[07Jan2025 21:52:31.088] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-463, y=-16, z=-298}
+[07Jan2025 21:52:32.771] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-58, y=-32, z=-389}
+[07Jan2025 21:52:34.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[07Jan2025 21:52:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Iron Golem
+[07Jan2025 21:53:05.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[07Jan2025 21:53:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[07Jan2025 21:53:42.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Maufer772]
+[07Jan2025 21:54:54.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[07Jan2025 21:55:01.719] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1438, y=-54, z=891}
+[07Jan2025 21:55:58.324] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1578, y=21, z=730}
+[07Jan2025 21:56:12.005] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1607, y=-39, z=758}
+[07Jan2025 21:56:12.057] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1614, y=5, z=718}
+[07Jan2025 21:56:14.230] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1544, y=-3, z=680}
+[07Jan2025 21:57:46.770] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1242, y=10, z=670}
+[07Jan2025 21:57:46.771] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1240, y=10, z=670}
