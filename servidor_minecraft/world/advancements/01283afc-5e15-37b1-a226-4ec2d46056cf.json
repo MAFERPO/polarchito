@@ -4712,7 +4712,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-01-07 21:50:17 +0000"
+      "minecraft:cow": "2025-01-07 21:50:17 +0000",
+      "minecraft:chicken": "2025-01-07 22:01:34 +0000"
     },
     "done": false
   },
@@ -4728,9 +4729,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-01-07 22:10:07 +0000"
+    },
+    "done": true
+  },
   "portablemobs:mastercelladvancement": {
     "criteria": {
       "mastercell": "2025-01-07 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-01-07 22:04:57 +0000"
     },
     "done": true
   },

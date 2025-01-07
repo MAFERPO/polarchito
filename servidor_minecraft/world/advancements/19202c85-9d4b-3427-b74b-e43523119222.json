@@ -6513,6 +6513,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-01-07 22:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-07 21:36:39 +0000"

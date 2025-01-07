@@ -347,3 +347,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 21:56:14.230] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1544, y=-3, z=680}
 [07Jan2025 21:57:46.770] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1242, y=10, z=670}
 [07Jan2025 21:57:46.771] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1240, y=10, z=670}
+[07Jan2025 22:05:39.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[07Jan2025 22:07:33.404] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[07Jan2025 22:07:34.152] [Server thread/INFO] [naturescompass/]: Search succeeded: 2588 radius, 3286 samples
+[07Jan2025 22:09:58.525] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1671, y=17, z=1279}
+[07Jan2025 22:09:58.525] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1671, y=17, z=1278}
+[07Jan2025 22:10:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Gravedigger]
+[07Jan2025 22:13:11.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/17472, l='ServerLevel[world]', x=-1803.60, y=121.83, z=1112.57] died, message: 'Scribe was slain by Fire Dragon'
+[07Jan2025 22:13:20.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/17474, l='ServerLevel[world]', x=-1789.41, y=115.00, z=1095.79] died, message: 'Nitwit was slain by Fire Dragon'
+[07Jan2025 22:13:23.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17675, l='ServerLevel[world]', x=-1864.21, y=104.00, z=1097.94] died, message: 'Unemployed walked into fire whilst fighting Fire Dragon'
+[07Jan2025 22:13:32.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17889, l='ServerLevel[world]', x=-1868.95, y=103.94, z=1097.18] died, message: 'Unemployed was slain by Fire Dragon'
+[07Jan2025 22:13:37.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17664, l='ServerLevel[world]', x=-1864.52, y=104.00, z=1087.78] died, message: 'Unemployed was burnt to a crisp whilst fighting Fire Dragon'
+[07Jan2025 22:13:41.899] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17805, l='ServerLevel[world]', x=-1889.72, y=107.00, z=1087.51] died, message: 'Unemployed burned to death'
+[07Jan2025 22:13:45.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [What a Deal!]
+[07Jan2025 22:13:58.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17886, l='ServerLevel[world]', x=-1853.70, y=104.83, z=1078.92] died, message: 'Unemployed was slain by Fire Dragon'
+[07Jan2025 22:14:04.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17665, l='ServerLevel[world]', x=-1846.42, y=97.00, z=1122.04] died, message: 'Unemployed was incinerated by Fire Dragon'
+[07Jan2025 22:14:08.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17787, l='ServerLevel[world]', x=-1840.54, y=97.69, z=1100.12] died, message: 'Unemployed was incinerated by Fire Dragon'
+[07Jan2025 22:14:09.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17791, l='ServerLevel[world]', x=-1838.25, y=98.00, z=1098.48] died, message: 'Unemployed was incinerated by Fire Dragon'
+[07Jan2025 22:14:15.741] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17473, l='ServerLevel[world]', x=-1811.68, y=114.77, z=1098.57] died, message: 'Unemployed was incinerated by Fire Dragon'
+[07Jan2025 22:14:15.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17471, l='ServerLevel[world]', x=-1801.77, y=114.94, z=1094.55] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[07Jan2025 22:14:18.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17676, l='ServerLevel[world]', x=-1843.01, y=96.94, z=1125.32] died, message: 'Unemployed burned to death'
+[07Jan2025 22:14:18.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17672, l='ServerLevel[world]', x=-1851.46, y=103.56, z=1140.70] died, message: 'Unemployed burned to death'
+[07Jan2025 22:14:53.023] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 22:14:53.030] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 22:14:56.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6802ms or 136 ticks behind
