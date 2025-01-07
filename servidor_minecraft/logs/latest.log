@@ -400,3 +400,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 22:49:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [07Jan2025 22:49:42.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
 [07Jan2025 22:49:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[07Jan2025 23:09:52.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[07Jan2025 23:09:52.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
