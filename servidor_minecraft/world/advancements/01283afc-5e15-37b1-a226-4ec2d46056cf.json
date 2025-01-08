@@ -1485,7 +1485,8 @@
       "minecraft:wither_skeleton": "2025-01-01 23:13:25 +0000",
       "minecraft:cave_spider": "2024-12-25 21:18:15 +0000",
       "minecraft:silverfish": "2025-01-07 22:32:51 +0000",
-      "minecraft:zombie": "2024-12-14 19:11:30 +0000"
+      "minecraft:zombie": "2024-12-14 19:11:30 +0000",
+      "minecraft:drowned": "2025-01-08 22:00:35 +0000"
     },
     "done": false
   },
@@ -4933,6 +4934,36 @@
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2025-01-08 21:42:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-08 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-08 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_desert": "2025-01-08 22:03:23 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-08 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-08 22:05:37 +0000"
     },
     "done": true
   },
