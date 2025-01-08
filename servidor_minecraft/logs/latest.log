@@ -356,3 +356,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jan2025 21:42:01.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
 [08Jan2025 21:42:17.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
 [08Jan2025 21:42:58.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 21:48:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[08Jan2025 21:49:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[08Jan2025 21:49:16.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[08Jan2025 21:49:16.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[08Jan2025 21:51:12.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.220.126.94:47605] logged in with entity id 11365 at (-5258.833088088594, 64.0, 496.6209719624629)
+[08Jan2025 21:51:12.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[08Jan2025 21:51:12.174] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[08Jan2025 21:51:50.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 21:55:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Death Worm
+[08Jan2025 21:55:16.236] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-463, y=-16, z=-296}
+[08Jan2025 21:55:18.157] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-57, y=-32, z=-389}
+[08Jan2025 21:55:18.157] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-56, y=-32, z=-389}
+[08Jan2025 21:55:18.428] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-467, y=-10, z=27}
+[08Jan2025 21:55:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Death Worm
+[08Jan2025 21:55:51.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 21:55:58.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 21:57:18.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was blown up by Death Worm
