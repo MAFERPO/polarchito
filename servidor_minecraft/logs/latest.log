@@ -427,3 +427,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jan2025 22:19:45.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [08Jan2025 22:20:18.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
 [08Jan2025 22:20:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:32:08.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[08Jan2025 22:32:43.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:33:03.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[08Jan2025 22:33:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[08Jan2025 22:33:03.393] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 22:33:27.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.220.126.94:36371] logged in with entity id 29368 at (-5641.476674763253, 68.0, 504.80454902049564)
+[08Jan2025 22:33:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[08Jan2025 22:33:27.065] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[08Jan2025 22:33:43.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:33:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:34:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:34:39.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:35:20.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:35:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:35:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:36:00.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[08Jan2025 22:36:23.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:37:57.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:38:23.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:38:25.541] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6135, y=0, z=405}
+[08Jan2025 22:39:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Tie me to the Mast]
+[08Jan2025 22:40:05.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:41:45.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:42:44.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:43:07.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 22:43:09.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[08Jan2025 22:43:09.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[08Jan2025 22:43:17.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.220.126.94:39399] logged in with entity id 36350 at (-5851.917557662753, 27.50566721410917, -133.30000001192093)
+[08Jan2025 22:43:17.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[08Jan2025 22:43:17.106] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[08Jan2025 22:43:37.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[08Jan2025 22:43:42.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:46:56.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[08Jan2025 22:47:47.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:48:29.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:48:56.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
