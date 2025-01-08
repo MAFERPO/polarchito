@@ -4937,6 +4937,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_desert": "2025-01-08 22:03:23 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2025-01-08 22:05:37 +0000"
@@ -4948,12 +4954,6 @@
       "has_item": "2025-01-08 22:05:37 +0000"
     },
     "done": true
-  },
-  "repurposed_structures:outposts": {
-    "criteria": {
-      "in_outpost_desert": "2025-01-08 22:03:23 +0000"
-    },
-    "done": false
   },
   "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {

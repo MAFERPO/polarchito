@@ -412,3 +412,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jan2025 22:08:01.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
 [08Jan2025 22:08:24.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
 [08Jan2025 22:08:24.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[08Jan2025 22:10:46.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.220.126.94:57037] logged in with entity id 20453 at (-5544.600480967048, 5.0, 867.6353003504614)
+[08Jan2025 22:10:46.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[08Jan2025 22:10:46.319] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[08Jan2025 22:11:15.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:12:59.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:13:09.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[08Jan2025 22:13:14.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:14:57.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/21089, l='ServerLevel[world]', x=-5728.00, y=62.62, z=770.36]
+[08Jan2025 22:14:57.374] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/21090, l='ServerLevel[world]', x=-5728.25, y=62.75, z=769.47]
+[08Jan2025 22:16:07.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[08Jan2025 22:16:17.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[08Jan2025 22:18:47.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
