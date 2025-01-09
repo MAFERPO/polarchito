@@ -345,3 +345,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jan2025 20:15:19.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8.348606494816522,-1.3116870787446828,5.795634768342325
 [09Jan2025 20:16:14.363] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1706, y=-1, z=1504}
 [09Jan2025 20:17:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[09Jan2025 20:18:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[09Jan2025 20:18:22.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[09Jan2025 20:18:22.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 20:18:35.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:40583] logged in with entity id 10203 at (-1018.9330661536698, 72.0, 972.4282584824574)
+[09Jan2025 20:18:35.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 20:18:35.739] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 20:19:14.427] [Server thread/INFO] [naturescompass/]: Search stopped: 1629 radius, 666 samples
+[09Jan2025 20:19:14.428] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[09Jan2025 20:19:14.601] [Server thread/INFO] [naturescompass/]: Search succeeded: 1629 radius, 666 samples
+[09Jan2025 20:19:14.602] [Server thread/ERROR] [naturescompass/]: Invalid compass after search
+[09Jan2025 20:19:45.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:41513] logged in with entity id 11446 at (-1134.5, 45.0, 1142.5)
+[09Jan2025 20:19:45.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
+[09Jan2025 20:19:45.422] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
+[09Jan2025 20:20:05.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[09Jan2025 20:22:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:27:35.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
