@@ -1841,6 +1841,7 @@
       "seasonal_forest": "2024-12-14 23:47:53 +0000",
       "pasture": "2024-12-17 02:04:46 +0000",
       "rocky_rainforest": "2025-01-07 22:29:05 +0000",
+      "volcanic_plains": "2025-01-09 23:25:32 +0000",
       "lavender_field": "2024-12-17 02:03:38 +0000",
       "pumpkin_patch": "2024-12-14 19:48:13 +0000",
       "grassland": "2024-12-14 20:23:24 +0000",
@@ -6876,9 +6877,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-01-09 23:27:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-01-09 23:29:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-01-09 22:46:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-01-09 23:29:49 +0000"
     },
     "done": true
   },
@@ -6900,15 +6919,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-01-09 23:28:02 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-01-09 23:09:08 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-01-09 23:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-09 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-09 23:20:31 +0000"
     },
     "done": true
   },
@@ -6930,9 +6967,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-01-09 23:19:46 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tree_star": {
     "criteria": {
       "tree_star": "2025-01-09 22:46:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-09 23:21:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-01-09 23:31:18 +0000"
     },
     "done": true
   },

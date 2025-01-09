@@ -930,3 +930,112 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [09Jan2025 23:22:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Fire Dragon
 [09Jan2025 23:22:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
 [09Jan2025 23:22:50.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:23:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:23:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:23:20.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 23:23:23.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 23:23:28.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 23:23:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 23:23:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was incinerated by Fire Dragon
+[09Jan2025 23:24:11.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17853ms or 357 ticks behind
+[09Jan2025 23:24:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 23:24:11.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT moved too quickly! -5.48648391692393,1.0,-8.352671353313553
+[09Jan2025 23:24:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[09Jan2025 23:24:39.400] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:candy_cavity took 461 ms
+[09Jan2025 23:24:39.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 2.8150450704911236,0.0,-10.516855351402455
+[09Jan2025 23:24:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 23:24:50.147] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-673, y=-10, z=-544}
+[09Jan2025 23:24:50.147] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-673, y=-10, z=-545}
+[09Jan2025 23:25:08.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:25:18.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[09Jan2025 23:25:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:25:33.423] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138016, l='ServerLevel[world]', x=-7168.13, y=67.00, z=-727.54, removed=DISCARDED]
+[09Jan2025 23:25:39.890] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138016, l='ServerLevel[world]', x=-7168.13, y=67.00, z=-727.54, removed=DISCARDED]
+[09Jan2025 23:25:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Ice Maze]
+[09Jan2025 23:26:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:26:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[09Jan2025 23:26:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:27:03.286] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 23:27:03.287] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 23:27:07.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 23:27:09.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> You shouldn't be here.
+[09Jan2025 23:27:11.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I am to succumb to this infection soon.
+[09Jan2025 23:27:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Persistent, aren't you?
+[09Jan2025 23:27:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Well, if you want to hear how I ended up like this, then stay.
+[09Jan2025 23:27:42.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:27:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Pure Imagination]
+[09Jan2025 23:27:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> But if this infection takes me over, I want you to kill me.
+[09Jan2025 23:27:44.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 23:27:44.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 23:27:46.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:27:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:27:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has reached the goal [Pure Imagination]
+[09Jan2025 23:28:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Yellow Brick Road]
+[09Jan2025 23:28:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [The Dark (Chocolate) Tower]
+[09Jan2025 23:28:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[09Jan2025 23:29:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [It Belongs in a Museum]
+[09Jan2025 23:29:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 23:29:24.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [The Dark (Chocolate) Tower]
+[09Jan2025 23:29:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to JAUZAMETT]
+[09Jan2025 23:29:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Carbonated Swim]
+[09Jan2025 23:29:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Caniac No More]
+[09Jan2025 23:29:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Carbonated Swim]
+[09Jan2025 23:30:20.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was forced to bite down on a gumball by Gumbeeper
+[09Jan2025 23:30:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:30:38.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:31:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[09Jan2025 23:31:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [I Found the Coin Slot]
+[09Jan2025 23:31:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:32:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 23:32:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:33:25.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[09Jan2025 23:33:25.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 23:33:32.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:42119] logged in with entity id 172063 at (-8007.976633251944, 117.86322990769871, -917.690228176644)
+[09Jan2025 23:33:32.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 23:33:32.659] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 23:33:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:34:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:34:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 23:34:53.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Disconnected
+[09Jan2025 23:34:53.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
+[09Jan2025 23:34:56.604] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 458 ms
+[09Jan2025 23:35:11.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to -2140.500000, 5.000000, 2113.500000]
+[09Jan2025 23:35:11.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[09Jan2025 23:35:13.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Bath Bomb]
+[09Jan2025 23:35:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:35:18.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 23:35:20.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:35:51.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:36:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:36:10.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -5.175480624345255,2.8181688159839524,-8.268346207040167
+[09Jan2025 23:36:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:36:42.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:36:57.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:37:10.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:37:14.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:37:18.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:37:23.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1000, y=3, z=595}
+[09Jan2025 23:37:23.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1000, y=3, z=596}
+[09Jan2025 23:37:36.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[09Jan2025 23:37:36.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 23:37:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 23:37:57.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[09Jan2025 23:37:57.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[09Jan2025 23:38:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jan2025 23:38:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jan2025 23:38:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jan2025 23:38:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jan2025 23:38:42.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jan2025 23:38:43.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[09Jan2025 23:38:43.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jan2025 23:38:43.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09Jan2025 23:38:43.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jan2025 23:38:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jan2025 23:38:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[09Jan2025 23:38:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jan2025 23:38:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09Jan2025 23:38:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jan2025 23:38:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jan2025 23:38:44.886] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Jan2025 23:38:44.887] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[09Jan2025 23:38:44.891] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
