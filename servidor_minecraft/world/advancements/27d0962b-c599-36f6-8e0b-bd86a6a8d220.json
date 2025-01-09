@@ -81,6 +81,7 @@
       "pasture": "2025-01-09 21:37:33 +0000",
       "lavender_field": "2025-01-09 21:50:29 +0000",
       "prairie": "2025-01-02 22:20:49 +0000",
+      "glowing_grotto": "2025-01-09 22:23:23 +0000",
       "undergrowth": "2025-01-06 23:40:44 +0000"
     },
     "done": false
@@ -3687,6 +3688,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-01-09 22:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-01-09 21:12:20 +0000"
@@ -3801,9 +3808,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-09 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
     },
     "done": true
   },
@@ -3858,6 +3877,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-09 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
     },
     "done": true
   },
@@ -3969,6 +3994,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-01-09 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-01-09 21:12:20 +0000"
@@ -3993,6 +4030,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-09 22:23:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-09 20:42:40 +0000"
@@ -4014,6 +4069,12 @@
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-09 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
     },
     "done": true
   },
@@ -4161,9 +4222,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2025-01-09 22:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-09 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-09 22:23:10 +0000"
     },
     "done": true
   },
@@ -4304,6 +4383,12 @@
       "has_any_ingredient": "2025-01-09 20:54:44 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "azure": "2025-01-09 22:21:53 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {

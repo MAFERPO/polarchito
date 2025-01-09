@@ -5157,5 +5157,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-09 22:24:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-09 22:21:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

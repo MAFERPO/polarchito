@@ -6544,13 +6544,79 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_notor": {
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
-      "killed": "2025-01-09 22:00:10 +0000"
+      "has_item": "2025-01-09 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-09 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-09 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-09 20:02:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-01-09 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-01-09 20:25:03 +0000"
     },
@@ -6562,105 +6628,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_bronze_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-09 20:54:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/use_tide_trident": {
-    "criteria": {
-      "shot_arrow": "2025-01-09 21:42:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_helmet": {
-    "criteria": {
-      "has_item": "2025-01-09 20:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-09 20:33:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-09 20:25:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-01-09 21:33:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 20:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-01-09 21:45:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_leggings": {
-    "criteria": {
-      "has_item": "2025-01-09 20:02:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-09 20:25:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_candle": {
-    "criteria": {
-      "has_cyan_dye": "2025-01-09 20:33:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-01-09 20:25:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-01-09 21:45:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-01-09 20:25:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
-    "criteria": {
-      "has_item": "2025-01-09 20:02:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-01-09 20:25:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-09 20:33:59 +0000"
     },
     "done": true
   },
@@ -6670,51 +6640,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-09 20:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-09 20:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2025-01-09 20:25:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2025-01-09 20:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-01-09 21:45:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_rose_red": "2025-01-09 20:25:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-09 20:50:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-01-09 21:29:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-01-09 21:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2025-01-09 20:33:59 +0000"
     },
     "done": true
   },
@@ -6724,15 +6664,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
-      "has_kelp": "2025-01-09 21:45:19 +0000"
+      "has_needed_dye": "2025-01-09 20:25:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
-      "has_needed_dye": "2025-01-09 20:33:59 +0000"
+      "has_needed_dye": "2025-01-09 20:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-01-09 20:33:44 +0000"
     },
     "done": true
   },
@@ -6742,75 +6688,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
-      "has_prismarine_bricks": "2025-01-09 21:45:57 +0000"
+      "has_needed_dye": "2025-01-09 20:33:44 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
     "criteria": {
-      "has_item": "2025-01-09 20:02:08 +0000"
+      "has_needed_dye": "2025-01-09 20:33:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+  "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
-      "has_prismarine_brick": "2025-01-09 21:45:57 +0000"
+      "has_orange_dye": "2025-01-09 20:33:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
-      "has_needed_dye": "2025-01-09 20:25:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-01-09 20:54:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
-    "criteria": {
-      "has_item": "2025-01-09 20:02:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-01-09 20:25:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2025-01-09 21:59:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-01-09 20:25:03 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:pyramids": {
-    "criteria": {
-      "in_pyramid_ocean": "2025-01-09 21:41:54 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/telecore": {
-    "criteria": {
-      "limestone": "2025-01-09 22:06:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-01-09 20:25:03 +0000"
+      "has_needed_dye": "2025-01-09 20:33:59 +0000"
     },
     "done": true
   },
@@ -6820,21 +6718,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
     "criteria": {
-      "has_red_dye": "2025-01-09 20:25:03 +0000"
+      "has_log": "2025-01-09 20:50:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
     "criteria": {
-      "has_needed_dye": "2025-01-09 20:33:44 +0000"
+      "has_stripped_logs": "2025-01-09 20:50:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
-      "has_needed_dye": "2025-01-09 20:25:07 +0000"
+      "has_item": "2025-01-09 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-09 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-01-09 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-09 20:54:32 +0000"
     },
     "done": true
   },
@@ -6844,10 +6760,130 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-09 21:29:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-01-09 21:33:57 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_ocean": "2025-01-09 21:41:54 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-01-09 21:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-09 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-09 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-09 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-09 21:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-09 21:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-09 21:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-09 21:45:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-01-09 21:59:13 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {
       "scarlet": "2025-01-09 21:59:50 +0000",
       "azure": "2025-01-09 22:06:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-01-09 22:00:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-01-09 22:06:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-01-09 22:19:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2025-01-09 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-09 22:21:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-09 22:25:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-01-09 22:37:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2025-01-09 22:37:16 +0000"
     },
     "done": true
   },
