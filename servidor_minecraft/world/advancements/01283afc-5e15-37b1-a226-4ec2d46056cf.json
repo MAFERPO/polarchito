@@ -84,6 +84,7 @@
       "minecraft:swamp": "2025-01-02 22:28:42 +0000",
       "minecraft:cold_ocean": "2024-12-14 18:40:49 +0000",
       "minecraft:forest": "2024-12-14 20:07:10 +0000",
+      "minecraft:lush_caves": "2025-01-09 23:03:35 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 23:59:10 +0000",
       "minecraft:frozen_ocean": "2024-12-14 19:14:14 +0000",
       "minecraft:desert": "2025-01-08 21:37:48 +0000",
@@ -97,6 +98,7 @@
       "minecraft:frozen_peaks": "2024-12-14 19:53:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-02 23:28:44 +0000",
       "minecraft:deep_dark": "2024-12-23 23:43:44 +0000",
+      "minecraft:meadow": "2025-01-09 23:03:32 +0000",
       "minecraft:savanna": "2025-01-08 22:46:48 +0000",
       "minecraft:plains": "2024-12-14 23:58:19 +0000"
     },
@@ -5157,15 +5159,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-09 22:21:28 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_vallumraptor": "2025-01-09 22:24:01 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "discover": "2025-01-09 22:21:28 +0000"
+      "has_log": "2025-01-09 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-01-09 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-01-09 22:46:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-09 23:08:48 +0000"
     },
     "done": true
   },
