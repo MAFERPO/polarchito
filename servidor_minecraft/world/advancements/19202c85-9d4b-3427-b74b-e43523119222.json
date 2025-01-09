@@ -6544,6 +6544,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-01-09 22:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-01-09 20:25:03 +0000"
@@ -6778,6 +6784,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-01-09 21:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-01-09 20:25:03 +0000"
@@ -6789,6 +6801,12 @@
       "in_pyramid_ocean": "2025-01-09 21:41:54 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-01-09 22:06:57 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
@@ -6823,6 +6841,13 @@
   "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
       "has_item": "2025-01-09 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-01-09 21:59:50 +0000",
+      "azure": "2025-01-09 22:06:02 +0000"
     },
     "done": true
   },

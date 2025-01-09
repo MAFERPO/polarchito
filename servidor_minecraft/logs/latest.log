@@ -588,3 +588,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jan2025 22:00:15.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:43985] logged in with entity id 105320 at (-9373.505022861225, -23.866970019198074, -6863.080865690898)
 [09Jan2025 22:00:15.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
 [09Jan2025 22:00:15.997] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 22:00:22.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[09Jan2025 22:00:22.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 22:01:53.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:47729] logged in with entity id 106004 at (-9369.861582761543, -23.866970019198074, -6867.906750397125)
+[09Jan2025 22:01:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 22:01:53.170] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 22:02:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 22:02:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 22:02:26.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 22:02:52.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Publicity Stunt]
+[09Jan2025 22:05:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Push and Pull]
+[09Jan2025 22:06:02.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Push and Pull]
+[09Jan2025 22:06:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 22:06:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has reached the goal [Opposites Attract]
+[09Jan2025 22:06:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Teletor
+[09Jan2025 22:06:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Teletor's Telecore]
+[09Jan2025 22:09:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[09Jan2025 22:09:29.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 22:09:47.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Magnetron
+[09Jan2025 22:10:28.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
