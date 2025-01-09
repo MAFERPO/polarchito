@@ -361,3 +361,77 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jan2025 20:20:05.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
 [09Jan2025 20:22:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [09Jan2025 20:27:35.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[09Jan2025 20:29:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 20:29:19.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:30:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 20:30:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:30:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> a
+[09Jan2025 20:30:49.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> rroz
+[09Jan2025 20:32:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> raw silver
+[09Jan2025 20:32:33.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> parece un mineral
+[09Jan2025 20:33:49.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Baby Skeleton
+[09Jan2025 20:34:20.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 20:35:42.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Lorem Ipsum]
+[09Jan2025 20:35:57.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 20:36:00.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [The Journey Begins]
+[09Jan2025 20:36:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 20:36:25.353] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -9525 -56 -6993 in 4s
+[09Jan2025 20:36:36.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
+[09Jan2025 20:36:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[09Jan2025 20:37:11.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -5.114883446811291,4.585989265926017,-7.732310360529141
+[09Jan2025 20:37:17.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:37:24.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[09Jan2025 20:37:24.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT moved wrongly!
+[09Jan2025 20:37:30.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 7.584001832898366,3.375000060249917,6.028843097816662
+[09Jan2025 20:37:30.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8.11516907307896,1.4271202356543,-5.838385090667202
+[09Jan2025 20:37:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:37:45.431] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1343, y=15, z=519}
+[09Jan2025 20:37:45.431] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1342, y=15, z=519}
+[09Jan2025 20:38:08.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 20:38:22.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[09Jan2025 20:38:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 20:38:26.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 20:38:34.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:47735] logged in with entity id 20582 at (-1574.2920436414518, 67.0, 708.3000000119209)
+[09Jan2025 20:38:34.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 20:38:34.528] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 20:38:36.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[09Jan2025 20:39:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
+[09Jan2025 20:41:32.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23872, l='ServerLevel[world]', x=-1791.98, y=70.85, z=718.92]
+[09Jan2025 20:41:32.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23876, l='ServerLevel[world]', x=-1791.68, y=69.31, z=721.93]
+[09Jan2025 20:41:32.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23877, l='ServerLevel[world]', x=-1791.88, y=69.73, z=723.76]
+[09Jan2025 20:41:32.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23878, l='ServerLevel[world]', x=-1791.88, y=70.70, z=725.32]
+[09Jan2025 20:43:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 20:47:06.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.3429071355889164
+[09Jan2025 20:47:06.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5494030154856091
+[09Jan2025 20:47:06.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5718889701663841
+[09Jan2025 20:47:06.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5640067442953978
+[09Jan2025 20:47:52.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> y pikachu?
+[09Jan2025 20:47:58.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> porque dices ash?
+[09Jan2025 20:48:57.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[09Jan2025 20:51:24.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:51:24.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Sea Serpent
+[09Jan2025 20:51:36.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[09Jan2025 20:51:54.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2946, y=64, z=-583} BlockPos{x=-2945, y=62, z=-582}
+[09Jan2025 20:51:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
+[09Jan2025 20:51:59.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:52:08.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2928, y=63, z=-596} BlockPos{x=-2927, y=62, z=-597}
+[09Jan2025 20:52:08.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2928, y=63, z=-596} BlockPos{x=-2927, y=62, z=-597}
+[09Jan2025 20:52:20.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:53:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Sea Serpent
+[09Jan2025 20:53:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[09Jan2025 20:53:24.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
+[09Jan2025 20:53:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:53:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
+[09Jan2025 20:53:32.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:54:48.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 20:55:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[09Jan2025 20:56:01.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 20:56:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 20:56:32.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 20:57:19.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 20:59:00.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 21:04:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
+[09Jan2025 21:04:19.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 21:04:19.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 21:04:34.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[09Jan2025 21:04:37.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
