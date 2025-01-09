@@ -876,3 +876,57 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [09Jan2025 23:11:20.517] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
 [09Jan2025 23:11:22.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
 [09Jan2025 23:11:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 23:12:39.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:12:44.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was blown up by Creeper
+[09Jan2025 23:12:48.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:13:27.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -9.292367487876618,2.812275096480022,3.0867769931428484
+[09Jan2025 23:14:34.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Gave 10 [Obsidian] to Topy_16]
+[09Jan2025 23:15:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:15:42.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:15:46.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Gotta Capture Them All!]
+[09Jan2025 23:16:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Gotta Capture Them All!]
+[09Jan2025 23:16:41.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Capture a mob using a Capture Cell]
+[09Jan2025 23:16:41.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:16:53.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:17:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:17:04.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 hit the ground too hard whilst trying to escape Skeleton
+[09Jan2025 23:17:07.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:17:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[09Jan2025 23:17:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:17:50.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -6.187614649514217,4.739037816372814,-7.16312310336798
+[09Jan2025 23:17:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT became death, the destroyer of worlds
+[09Jan2025 23:17:51.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 became death, the destroyer of worlds
+[09Jan2025 23:17:59.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 23:18:05.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by The Damned
+[09Jan2025 23:18:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[09Jan2025 23:18:17.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 23:18:36.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[09Jan2025 23:18:36.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 23:18:39.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Zombie
+[09Jan2025 23:18:46.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 23:18:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Zombie
+[09Jan2025 23:19:12.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:58335] logged in with entity id 160200 at (-9705.074239230104, 73.78908491964044, -5020.527986284451)
+[09Jan2025 23:19:12.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 23:19:12.340] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 23:19:30.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
+[09Jan2025 23:19:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[09Jan2025 23:19:46.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Junior Summoner]
+[09Jan2025 23:19:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
+[09Jan2025 23:20:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Double Trouble]
+[09Jan2025 23:20:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:20:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[09Jan2025 23:20:50.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
+[09Jan2025 23:21:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[09Jan2025 23:21:25.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: You logged in from another location
+[09Jan2025 23:21:25.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 23:21:25.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:54175] logged in with entity id 161299 at (-9528.869686893506, 68.17675927506424, -5014.762252389987)
+[09Jan2025 23:21:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 23:21:25.631] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 23:21:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Life turned out to be a comedy]
+[09Jan2025 23:22:07.187] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-511, y=-8, z=-7}
+[09Jan2025 23:22:26.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 23:22:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[09Jan2025 23:22:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 23:22:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Fire Dragon
+[09Jan2025 23:22:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 23:22:50.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]

@@ -63,7 +63,9 @@
     "criteria": {
       "minecraft:taiga": "2025-01-02 22:20:12 +0000",
       "minecraft:birch_forest": "2025-01-02 22:40:51 +0000",
-      "minecraft:river": "2025-01-02 22:32:43 +0000"
+      "minecraft:river": "2025-01-02 22:32:43 +0000",
+      "minecraft:dripstone_caves": "2025-01-09 23:09:28 +0000",
+      "minecraft:plains": "2025-01-09 23:16:53 +0000"
     },
     "done": false
   },
@@ -1020,7 +1022,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-06 22:12:07 +0000",
       "minecraft:spider": "2025-01-06 21:55:36 +0000",
-      "minecraft:zombie": "2025-01-02 22:38:43 +0000"
+      "minecraft:zombie": "2025-01-02 22:38:43 +0000",
+      "minecraft:zombie_villager": "2025-01-09 23:15:53 +0000"
     },
     "done": false
   },
@@ -3659,6 +3662,12 @@
     },
     "done": true
   },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-01-09 23:16:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-09 20:42:40 +0000"
@@ -3854,6 +3863,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-09 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-09 23:09:10 +0000"
     },
     "done": true
   },
@@ -4364,6 +4379,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-09 22:54:01 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-01-09 23:16:31 +0000"
     },
     "done": true
   },
