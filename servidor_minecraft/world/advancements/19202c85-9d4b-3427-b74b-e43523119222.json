@@ -6478,12 +6478,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/crimson_cabinet": {
-    "criteria": {
-      "has_crimson_trapdoor": "2025-01-07 21:36:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-01-07 21:36:39 +0000"
@@ -6514,9 +6508,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
-      "traded": "2025-01-07 22:13:45 +0000"
+      "has_planks": "2025-01-07 21:36:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-01-07 21:36:55 +0000"
     },
     "done": true
   },
@@ -6526,9 +6526,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_planks": "2025-01-07 21:36:39 +0000"
+      "traded": "2025-01-07 22:13:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-09 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-09 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-09 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-09 20:02:08 +0000"
     },
     "done": true
   },
