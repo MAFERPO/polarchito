@@ -324,3 +324,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jan2025 19:59:19.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
 [09Jan2025 19:59:19.506] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
 [09Jan2025 20:05:46.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:08:20.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[09Jan2025 20:08:20.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 20:08:20.368] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 20:08:24.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:40601] logged in with entity id 3428 at (-1162.925000011921, 70.02442408821369, 1158.0019347422847)
+[09Jan2025 20:08:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 20:08:24.149] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 20:08:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[09Jan2025 20:08:50.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[09Jan2025 20:08:53.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[09Jan2025 20:10:15.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[09Jan2025 20:10:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[09Jan2025 20:10:21.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:41475] logged in with entity id 4384 at (-1174.6494346041754, 70.0, 1127.7611109474021)
+[09Jan2025 20:10:21.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[09Jan2025 20:10:21.759] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[09Jan2025 20:12:50.026] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[09Jan2025 20:12:50.244] [Server thread/INFO] [naturescompass/]: Search succeeded: 1629 radius, 666 samples
+[09Jan2025 20:12:50.244] [Server thread/ERROR] [naturescompass/]: Invalid compass after search
+[09Jan2025 20:14:27.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[09Jan2025 20:15:19.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8.348606494816522,-1.3116870787446828,5.795634768342325
+[09Jan2025 20:16:14.363] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1706, y=-1, z=1504}
+[09Jan2025 20:17:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
