@@ -93,6 +93,7 @@
       "minecraft:snowy_beach": "2024-12-14 19:10:12 +0000",
       "minecraft:windswept_savanna": "2024-12-23 23:00:55 +0000",
       "minecraft:warm_ocean": "2025-01-08 22:38:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-09 21:49:44 +0000",
       "minecraft:frozen_peaks": "2024-12-14 19:53:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-02 23:28:44 +0000",
       "minecraft:deep_dark": "2024-12-23 23:43:44 +0000",
@@ -4784,6 +4785,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_ocean": "2025-01-09 21:45:34 +0000",
       "in_pyramid_jungle": "2025-01-07 22:31:30 +0000"
     },
     "done": false
@@ -5109,6 +5111,36 @@
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-01-09 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-09 21:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-09 21:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-09 21:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-09 21:45:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-01-09 21:59:30 +0000"
     },
     "done": true
   },
