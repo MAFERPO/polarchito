@@ -435,3 +435,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jan2025 21:04:19.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [09Jan2025 21:04:34.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
 [09Jan2025 21:04:37.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 21:14:20.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 21:15:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 21:16:09.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 21:16:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 21:16:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 21:16:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 21:18:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Masquerade]
+[09Jan2025 21:19:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT hit the ground too hard whilst trying to escape Bison

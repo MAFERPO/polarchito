@@ -1440,11 +1440,13 @@
       "scrubland": "2025-01-09 21:00:21 +0000",
       "erupting_inferno": "2025-01-01 22:55:13 +0000",
       "floodplain": "2025-01-07 22:27:17 +0000",
+      "lush_savanna": "2025-01-09 21:16:07 +0000",
       "highland": "2024-12-14 19:42:01 +0000",
       "jacaranda_glade": "2024-12-15 00:05:32 +0000",
       "marsh": "2025-01-02 22:33:00 +0000",
       "mystic_grove": "2024-12-16 23:46:00 +0000",
       "cold_desert": "2024-12-26 18:25:40 +0000",
+      "old_growth_woodland": "2025-01-09 21:11:07 +0000",
       "maple_woods": "2024-12-14 19:40:12 +0000",
       "crystalline_chasm": "2025-01-01 22:59:29 +0000",
       "field": "2024-12-14 19:35:46 +0000",
@@ -1460,6 +1462,7 @@
       "aspen_glade": "2025-01-09 20:44:30 +0000",
       "dune_beach": "2024-12-15 00:02:16 +0000",
       "seasonal_forest": "2025-01-07 22:19:32 +0000",
+      "volcano": "2025-01-09 21:12:33 +0000",
       "pasture": "2024-12-17 02:04:34 +0000",
       "rocky_rainforest": "2025-01-02 23:43:39 +0000",
       "volcanic_plains": "2025-01-02 23:47:49 +0000",
@@ -2460,7 +2463,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_giant_taiga": "2024-12-14 20:18:47 +0000"
+      "in_village_giant_taiga": "2024-12-14 20:18:47 +0000",
+      "in_village_jungle": "2025-01-09 21:12:34 +0000"
     },
     "done": false
   },
@@ -5042,6 +5046,12 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-01-09 20:36:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-01-09 21:18:16 +0000"
     },
     "done": true
   },

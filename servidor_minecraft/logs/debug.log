@@ -6237,3 +6237,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jan2025 21:04:37.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [09Jan2025 21:08:25.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jan2025 21:08:25.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 21:09:23.380] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_08
+[09Jan2025 21:09:52.799] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[09Jan2025 21:10:05.395] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:large_graveyard/crossroad_01
+[09Jan2025 21:10:11.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[09Jan2025 21:10:16.068] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[09Jan2025 21:10:19.342] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[09Jan2025 21:10:39.220] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[09Jan2025 21:10:40.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[09Jan2025 21:11:09.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[09Jan2025 21:11:32.363] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[09Jan2025 21:11:48.989] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[09Jan2025 21:11:51.367] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_05
+[09Jan2025 21:13:26.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 21:13:26.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 21:13:49.700] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[09Jan2025 21:14:00.025] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[09Jan2025 21:14:03.620] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[09Jan2025 21:14:18.641] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jan2025 21:14:20.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
+[09Jan2025 21:14:35.981] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[09Jan2025 21:14:59.796] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[09Jan2025 21:15:18.541] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JAUZAMETT'/11446, l='ServerLevel[world]', x=-905.59, y=39.00, z=1145.05]]
+[09Jan2025 21:15:41.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[09Jan2025 21:15:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[09Jan2025 21:16:01.379] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_02
+[09Jan2025 21:16:09.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 21:16:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 21:16:14.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_03
+[09Jan2025 21:16:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[09Jan2025 21:16:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[09Jan2025 21:17:36.522] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[09Jan2025 21:18:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Masquerade]
+[09Jan2025 21:18:25.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 21:18:25.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 21:19:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT hit the ground too hard whilst trying to escape Bison
