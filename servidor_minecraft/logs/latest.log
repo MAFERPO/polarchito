@@ -392,3 +392,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 22:03:47.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:54825] logged in with entity id 24236 at (-1038.1434432574513, 69.0, 1147.8806825629988)
 [10Jan2025 22:03:47.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
 [10Jan2025 22:03:47.899] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
+[10Jan2025 22:12:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> %
+[10Jan2025 22:12:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[10Jan2025 22:12:27.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [A Terrible Fortress]
+[10Jan2025 22:12:34.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Disconnected
+[10Jan2025 22:12:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
+[10Jan2025 22:14:29.822] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[10Jan2025 22:14:29.867] [Server thread/INFO] [naturescompass/]: Search succeeded: 320 radius, 29 samples
+[10Jan2025 22:15:01.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:48911] logged in with entity id 29832 at (-3489.6873351288964, 64.0, 1540.4782098572186)
+[10Jan2025 22:15:01.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
+[10Jan2025 22:15:01.631] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
+[10Jan2025 22:16:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Yes, we thought of this...]
+[10Jan2025 22:16:32.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT fell from a high place
+[10Jan2025 22:16:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
+[10Jan2025 22:16:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[10Jan2025 22:17:13.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Maufer772 to Topy_16]
+[10Jan2025 22:18:29.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT tried to swim in lava
+[10Jan2025 22:18:35.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
