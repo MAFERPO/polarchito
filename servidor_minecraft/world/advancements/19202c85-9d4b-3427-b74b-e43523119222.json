@@ -68,6 +68,8 @@
       "minecraft:cherry_grove": "2024-12-26 22:05:13 +0000",
       "minecraft:sunflower_plains": "2025-01-10 22:02:34 +0000",
       "minecraft:birch_forest": "2024-12-14 18:37:29 +0000",
+      "minecraft:bamboo_jungle": "2025-01-10 22:51:08 +0000",
+      "minecraft:badlands": "2025-01-10 22:38:06 +0000",
       "minecraft:beach": "2024-12-14 18:41:24 +0000",
       "minecraft:mangrove_swamp": "2025-01-09 21:30:12 +0000",
       "minecraft:sparse_jungle": "2024-12-26 21:41:29 +0000",
@@ -1836,6 +1838,7 @@
       "coniferous_forest": "2024-12-14 23:47:22 +0000",
       "forested_field": "2024-12-14 20:00:19 +0000",
       "spider_nest": "2024-12-17 02:21:48 +0000",
+      "lush_desert": "2025-01-10 22:39:07 +0000",
       "redwood_forest": "2024-12-17 01:20:52 +0000",
       "visceral_heap": "2025-01-01 22:23:06 +0000",
       "dune_beach": "2024-12-14 23:58:13 +0000",
@@ -2538,6 +2541,7 @@
       "minecraft:witch": "2024-12-26 03:07:50 +0000",
       "minecraft:wither_skeleton": "2025-01-01 23:09:13 +0000",
       "minecraft:cave_spider": "2024-12-17 02:40:34 +0000",
+      "minecraft:piglin": "2025-01-10 22:24:07 +0000",
       "minecraft:enderman": "2024-12-17 02:16:06 +0000",
       "minecraft:zombie": "2024-12-23 03:16:11 +0000",
       "minecraft:drowned": "2025-01-09 21:42:07 +0000",
@@ -6777,7 +6781,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_ocean": "2025-01-09 21:41:54 +0000"
+      "in_pyramid_ocean": "2025-01-09 21:41:54 +0000",
+      "in_pyramid_nether": "2025-01-10 22:34:35 +0000"
     },
     "done": false
   },
@@ -7007,6 +7012,180 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-01-10 21:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-10 22:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-10 22:38:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-10 22:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-10 22:44:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
     },
     "done": true
   },

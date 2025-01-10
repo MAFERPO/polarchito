@@ -70,6 +70,7 @@
       "minecraft:birch_forest": "2024-12-14 18:32:39 +0000",
       "minecraft:windswept_hills": "2025-01-02 22:58:27 +0000",
       "minecraft:bamboo_jungle": "2025-01-07 22:31:20 +0000",
+      "minecraft:badlands": "2025-01-10 22:37:46 +0000",
       "minecraft:beach": "2024-12-14 18:32:59 +0000",
       "minecraft:stony_peaks": "2025-01-02 23:44:36 +0000",
       "minecraft:mangrove_swamp": "2025-01-09 21:29:36 +0000",
@@ -4790,7 +4791,8 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_ocean": "2025-01-09 21:45:34 +0000",
-      "in_pyramid_jungle": "2025-01-07 22:31:30 +0000"
+      "in_pyramid_jungle": "2025-01-07 22:31:30 +0000",
+      "in_pyramid_nether": "2025-01-10 22:35:16 +0000"
     },
     "done": false
   },
@@ -5239,6 +5241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-01-10 22:47:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2025-01-10 21:38:55 +0000"
@@ -5248,6 +5256,12 @@
   "biomesoplenty:recipes/decorations/mahogany_fence": {
     "criteria": {
       "has_planks": "2025-01-10 21:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-10 22:47:20 +0000"
     },
     "done": true
   },
@@ -5263,6 +5277,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-01-10 22:54:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2025-01-10 21:39:18 +0000"
@@ -5272,6 +5292,18 @@
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2025-01-10 21:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 22:47:20 +0000"
     },
     "done": true
   },
@@ -5287,6 +5319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-10 22:47:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-10 21:39:18 +0000"
@@ -5299,9 +5337,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 22:47:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_planks": "2025-01-10 21:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-01-10 22:47:20 +0000"
     },
     "done": true
   },
