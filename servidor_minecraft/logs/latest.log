@@ -1,37 +1,37 @@
-[09Jan2025 19:57:35.766] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Jan2025 19:57:35.771] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[09Jan2025 19:57:43.432] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Jan2025 19:57:43.569] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/polarchito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09Jan2025 19:57:44.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jan2025 19:57:44.159] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jan2025 19:57:44.160] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jan2025 19:57:44.161] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jan2025 19:57:44.509] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[09Jan2025 19:57:44.512] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[09Jan2025 19:57:48.220] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09Jan2025 19:57:48.509] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[09Jan2025 19:57:48.512] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[09Jan2025 19:57:48.514] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[09Jan2025 19:57:48.537] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[09Jan2025 19:57:48.759] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.7+mc1.20.1: 84 options available, 0 override(s) found
-[09Jan2025 19:57:48.760] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[09Jan2025 19:57:48.783] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[09Jan2025 19:57:48.970] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[09Jan2025 19:57:48.990] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 119 options available, 0 override(s) found
-[09Jan2025 19:57:49.070] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[09Jan2025 19:57:51.285] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[09Jan2025 19:57:52.219] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (23.49 s after launch)
-[09Jan2025 19:57:52.529] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[09Jan2025 19:57:52.530] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[09Jan2025 19:57:52.648] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[09Jan2025 19:57:52.648] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[09Jan2025 19:57:54.601] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2378 milliseconds
-[09Jan2025 19:57:58.011] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[10Jan2025 21:07:48.785] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Jan2025 21:07:48.793] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[10Jan2025 21:07:50.771] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Jan2025 21:07:50.893] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/polarchito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Jan2025 21:07:51.498] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 21:07:51.500] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 21:07:51.502] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 21:07:51.504] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/polarchito/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 21:07:51.878] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[10Jan2025 21:07:51.880] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[10Jan2025 21:07:55.307] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Jan2025 21:07:55.562] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[10Jan2025 21:07:55.564] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[10Jan2025 21:07:55.566] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Jan2025 21:07:55.588] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jan2025 21:07:55.747] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.7+mc1.20.1: 84 options available, 0 override(s) found
+[10Jan2025 21:07:55.749] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[10Jan2025 21:07:55.773] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[10Jan2025 21:07:55.902] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[10Jan2025 21:07:55.939] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 119 options available, 0 override(s) found
+[10Jan2025 21:07:56.043] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jan2025 21:07:58.087] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[10Jan2025 21:07:58.874] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (14.76 s after launch)
+[10Jan2025 21:07:59.078] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[10Jan2025 21:07:59.079] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[10Jan2025 21:07:59.214] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[10Jan2025 21:07:59.215] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[10Jan2025 21:08:01.457] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2577 milliseconds
+[10Jan2025 21:08:04.792] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[09Jan2025 19:57:58.883] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[09Jan2025 19:57:58.908] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[09Jan2025 19:57:59.017] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@1b4872bc on thread Thread[modloading-worker-0,5,main]
-[09Jan2025 19:57:59.017] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[10Jan2025 21:08:05.952] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[10Jan2025 21:08:05.971] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[10Jan2025 21:08:06.104] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@4dfdfe7d on thread Thread[modloading-worker-0,5,main]
+[10Jan2025 21:08:06.106] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -79,48 +79,60 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[09Jan2025 19:57:59.028] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[09Jan2025 19:57:59.082] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[09Jan2025 19:57:59.276] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[09Jan2025 19:57:59.277] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[09Jan2025 19:57:59.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[09Jan2025 19:57:59.287] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[09Jan2025 19:57:59.290] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[09Jan2025 19:57:59.291] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[09Jan2025 19:57:59.294] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[09Jan2025 19:57:59.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[09Jan2025 19:57:59.709] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[09Jan2025 19:57:59.712] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[09Jan2025 19:57:59.769] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[09Jan2025 19:57:59.769] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[09Jan2025 19:58:01.176] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[09Jan2025 19:58:01.188] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[09Jan2025 19:58:02.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@2cbf8f2c has been registered twice for the same name treechop:chop_wood.
-[09Jan2025 19:58:05.551] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[09Jan2025 19:58:05.552] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[09Jan2025 19:58:06.905] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[09Jan2025 19:58:06.923] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[09Jan2025 19:58:07.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[09Jan2025 19:58:08.164] [main/INFO] [journeymap/]: Initializing Packet Registries
-[09Jan2025 19:58:08.249] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[09Jan2025 19:58:08.250] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[09Jan2025 19:58:08.250] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[09Jan2025 19:58:08.250] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
-[09Jan2025 19:58:08.257] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[09Jan2025 19:58:08.257] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[09Jan2025 19:58:08.258] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[09Jan2025 19:58:08.259] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[09Jan2025 19:58:08.280] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[09Jan2025 19:58:08.283] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[09Jan2025 19:58:08.283] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[09Jan2025 19:58:08.284] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[09Jan2025 19:58:08.284] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[09Jan2025 19:58:08.284] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[09Jan2025 19:58:08.284] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[09Jan2025 19:58:08.285] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[09Jan2025 19:58:08.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[09Jan2025 19:58:08.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[09Jan2025 19:58:08.577] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[10Jan2025 21:08:06.108] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[10Jan2025 21:08:06.194] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[10Jan2025 21:08:06.542] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Jan2025 21:08:06.544] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Jan2025 21:08:06.558] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Jan2025 21:08:06.559] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Jan2025 21:08:06.560] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Jan2025 21:08:06.561] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Jan2025 21:08:06.563] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Jan2025 21:08:06.564] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Jan2025 21:08:07.095] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Jan2025 21:08:07.098] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Jan2025 21:08:07.104] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[10Jan2025 21:08:07.104] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[10Jan2025 21:08:08.627] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[10Jan2025 21:08:08.796] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Jan2025 21:08:09.970] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@5bd5ace9 has been registered twice for the same name treechop:chop_wood.
+[10Jan2025 21:08:13.247] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[10Jan2025 21:08:13.248] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10Jan2025 21:08:14.861] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[10Jan2025 21:08:14.881] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[10Jan2025 21:08:15.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[10Jan2025 21:08:16.025] [main/INFO] [journeymap/]: Initializing Packet Registries
+[10Jan2025 21:08:16.088] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[10Jan2025 21:08:16.096] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[10Jan2025 21:08:16.097] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[10Jan2025 21:08:16.097] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[10Jan2025 21:08:16.097] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[10Jan2025 21:08:16.113] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[10Jan2025 21:08:16.113] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[10Jan2025 21:08:16.114] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[10Jan2025 21:08:16.115] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[10Jan2025 21:08:16.140] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[10Jan2025 21:08:16.140] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[10Jan2025 21:08:16.141] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[10Jan2025 21:08:16.141] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[10Jan2025 21:08:16.141] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[10Jan2025 21:08:16.141] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[10Jan2025 21:08:16.141] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[10Jan2025 21:08:16.503] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[10Jan2025 21:08:16.608] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[10Jan2025 21:08:16.609] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[10Jan2025 21:08:16.655] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[10Jan2025 21:08:16.663] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[10Jan2025 21:08:16.663] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[10Jan2025 21:08:16.664] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[10Jan2025 21:08:16.680] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[10Jan2025 21:08:16.684] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[10Jan2025 21:08:16.686] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[10Jan2025 21:08:16.687] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[10Jan2025 21:08:16.688] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[10Jan2025 21:08:17.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[10Jan2025 21:08:17.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[10Jan2025 21:08:17.075] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -135,37 +147,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[09Jan2025 19:58:08.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[09Jan2025 19:58:08.633] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[09Jan2025 19:58:08.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[09Jan2025 19:58:08.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Jan2025 19:58:08.740] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[09Jan2025 19:58:08.740] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[09Jan2025 19:58:08.780] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[09Jan2025 19:58:08.790] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[09Jan2025 19:58:08.791] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[09Jan2025 19:58:08.792] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[09Jan2025 19:58:08.801] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[09Jan2025 19:58:08.805] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[09Jan2025 19:58:08.806] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[09Jan2025 19:58:08.807] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[09Jan2025 19:58:08.808] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[09Jan2025 19:58:08.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[09Jan2025 19:58:08.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[09Jan2025 19:58:09.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.3.1893 Target: null
-[09Jan2025 19:58:09.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[09Jan2025 19:58:09.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[09Jan2025 19:58:09.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[09Jan2025 19:58:09.513] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Jan2025 19:58:09.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[09Jan2025 19:58:09.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[09Jan2025 19:58:09.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[09Jan2025 19:58:09.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[09Jan2025 19:58:09.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[09Jan2025 19:58:09.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[09Jan2025 19:58:10.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[09Jan2025 19:58:10.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[09Jan2025 19:58:10.102] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[10Jan2025 21:08:17.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[10Jan2025 21:08:17.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[10Jan2025 21:08:17.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Jan2025 21:08:17.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[10Jan2025 21:08:17.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[10Jan2025 21:08:17.459] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Jan2025 21:08:17.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.3.1893 Target: null
+[10Jan2025 21:08:17.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[10Jan2025 21:08:18.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[10Jan2025 21:08:18.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[10Jan2025 21:08:18.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[10Jan2025 21:08:18.224] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/polarchito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/assets/.mcassetsroot' uses unexpected schema
+[10Jan2025 21:08:18.224] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/polarchito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/data/.mcassetsroot' uses unexpected schema
+[10Jan2025 21:08:18.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[10Jan2025 21:08:18.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[10Jan2025 21:08:18.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[10Jan2025 21:08:18.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[10Jan2025 21:08:18.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[10Jan2025 21:08:19.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[10Jan2025 21:08:19.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[10Jan2025 21:08:19.317] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -180,10 +182,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[09Jan2025 19:58:10.225] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/polarchito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/assets/.mcassetsroot' uses unexpected schema
-[09Jan2025 19:58:10.225] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/polarchito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/data/.mcassetsroot' uses unexpected schema
-[09Jan2025 19:58:14.353] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[09Jan2025 19:58:15.075] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file redeco:blocks/oak_sword_mount from redeco:loot_tables/blocks/oak_sword_mount.json
+[10Jan2025 21:08:22.380] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10Jan2025 21:08:23.147] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file redeco:blocks/oak_sword_mount from redeco:loot_tables/blocks/oak_sword_mount.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
@@ -207,7 +207,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
 	... 11 more
-[09Jan2025 19:58:15.783] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
+[10Jan2025 21:08:24.002] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -259,783 +259,80 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[09Jan2025 19:58:16.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
-[09Jan2025 19:58:16.586] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[09Jan2025 19:58:16.601] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[09Jan2025 19:58:16.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:slashblade_tofu_ishi as it's serializer returned null
-[09Jan2025 19:58:16.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[09Jan2025 19:58:16.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[09Jan2025 19:58:16.715] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
-[09Jan2025 19:58:16.748] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[09Jan2025 19:58:16.790] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[09Jan2025 19:58:16.791] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:tofu_diamond_blade as it's serializer returned null
-[09Jan2025 19:58:16.792] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[09Jan2025 19:58:16.803] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[09Jan2025 19:58:16.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:slashblade_tofu_metal as it's serializer returned null
-[09Jan2025 19:58:16.810] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
-[09Jan2025 19:58:16.960] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement beautify:progression/candelabra: Expected item to be an item, was unknown string 'beautify:lamp_candleabra'
-[09Jan2025 19:58:16.997] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3973 advancements
-[09Jan2025 19:58:17.017] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[09Jan2025 19:58:17.066] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[09Jan2025 19:58:17.085] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[09Jan2025 19:58:17.087] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[10Jan2025 21:08:24.445] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[10Jan2025 21:08:24.507] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[10Jan2025 21:08:24.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[10Jan2025 21:08:24.586] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:slashblade_tofu_ishi as it's serializer returned null
+[10Jan2025 21:08:24.604] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[10Jan2025 21:08:24.622] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[10Jan2025 21:08:24.642] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
+[10Jan2025 21:08:24.669] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[10Jan2025 21:08:24.720] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[10Jan2025 21:08:24.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:tofu_diamond_blade as it's serializer returned null
+[10Jan2025 21:08:24.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[10Jan2025 21:08:24.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[10Jan2025 21:08:24.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:slashblade_tofu_metal as it's serializer returned null
+[10Jan2025 21:08:24.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
+[10Jan2025 21:08:24.925] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement beautify:progression/candelabra: Expected item to be an item, was unknown string 'beautify:lamp_candleabra'
+[10Jan2025 21:08:24.953] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3973 advancements
+[10Jan2025 21:08:24.975] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[10Jan2025 21:08:25.016] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[10Jan2025 21:08:25.023] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[10Jan2025 21:08:25.025] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[09Jan2025 19:58:17.130] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[09Jan2025 19:58:17.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Jan2025 19:58:17.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Jan2025 19:58:17.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Jan2025 19:58:17.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Jan2025 19:58:17.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Jan2025 19:58:17.919] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Jan2025 19:58:18.021] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Jan2025 19:58:18.021] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Jan2025 19:58:18.022] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Jan2025 19:58:18.022] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Jan2025 19:58:18.040] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[09Jan2025 19:58:18.934] [Server thread/INFO] [Framework/]: Loading server configs...
-[09Jan2025 19:58:19.506] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[09Jan2025 19:58:19.507] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[09Jan2025 19:58:19.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Jan2025 19:58:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Jan2025 19:58:20.187] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[09Jan2025 19:58:21.717] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jan2025 19:58:21.720] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jan2025 19:58:21.720] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jan2025 19:58:21.721] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jan2025 19:58:22.119] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jan2025 19:58:22.620] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[09Jan2025 19:58:22.966] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[09Jan2025 19:58:23.121] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[09Jan2025 19:58:23.292] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3173 ms
-[09Jan2025 19:58:23.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.255s)! For help, type "help"
-[09Jan2025 19:58:23.409] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09Jan2025 19:58:23.447] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[09Jan2025 19:58:23.447] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[09Jan2025 19:58:23.453] [Server thread/WARN] [ModernFix/]: Dedicated server took 54.721 seconds to load
-[09Jan2025 19:58:27.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.248.239.87:56943] logged in with entity id 100 at (-1180.3045669513451, 64.0, 1152.300000011921)
-[09Jan2025 19:58:27.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
-[09Jan2025 19:58:28.024] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
-[09Jan2025 19:58:30.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[09Jan2025 19:59:03.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 19:59:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 19:59:19.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:57781] logged in with entity id 561 at (-1133.695599649776, 44.75, 1144.2866465988618)
-[09Jan2025 19:59:19.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 19:59:19.506] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 20:05:46.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:08:20.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 20:08:20.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 20:08:20.368] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[09Jan2025 20:08:24.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:40601] logged in with entity id 3428 at (-1162.925000011921, 70.02442408821369, 1158.0019347422847)
-[09Jan2025 20:08:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 20:08:24.149] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 20:08:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:08:50.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 20:08:53.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 20:10:15.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 20:10:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 20:10:21.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:41475] logged in with entity id 4384 at (-1174.6494346041754, 70.0, 1127.7611109474021)
-[09Jan2025 20:10:21.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 20:10:21.759] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 20:12:50.026] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
-[09Jan2025 20:12:50.244] [Server thread/INFO] [naturescompass/]: Search succeeded: 1629 radius, 666 samples
-[09Jan2025 20:12:50.244] [Server thread/ERROR] [naturescompass/]: Invalid compass after search
-[09Jan2025 20:14:27.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 20:15:19.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8.348606494816522,-1.3116870787446828,5.795634768342325
-[09Jan2025 20:16:14.363] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1706, y=-1, z=1504}
-[09Jan2025 20:17:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 20:18:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 20:18:22.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 20:18:22.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 20:18:35.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:40583] logged in with entity id 10203 at (-1018.9330661536698, 72.0, 972.4282584824574)
-[09Jan2025 20:18:35.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 20:18:35.739] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 20:19:14.427] [Server thread/INFO] [naturescompass/]: Search stopped: 1629 radius, 666 samples
-[09Jan2025 20:19:14.428] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
-[09Jan2025 20:19:14.601] [Server thread/INFO] [naturescompass/]: Search succeeded: 1629 radius, 666 samples
-[09Jan2025 20:19:14.602] [Server thread/ERROR] [naturescompass/]: Invalid compass after search
-[09Jan2025 20:19:45.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:41513] logged in with entity id 11446 at (-1134.5, 45.0, 1142.5)
-[09Jan2025 20:19:45.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
-[09Jan2025 20:19:45.422] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
-[09Jan2025 20:20:05.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 20:22:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:27:35.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 20:29:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 20:29:19.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:30:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 20:30:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:30:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> a
-[09Jan2025 20:30:49.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> rroz
-[09Jan2025 20:32:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> raw silver
-[09Jan2025 20:32:33.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> parece un mineral
-[09Jan2025 20:33:49.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Baby Skeleton
-[09Jan2025 20:34:20.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 20:35:42.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Lorem Ipsum]
-[09Jan2025 20:35:57.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 20:36:00.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [The Journey Begins]
-[09Jan2025 20:36:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 20:36:25.353] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -9525 -56 -6993 in 4s
-[09Jan2025 20:36:36.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 20:36:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
-[09Jan2025 20:37:11.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -5.114883446811291,4.585989265926017,-7.732310360529141
-[09Jan2025 20:37:17.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:37:24.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
-[09Jan2025 20:37:24.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT moved wrongly!
-[09Jan2025 20:37:30.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 7.584001832898366,3.375000060249917,6.028843097816662
-[09Jan2025 20:37:30.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -8.11516907307896,1.4271202356543,-5.838385090667202
-[09Jan2025 20:37:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:37:45.431] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1343, y=15, z=519}
-[09Jan2025 20:37:45.431] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1342, y=15, z=519}
-[09Jan2025 20:38:08.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 20:38:22.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 20:38:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 20:38:26.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 20:38:34.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:47735] logged in with entity id 20582 at (-1574.2920436414518, 67.0, 708.3000000119209)
-[09Jan2025 20:38:34.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 20:38:34.528] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 20:38:36.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 20:39:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
-[09Jan2025 20:41:32.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23872, l='ServerLevel[world]', x=-1791.98, y=70.85, z=718.92]
-[09Jan2025 20:41:32.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23876, l='ServerLevel[world]', x=-1791.68, y=69.31, z=721.93]
-[09Jan2025 20:41:32.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23877, l='ServerLevel[world]', x=-1791.88, y=69.73, z=723.76]
-[09Jan2025 20:41:32.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/23878, l='ServerLevel[world]', x=-1791.88, y=70.70, z=725.32]
-[09Jan2025 20:43:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 20:47:06.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.3429071355889164
-[09Jan2025 20:47:06.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5494030154856091
-[09Jan2025 20:47:06.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5718889701663841
-[09Jan2025 20:47:06.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5640067442953978
-[09Jan2025 20:47:52.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> y pikachu?
-[09Jan2025 20:47:58.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> porque dices ash?
-[09Jan2025 20:48:57.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 20:51:24.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:51:24.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Sea Serpent
-[09Jan2025 20:51:36.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 20:51:54.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2946, y=64, z=-583} BlockPos{x=-2945, y=62, z=-582}
-[09Jan2025 20:51:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
-[09Jan2025 20:51:59.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:52:08.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2928, y=63, z=-596} BlockPos{x=-2927, y=62, z=-597}
-[09Jan2025 20:52:08.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2928, y=63, z=-596} BlockPos{x=-2927, y=62, z=-597}
-[09Jan2025 20:52:20.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:53:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Sea Serpent
-[09Jan2025 20:53:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 20:53:24.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
-[09Jan2025 20:53:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:53:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
-[09Jan2025 20:53:32.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 20:54:48.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 20:55:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 20:56:01.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 20:56:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 20:56:32.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 20:57:19.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 20:59:00.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:04:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 fell from a high place
-[09Jan2025 21:04:19.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[09Jan2025 21:04:19.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[09Jan2025 21:04:34.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
-[09Jan2025 21:04:37.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[09Jan2025 21:14:20.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 21:15:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:16:09.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 21:16:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 21:16:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 21:16:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:18:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Masquerade]
-[09Jan2025 21:19:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT hit the ground too hard whilst trying to escape Bison
-[09Jan2025 21:19:53.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 21:19:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 21:20:26.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5eceae1c[id=<null>,name=Maufer772,properties={},legacy=false] (/127.39.80.53:50745) lost connection: Disconnected
-[09Jan2025 21:20:37.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> duermanse
-[09Jan2025 21:20:39.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
-[09Jan2025 21:20:43.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 21:21:09.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
-[09Jan2025 21:22:08.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:48419] logged in with entity id 65331 at (-5221.232713015199, 66.96103725359367, -2265.1104833732293)
-[09Jan2025 21:22:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 21:22:08.421] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 21:24:38.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -6.451217542507948,-1.6900322453557948,-7.852221601970086
-[09Jan2025 21:24:45.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! 8.587307628270537,4.310235538531842,-4.148852000088482
-[09Jan2025 21:25:03.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -2.811162037954091,-1.5518097201473893,-9.586773102259485
-[09Jan2025 21:25:03.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3893ms or 77 ticks behind
-[09Jan2025 21:28:03.290] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 21:28:03.292] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 21:28:04.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:29:47.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5790, y=64, z=-3217} BlockPos{x=-5789, y=64, z=-3218}
-[09Jan2025 21:31:46.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:32:37.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 21:32:37.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 21:32:43.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:48639] logged in with entity id 78242 at (-6096.184468463735, 63.70981941531756, -3568.300000011921)
-[09Jan2025 21:32:43.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 21:32:43.888] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 21:33:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [The Journey Begins]
-[09Jan2025 21:34:26.393] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
-[09Jan2025 21:34:29.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:34:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:35:16.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:35:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:35:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:35:56.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:36:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:36:03.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:36:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:36:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:36:30.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:36:38.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:36:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:36:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:37:01.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:37:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:37:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:40:11.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -6.268679809656533,-1.9249158049186619,-7.600504859585271
-[09Jan2025 21:40:11.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5087ms or 101 ticks behind
-[09Jan2025 21:40:26.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: You logged in from another location
-[09Jan2025 21:40:26.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 21:40:26.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:40427] logged in with entity id 85035 at (-6892.888658310406, 82.0, -5256.234565965166)
-[09Jan2025 21:40:26.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 21:40:26.743] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 21:42:22.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was impaled by Drowned
-[09Jan2025 21:42:38.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 21:42:38.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 21:42:39.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Poseidon, God of the Seas]
-[09Jan2025 21:42:45.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:39419] logged in with entity id 86771 at (-7229.408372970497, 62.220530804338, -5534.714792226587)
-[09Jan2025 21:42:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 21:42:45.491] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 21:43:49.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 21:43:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:44:03.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Siren
-[09Jan2025 21:44:10.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:44:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 21:44:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Gave 100 [Golden Carrot] to Topy_16]
-[09Jan2025 21:44:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Dread Hound
-[09Jan2025 21:45:31.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:45:39.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:45:47.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:46:34.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1019, y=72, z=1050} BlockPos{x=-1020, y=70, z=1049}
-[09Jan2025 21:46:34.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1019, y=72, z=1050} BlockPos{x=-1020, y=70, z=1049}
-[09Jan2025 21:46:34.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1020, y=71, z=1051} BlockPos{x=-1022, y=70, z=1050}
-[09Jan2025 21:46:35.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1020, y=71, z=1051} BlockPos{x=-1022, y=70, z=1050}
-[09Jan2025 21:46:35.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1021, y=72, z=1052} BlockPos{x=-1023, y=70, z=1052}
-[09Jan2025 21:46:35.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1021, y=72, z=1052} BlockPos{x=-1023, y=70, z=1052}
-[09Jan2025 21:47:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:47:59.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:48:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:48:22.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
-[09Jan2025 21:48:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:48:36.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 21:49:30.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:49:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:50:10.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:50:14.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:50:29.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
-[09Jan2025 21:50:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:51:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to JAUZAMETT]
-[09Jan2025 21:51:22.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:51:24.477] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 21:51:24.477] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 21:51:35.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:51:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:51:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> culo
-[09Jan2025 21:51:51.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Ferrous Wroughtnaut
-[09Jan2025 21:51:59.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:52:01.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:52:17.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:52:21.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Ferrous Wroughtnaut
-[09Jan2025 21:52:25.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:52:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:52:32.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:52:35.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:52:46.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 21:52:46.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 21:52:47.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:52:50.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:54177] logged in with entity id 96677 at (-1392.2502672732044, 56.897550320917894, 1030.0888308272515)
-[09Jan2025 21:52:50.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 21:52:50.816] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 21:53:02.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:53:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:53:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:54:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:54:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:54:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 21:54:36.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> duerman xd
-[09Jan2025 21:54:58.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 21:55:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:55:29.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 21:55:32.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> 7777
-[09Jan2025 21:55:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:56:12.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:56:14.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:56:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:56:46.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:56:49.127] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 21:56:49.128] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 21:56:52.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -7.307116633730402,0.0,-8.073043029265136
-[09Jan2025 21:56:52.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:56:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:57:31.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:57:50.670] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:magnetic_caves took 431 ms
-[09Jan2025 21:57:56.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:58:04.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:58:34.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 21:58:38.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 21:59:07.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 21:59:13.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Opposites Attract]
-[09Jan2025 21:59:30.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
-[09Jan2025 21:59:30.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has reached the goal [Opposites Attract]
-[09Jan2025 21:59:46.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 22:00:06.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 22:00:06.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 22:00:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Publicity Stunt]
-[09Jan2025 22:00:15.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:43985] logged in with entity id 105320 at (-9373.505022861225, -23.866970019198074, -6863.080865690898)
-[09Jan2025 22:00:15.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 22:00:15.997] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 22:00:22.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 22:00:22.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 22:01:53.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:47729] logged in with entity id 106004 at (-9369.861582761543, -23.866970019198074, -6867.906750397125)
-[09Jan2025 22:01:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 22:01:53.170] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 22:02:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 22:02:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 22:02:26.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 22:02:52.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Publicity Stunt]
-[09Jan2025 22:05:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Push and Pull]
-[09Jan2025 22:06:02.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Push and Pull]
-[09Jan2025 22:06:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:06:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has reached the goal [Opposites Attract]
-[09Jan2025 22:06:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Teletor
-[09Jan2025 22:06:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Teletor's Telecore]
-[09Jan2025 22:09:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
-[09Jan2025 22:09:29.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 22:09:47.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Magnetron
-[09Jan2025 22:10:28.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 22:11:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 22:12:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 22:12:09.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 22:12:25.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 22:12:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 22:12:54.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 22:12:54.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 22:13:13.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:42303] logged in with entity id 114199 at (-1133.5, 67.35489329934836, 1136.5)
-[09Jan2025 22:13:13.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 22:13:13.910] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 22:13:46.699] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:primordial_caves took 14362 ms
-[09Jan2025 22:13:46.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14346ms or 286 ticks behind
-[09Jan2025 22:13:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> r
-[09Jan2025 22:13:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> a
-[09Jan2025 22:13:50.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Teletor
-[09Jan2025 22:14:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 22:16:01.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/116780, l='ServerLevel[world]', x=-2171.05, y=105.50, z=1724.45] died, message: 'Unemployed suffocated in a wall'
-[09Jan2025 22:16:54.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 blew up
-[09Jan2025 22:16:55.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved wrongly!
-[09Jan2025 22:17:02.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 22:17:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 22:17:38.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 22:17:59.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Teletor
-[09Jan2025 22:18:05.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 22:18:16.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -5.139399451901227,0.0,-9.596878181029638
-[09Jan2025 22:18:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 22:19:06.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -9.629412272748596,0.0,-3.9649671918514287
-[09Jan2025 22:19:06.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -0.7391043923453253,0.0,-10.863659752221338
-[09Jan2025 22:19:17.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 22:19:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Teletor
-[09Jan2025 22:19:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was blown up by Creeper
-[09Jan2025 22:19:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [An Alloy To Remember]
-[09Jan2025 22:20:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 22:20:29.380] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.381] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.383] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.383] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.385] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.385] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.385] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.388] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.388] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.389] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.389] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.389] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:29.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.843] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.843] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.843] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.844] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.844] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.844] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.844] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.845] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.845] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.845] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.845] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.845] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.846] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.846] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.846] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.846] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.847] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.847] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.848] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.848] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.848] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.848] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.849] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.849] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.849] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.849] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.850] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.850] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.850] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.850] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.850] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.851] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.851] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.851] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.851] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.851] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.852] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:33.852] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[09Jan2025 22:20:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Teletor
-[09Jan2025 22:20:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Teletor
-[09Jan2025 22:21:00.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 22:21:11.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 22:21:12.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [R.I.P. Yondu]
-[09Jan2025 22:21:21.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 22:21:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has reached the goal [The Cave That Time Forgot]
-[09Jan2025 22:21:35.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 22:21:40.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:21:48.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 22:21:54.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [The Cave That Time Forgot]
-[09Jan2025 22:22:59.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Publicity Stunt]
-[09Jan2025 22:23:09.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:23:10.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has reached the goal [The Cave That Time Forgot]
-[09Jan2025 22:23:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Life Finds A Way]
-[09Jan2025 22:24:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Life Finds A Way]
-[09Jan2025 22:24:02.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Vallumraptor
-[09Jan2025 22:24:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:24:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 22:25:00.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Life Finds A Way]
-[09Jan2025 22:27:33.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Re-Extinct]
-[09Jan2025 22:27:50.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:28:25.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
-[09Jan2025 22:28:25.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
-[09Jan2025 22:28:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Vallumraptor
-[09Jan2025 22:28:43.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 22:29:21.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 22:29:35.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported JAUZAMETT to Maufer772]
-[09Jan2025 22:30:04.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.248.239.87:51309] logged in with entity id 130780 at (-7031.743513390225, -17.0, -710.6884926328331)
-[09Jan2025 22:30:04.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
-[09Jan2025 22:30:04.831] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
-[09Jan2025 22:30:18.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by The Damned
-[09Jan2025 22:30:37.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 22:30:40.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 22:30:43.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:30:53.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 22:31:15.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 22:31:19.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:31:28.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Cave Dweller
-[09Jan2025 22:31:40.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:34:03.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 12.309834336287167,0.8451066887307128,-4.6919538933989315
-[09Jan2025 22:34:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Tremorsaurus
-[09Jan2025 22:34:12.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:34:47.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Tremorsaurus
-[09Jan2025 22:34:52.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:37:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Re-Extinct]
-[09Jan2025 22:37:34.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Law of Club and Fang]
-[09Jan2025 22:38:22.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:38:34.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 22:38:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 22:40:32.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:56235] logged in with entity id 136184 at (-7034.403355572922, -24.0, -914.6999999880791)
-[09Jan2025 22:40:32.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 22:40:32.273] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 22:40:47.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:41:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:42:46.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:45:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 22:46:29.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:46:30.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Tree Stars!!!]
-[09Jan2025 22:46:38.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Tree Stars!!!]
-[09Jan2025 22:47:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:48:32.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 22:48:32.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 22:48:34.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:47321] logged in with entity id 138530 at (-6993.558490094304, -29.0, -818.6046966580328)
-[09Jan2025 22:48:34.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 22:48:34.889] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 22:52:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:53:21.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Source of Evil]
-[09Jan2025 22:54:04.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:54:10.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:54:38.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/140564, l='ServerLevel[world]', x=-7222.01, y=66.00, z=-1032.31] died, message: 'Botanist was slain by Fire Dragon'
-[09Jan2025 22:54:39.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:54:40.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:54:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:55:03.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Maufer772 to Topy_16]
-[09Jan2025 22:55:16.693] [Ice and Fire Pathfinding Worker #0/WARN] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding Exception
-java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ropelogged, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
-	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
-	at vectorwing.farmersdelight.common.block.TomatoVineBlock.isLadder(TomatoVineBlock.java:157) ~[FarmersDelight-1.20.1-1.2.6.jar%23193!/:1.20.1-1.2.6]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isLadder(AbstractPathJob.java:1469) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isPassable(AbstractPathJob.java:1305) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isFlyable(AbstractPathJob.java:1424) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.getGroundHeight(AbstractPathJob.java:1020) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walk(AbstractPathJob.java:877) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walkCurrentNode(AbstractPathJob.java:667) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.search(AbstractPathJob.java:596) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.PathJobMoveToLocation.search(PathJobMoveToLocation.java:62) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:541) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:46) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23201!/:2.1.13-1.20.1]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[09Jan2025 22:55:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:55:19.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/141403, l='ServerLevel[world]', x=-7297.32, y=62.15, z=-964.68] died, message: 'Unemployed was slain by Crocodile'
-[09Jan2025 22:55:21.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:55:23.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:55:38.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:55:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:55:43.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT burned to death
-[09Jan2025 22:55:43.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:55:50.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:55:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:56:06.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:56:28.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/141404, l='ServerLevel[world]', x=-7296.36, y=62.15, z=-964.37] died, message: 'Unemployed was slain by Crocodile'
-[09Jan2025 22:56:56.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 22:57:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Cave Dweller
-[09Jan2025 22:57:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 22:58:20.947] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 6061 ms
-[09Jan2025 22:58:20.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
-[09Jan2025 22:59:24.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 22:59:44.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 23:01:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:02:14.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:03:03.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Grottoceratops
-[09Jan2025 23:03:06.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 23:03:06.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 23:03:08.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:03:19.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:46385] logged in with entity id 148557 at (-8250.848448237943, -20.869404243567505, -5177.7412277500425)
-[09Jan2025 23:03:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 23:03:19.176] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 23:03:33.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 23:03:42.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Grottoceratops
-[09Jan2025 23:03:49.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:03:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 23:04:42.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 23:04:42.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 23:04:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Prehistoric Elytra]
-[09Jan2025 23:04:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Best Friends Forever]
-[09Jan2025 23:05:57.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Vallumraptor
-[09Jan2025 23:06:18.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:06:21.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:45817] logged in with entity id 151529 at (-8452.331585741256, -3.630582279113363, -4581.791589305759)
-[09Jan2025 23:06:21.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 23:06:21.323] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 23:06:26.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Topy_16) moved wrongly! 0.6212893678543878
-[09Jan2025 23:06:26.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Topy_16) moved wrongly! 0.398193359375
-[09Jan2025 23:06:26.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Topy_16) moved wrongly! 0.3496198014613583
-[09Jan2025 23:06:26.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Topy_16) moved wrongly! 0.3010462435477166
-[09Jan2025 23:08:29.256] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 5 ms
-[09Jan2025 23:08:48.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has reached the goal [Radiation Vibe]
-[09Jan2025 23:08:55.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:09:02.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2939ms or 58 ticks behind
-[09Jan2025 23:09:03.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:09:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Radiation Vibe]
-[09Jan2025 23:09:10.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:09:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has reached the goal [Radiation Vibe]
-[09Jan2025 23:09:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Uranium Fever]
-[09Jan2025 23:09:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
-[09Jan2025 23:11:13.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 23:11:13.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 23:11:20.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:58451] logged in with entity id 155502 at (-9478.585612211557, -45.82324072493576, -4919.793384525187)
-[09Jan2025 23:11:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 23:11:20.517] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 23:11:22.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 23:11:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 23:12:39.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:12:44.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was blown up by Creeper
-[09Jan2025 23:12:48.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:13:27.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -9.292367487876618,2.812275096480022,3.0867769931428484
-[09Jan2025 23:14:34.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Gave 10 [Obsidian] to Topy_16]
-[09Jan2025 23:15:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:15:42.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:15:46.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Gotta Capture Them All!]
-[09Jan2025 23:16:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Gotta Capture Them All!]
-[09Jan2025 23:16:41.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Capture a mob using a Capture Cell]
-[09Jan2025 23:16:41.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:16:53.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:17:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:17:04.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 hit the ground too hard whilst trying to escape Skeleton
-[09Jan2025 23:17:07.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:17:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 23:17:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:17:50.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -6.187614649514217,4.739037816372814,-7.16312310336798
-[09Jan2025 23:17:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT became death, the destroyer of worlds
-[09Jan2025 23:17:51.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 became death, the destroyer of worlds
-[09Jan2025 23:17:59.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:18:05.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by The Damned
-[09Jan2025 23:18:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 23:18:17.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:18:36.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
-[09Jan2025 23:18:36.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 23:18:39.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Zombie
-[09Jan2025 23:18:46.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 23:18:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Zombie
-[09Jan2025 23:19:12.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:58335] logged in with entity id 160200 at (-9705.074239230104, 73.78908491964044, -5020.527986284451)
-[09Jan2025 23:19:12.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 23:19:12.340] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 23:19:30.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the weather to clear]
-[09Jan2025 23:19:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 23:19:46.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Junior Summoner]
-[09Jan2025 23:19:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
-[09Jan2025 23:20:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Double Trouble]
-[09Jan2025 23:20:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:20:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:20:50.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
-[09Jan2025 23:21:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
-[09Jan2025 23:21:25.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: You logged in from another location
-[09Jan2025 23:21:25.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 23:21:25.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:54175] logged in with entity id 161299 at (-9528.869686893506, 68.17675927506424, -5014.762252389987)
-[09Jan2025 23:21:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 23:21:25.631] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 23:21:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Life turned out to be a comedy]
-[09Jan2025 23:22:07.187] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-511, y=-8, z=-7}
-[09Jan2025 23:22:26.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 23:22:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:22:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 23:22:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Fire Dragon
-[09Jan2025 23:22:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 23:22:50.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:23:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:23:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:23:20.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 23:23:23.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 23:23:28.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 23:23:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 23:23:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was incinerated by Fire Dragon
-[09Jan2025 23:24:11.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17853ms or 357 ticks behind
-[09Jan2025 23:24:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 23:24:11.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT moved too quickly! -5.48648391692393,1.0,-8.352671353313553
-[09Jan2025 23:24:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
-[09Jan2025 23:24:39.400] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:candy_cavity took 461 ms
-[09Jan2025 23:24:39.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 2.8150450704911236,0.0,-10.516855351402455
-[09Jan2025 23:24:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 23:24:50.147] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-673, y=-10, z=-544}
-[09Jan2025 23:24:50.147] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-673, y=-10, z=-545}
-[09Jan2025 23:25:08.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:25:18.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
-[09Jan2025 23:25:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:25:33.423] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138016, l='ServerLevel[world]', x=-7168.13, y=67.00, z=-727.54, removed=DISCARDED]
-[09Jan2025 23:25:39.890] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138016, l='ServerLevel[world]', x=-7168.13, y=67.00, z=-727.54, removed=DISCARDED]
-[09Jan2025 23:25:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Ice Maze]
-[09Jan2025 23:26:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:26:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
-[09Jan2025 23:26:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:27:03.286] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 23:27:03.287] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 23:27:07.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 23:27:09.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> You shouldn't be here.
-[09Jan2025 23:27:11.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> I am to succumb to this infection soon.
-[09Jan2025 23:27:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Persistent, aren't you?
-[09Jan2025 23:27:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> Well, if you want to hear how I ended up like this, then stay.
-[09Jan2025 23:27:42.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:27:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has reached the goal [Pure Imagination]
-[09Jan2025 23:27:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Villager #32> But if this infection takes me over, I want you to kill me.
-[09Jan2025 23:27:44.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 23:27:44.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[09Jan2025 23:27:46.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:27:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:27:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has reached the goal [Pure Imagination]
-[09Jan2025 23:28:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Yellow Brick Road]
-[09Jan2025 23:28:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [The Dark (Chocolate) Tower]
-[09Jan2025 23:28:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
-[09Jan2025 23:29:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [It Belongs in a Museum]
-[09Jan2025 23:29:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to JAUZAMETT]
-[09Jan2025 23:29:24.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [The Dark (Chocolate) Tower]
-[09Jan2025 23:29:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to JAUZAMETT]
-[09Jan2025 23:29:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Carbonated Swim]
-[09Jan2025 23:29:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Caniac No More]
-[09Jan2025 23:29:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Carbonated Swim]
-[09Jan2025 23:30:20.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was forced to bite down on a gumball by Gumbeeper
-[09Jan2025 23:30:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:30:38.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
-[09Jan2025 23:31:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
-[09Jan2025 23:31:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [I Found the Coin Slot]
-[09Jan2025 23:31:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:32:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 23:32:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:33:25.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 23:33:25.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 23:33:32.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:42119] logged in with entity id 172063 at (-8007.976633251944, 117.86322990769871, -917.690228176644)
-[09Jan2025 23:33:32.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
-[09Jan2025 23:33:32.659] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
-[09Jan2025 23:33:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:34:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:34:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 23:34:53.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Disconnected
-[09Jan2025 23:34:53.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
-[09Jan2025 23:34:56.604] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 458 ms
-[09Jan2025 23:35:11.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to -2140.500000, 5.000000, 2113.500000]
-[09Jan2025 23:35:11.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
-[09Jan2025 23:35:13.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Bath Bomb]
-[09Jan2025 23:35:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:35:18.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
-[09Jan2025 23:35:20.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:35:51.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:36:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:36:10.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! -5.175480624345255,2.8181688159839524,-8.268346207040167
-[09Jan2025 23:36:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:36:42.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:36:57.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:37:10.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
-[09Jan2025 23:37:14.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
-[09Jan2025 23:37:18.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
-[09Jan2025 23:37:23.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1000, y=3, z=595}
-[09Jan2025 23:37:23.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1000, y=3, z=596}
-[09Jan2025 23:37:36.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
-[09Jan2025 23:37:36.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
-[09Jan2025 23:37:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
-[09Jan2025 23:37:57.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
-[09Jan2025 23:37:57.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
-[09Jan2025 23:38:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[09Jan2025 23:38:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[09Jan2025 23:38:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[09Jan2025 23:38:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[09Jan2025 23:38:42.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09Jan2025 23:38:43.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[09Jan2025 23:38:43.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09Jan2025 23:38:43.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[09Jan2025 23:38:43.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09Jan2025 23:38:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09Jan2025 23:38:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[09Jan2025 23:38:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09Jan2025 23:38:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[09Jan2025 23:38:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09Jan2025 23:38:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09Jan2025 23:38:44.886] [Server thread/INFO] [Framework/]: Unloading server configs...
-[09Jan2025 23:38:44.887] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[09Jan2025 23:38:44.891] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Jan2025 21:08:25.058] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[10Jan2025 21:08:25.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Jan2025 21:08:25.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Jan2025 21:08:25.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Jan2025 21:08:25.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Jan2025 21:08:25.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Jan2025 21:08:25.683] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Jan2025 21:08:25.795] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Jan2025 21:08:25.795] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Jan2025 21:08:25.796] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Jan2025 21:08:25.796] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Jan2025 21:08:25.815] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Jan2025 21:08:26.167] [Server thread/INFO] [Framework/]: Loading server configs...
+[10Jan2025 21:08:26.728] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[10Jan2025 21:08:26.728] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[10Jan2025 21:08:26.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Jan2025 21:08:27.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Jan2025 21:08:28.117] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[10Jan2025 21:08:29.274] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 21:08:29.275] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 21:08:29.275] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 21:08:29.276] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 21:08:29.298] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 21:08:29.810] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[10Jan2025 21:08:30.299] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[10Jan2025 21:08:30.664] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3366 ms
+[10Jan2025 21:08:30.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.853s)! For help, type "help"
+[10Jan2025 21:08:30.759] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Jan2025 21:08:30.798] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[10Jan2025 21:08:30.799] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10Jan2025 21:08:30.805] [Server thread/WARN] [ModernFix/]: Dedicated server took 46.686 seconds to load
+[10Jan2025 21:08:36.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.117.185.81:42623] logged in with entity id 101 at (-9517.816200322102, 68.0, -5006.453940890433)
+[10Jan2025 21:08:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[10Jan2025 21:08:36.518] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[10Jan2025 21:11:38.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:53695] logged in with entity id 1104 at (-1128.4547325671977, 68.0, 1135.6404427991488)
+[10Jan2025 21:11:38.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[10Jan2025 21:11:38.885] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[10Jan2025 21:16:54.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:42195] logged in with entity id 2749 at (-6633.760255276539, 113.48082688442588, -760.7171470399676)
+[10Jan2025 21:16:54.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
+[10Jan2025 21:16:54.419] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
+[10Jan2025 21:17:23.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[10Jan2025 21:17:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[10Jan2025 21:18:16.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[10Jan2025 21:18:32.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[10Jan2025 21:18:33.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT moved wrongly!
+[10Jan2025 21:18:43.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[10Jan2025 21:19:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[10Jan2025 21:19:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[10Jan2025 21:19:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported JAUZAMETT to Topy_16]
+[10Jan2025 21:22:20.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[10Jan2025 21:22:23.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[10Jan2025 21:22:42.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 21:22:46.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[10Jan2025 21:22:53.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
