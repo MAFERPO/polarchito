@@ -5314,3 +5314,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 21:48:00.327] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 404 classes
 [10Jan2025 21:48:00.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
 [10Jan2025 21:48:00.402] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
+[10Jan2025 21:48:15.787] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=970, y=22, z=-1418}
+[10Jan2025 21:48:21.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[10Jan2025 21:48:33.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 21:48:33.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 21:50:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Maufer772 to Topy_16]
+[10Jan2025 21:53:32.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 21:53:32.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

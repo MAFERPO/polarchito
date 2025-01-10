@@ -4678,17 +4678,17 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-10 21:35:17 +0000"
-    },
-    "done": true
-  },
   "repurposed_structures:igloos": {
     "criteria": {
       "in_igloo_grassy": "2025-01-10 21:18:17 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:35:17 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {

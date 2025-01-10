@@ -1147,6 +1147,7 @@
       "cooked_porkchop": "2024-12-14 19:04:44 +0000",
       "chicken": "2024-12-14 20:08:25 +0000",
       "cooked_mutton": "2024-12-14 19:17:47 +0000",
+      "sweet_berries": "2025-01-10 21:47:40 +0000",
       "cooked_beef": "2024-12-20 22:52:10 +0000",
       "baked_potato": "2024-12-16 23:51:30 +0000",
       "beef": "2024-12-16 23:43:00 +0000",
@@ -5220,6 +5221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-10 21:44:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_slab": {
     "criteria": {
       "has_planks": "2025-01-10 21:39:18 +0000"
@@ -5259,6 +5266,12 @@
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2025-01-10 21:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-10 21:44:17 +0000"
     },
     "done": true
   },
