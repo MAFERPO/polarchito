@@ -355,3 +355,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 21:31:46.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> ez
 [10Jan2025 21:35:34.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1178, y=60, z=1164} BlockPos{x=-1179, y=61, z=1163}
 [10Jan2025 21:35:34.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1178, y=60, z=1164} BlockPos{x=-1179, y=61, z=1163}
+[10Jan2025 21:41:04.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was blown up by Skeleton Creeper
+[10Jan2025 21:41:38.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to JAUZAMETT]
+[10Jan2025 21:46:59.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[10Jan2025 21:47:16.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 21:47:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[10Jan2025 21:47:46.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Disconnected
+[10Jan2025 21:47:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
+[10Jan2025 21:47:59.330] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=955, y=-1, z=-1265}
+[10Jan2025 21:48:00.214] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=944, y=26, z=-1330}
+[10Jan2025 21:48:00.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:41943] logged in with entity id 16443 at (-1042.2016340047667, 69.0, 1147.3499983822323)
+[10Jan2025 21:48:00.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
+[10Jan2025 21:48:00.402] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
