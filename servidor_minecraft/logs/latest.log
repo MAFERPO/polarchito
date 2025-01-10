@@ -466,3 +466,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 22:58:25.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was shot by Summoned Skeleton
 [10Jan2025 22:58:50.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was caught by Necromancer's fangs
 [10Jan2025 22:59:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
+[10Jan2025 23:02:55.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:03:13.656] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-915, y=-9, z=2442}
+[10Jan2025 23:03:21.336] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-730, y=14, z=2380}
+[10Jan2025 23:03:25.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Herc was on a Roll!]
+[10Jan2025 23:04:20.893] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-966, y=24, z=2542}
+[10Jan2025 23:04:20.894] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-966, y=24, z=2544}
+[10Jan2025 23:06:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to -1134.500000, 68.000000, 1136.500000]
+[10Jan2025 23:07:19.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
