@@ -370,3 +370,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 21:48:15.787] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=970, y=22, z=-1418}
 [10Jan2025 21:48:21.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [10Jan2025 21:50:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Maufer772 to Topy_16]
+[10Jan2025 21:59:39.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[10Jan2025 21:59:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[10Jan2025 21:59:59.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[10Jan2025 22:00:12.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 lost connection: Disconnected
+[10Jan2025 22:00:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 left the game
+[10Jan2025 22:00:18.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Disconnected
+[10Jan2025 22:00:18.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
+[10Jan2025 22:00:21.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[10Jan2025 22:00:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[10Jan2025 22:00:30.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Creative Mode]
+[10Jan2025 22:00:53.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[10Jan2025 22:01:59.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Topy_16[/127.117.185.81:53145] logged in with entity id 23524 at (-9182.156493513457, 5.0, 9308.961728478958)
+[10Jan2025 22:01:59.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 joined the game
+[10Jan2025 22:01:59.812] [Server thread/INFO] [Jade/]: Syncing config to Topy_16 (19202c85-9d4b-3427-b74b-e43523119222)
+[10Jan2025 22:02:34.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3842ms or 76 ticks behind
+[10Jan2025 22:02:34.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 8035.493294998725,64.32352912385574,-8183.284623579528
+[10Jan2025 22:02:34.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -2.1938005656695623,-1.0,-9.897756804824667
+[10Jan2025 22:02:46.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 22:03:11.732] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56da92ea[id=<null>,name=JAUZAMETT,properties={},legacy=false] (/127.2.243.6:57481) lost connection: Disconnected
+[10Jan2025 22:03:47.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAUZAMETT[/127.2.243.6:54825] logged in with entity id 24236 at (-1038.1434432574513, 69.0, 1147.8806825629988)
+[10Jan2025 22:03:47.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT joined the game
+[10Jan2025 22:03:47.899] [Server thread/INFO] [Jade/]: Syncing config to JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220)
