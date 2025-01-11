@@ -7470,6 +7470,12 @@
     },
     "done": false
   },
+  "call_of_yucutan:obtain_pepper_seeds": {
+    "criteria": {
+      "obtain_pepper_seeds_0": "2025-01-11 20:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-01-11 20:28:44 +0000"
