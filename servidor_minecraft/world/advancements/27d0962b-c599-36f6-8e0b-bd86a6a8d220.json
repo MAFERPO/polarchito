@@ -62,6 +62,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-02 22:20:12 +0000",
+      "minecraft:deep_ocean": "2025-01-11 00:25:41 +0000",
       "minecraft:birch_forest": "2025-01-02 22:40:51 +0000",
       "minecraft:beach": "2025-01-09 23:26:14 +0000",
       "minecraft:river": "2025-01-02 22:32:43 +0000",
@@ -4775,6 +4776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-11 00:09:45 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_nether": "2025-01-10 22:25:09 +0000"
@@ -4805,6 +4812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-11 00:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-10 23:28:27 +0000"
@@ -4820,6 +4833,12 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-01-11 00:09:45 +0000"
     },
     "done": true
   },
@@ -4865,6 +4884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-11 00:18:32 +0000"
+    },
+    "done": true
+  },
   "portablemobs:playercaptureadvancement": {
     "criteria": {
       "playertrigger": "2025-01-10 22:16:12 +0000"
@@ -4883,6 +4908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-11 00:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2025-01-10 22:54:34 +0000"
@@ -4892,6 +4923,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-11 00:09:45 +0000"
     },
     "done": true
   },
@@ -4922,6 +4959,12 @@
   "mcwfurnitures:recipes/warped": {
     "criteria": {
       "has_wood": "2025-01-10 22:21:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-01-11 00:23:36 +0000"
     },
     "done": true
   },

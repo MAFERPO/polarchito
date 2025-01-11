@@ -5259,6 +5259,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-11 00:13:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-01-10 23:50:05 +0000"
@@ -5307,9 +5313,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-11 00:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-11 00:02:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-11 00:12:19 +0000"
     },
     "done": true
   },
@@ -5475,6 +5493,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-01-11 00:13:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-01-10 23:33:54 +0000"
@@ -5484,6 +5508,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-01-10 21:54:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-11 00:13:24 +0000"
     },
     "done": true
   },
@@ -5520,6 +5550,12 @@
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-01-10 23:46:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-11 00:13:24 +0000"
     },
     "done": true
   },
