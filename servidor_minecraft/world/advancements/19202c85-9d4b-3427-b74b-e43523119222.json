@@ -7398,6 +7398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-11 20:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-01-11 20:15:32 +0000"
@@ -7457,6 +7463,12 @@
       "has_brick": "2025-01-11 20:28:44 +0000"
     },
     "done": true
+  },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "awake": "2025-01-11 20:47:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
