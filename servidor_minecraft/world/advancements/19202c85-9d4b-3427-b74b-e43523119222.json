@@ -7434,6 +7434,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:defeat_boss": {
+    "criteria": {
+      "defeat_boss_0": "2025-01-11 21:24:17 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:sacrifice_items": {
     "criteria": {
       "sacrifice_items_0": "2025-01-11 20:32:05 +0000"
