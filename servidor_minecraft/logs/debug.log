@@ -7133,3 +7133,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Jan2025 21:30:31.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 21:30:31.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jan2025 21:30:57.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 64 [Mimic Spawn Egg] to Maufer772]
+[11Jan2025 21:33:55.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 1 [Fireward Ring] to Maufer772]
+[11Jan2025 21:35:31.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:35:31.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 21:39:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Mimic
+[11Jan2025 21:39:58.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved too quickly! -2.804344338631836,0.7967356006686828,-9.619359228822532
+[11Jan2025 21:40:01.270] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[11Jan2025 21:40:12.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[11Jan2025 21:40:20.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[11Jan2025 21:40:31.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:40:31.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 21:41:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
