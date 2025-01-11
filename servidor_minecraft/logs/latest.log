@@ -358,3 +358,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Jan2025 20:05:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
 [11Jan2025 20:05:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
 [11Jan2025 20:05:56.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Stay dead]
+[11Jan2025 20:13:50.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[11Jan2025 20:14:39.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[11Jan2025 20:14:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[11Jan2025 20:14:45.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:40145] logged in with entity id 10895 at (-1152.456802192492, 69.0, 1133.3582000121005)
+[11Jan2025 20:14:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[11Jan2025 20:14:45.462] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[11Jan2025 20:17:46.460] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 59746160: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[11Jan2025 20:17:47.018] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 59746160: RandomSpreadSearchWorker succeeded with 3868 radius, 85 samples
+[11Jan2025 20:18:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[11Jan2025 20:19:09.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.7740873006176342
+[11Jan2025 20:19:10.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.8003446833632529
+[11Jan2025 20:19:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]

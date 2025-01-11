@@ -7392,5 +7392,11 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-01-11 20:05:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
