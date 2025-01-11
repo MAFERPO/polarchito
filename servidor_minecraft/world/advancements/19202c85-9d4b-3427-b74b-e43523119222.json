@@ -68,6 +68,7 @@
       "minecraft:cherry_grove": "2024-12-26 22:05:13 +0000",
       "minecraft:sunflower_plains": "2025-01-10 22:02:34 +0000",
       "minecraft:birch_forest": "2024-12-14 18:37:29 +0000",
+      "minecraft:windswept_hills": "2025-01-10 23:18:35 +0000",
       "minecraft:bamboo_jungle": "2025-01-10 22:51:08 +0000",
       "minecraft:badlands": "2025-01-10 22:38:06 +0000",
       "minecraft:beach": "2024-12-14 18:41:24 +0000",
@@ -84,6 +85,7 @@
       "minecraft:cold_ocean": "2024-12-14 19:09:33 +0000",
       "minecraft:forest": "2024-12-17 01:19:31 +0000",
       "minecraft:lush_caves": "2024-12-23 23:23:44 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-10 23:51:38 +0000",
       "minecraft:ice_spikes": "2024-12-14 19:33:10 +0000",
       "minecraft:frozen_ocean": "2024-12-14 19:14:12 +0000",
       "minecraft:desert": "2025-01-09 21:28:05 +0000",
@@ -93,6 +95,7 @@
       "minecraft:snowy_beach": "2024-12-14 19:10:14 +0000",
       "minecraft:windswept_savanna": "2025-01-09 21:32:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-09 21:49:42 +0000",
+      "minecraft:flower_forest": "2025-01-10 23:44:32 +0000",
       "minecraft:frozen_peaks": "2024-12-14 19:52:41 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-26 20:52:36 +0000",
       "minecraft:deep_dark": "2024-12-23 23:19:14 +0000",
@@ -875,6 +878,7 @@
       "salmon": "2024-12-17 02:03:36 +0000",
       "beetroot": "2025-01-01 23:49:14 +0000",
       "golden_carrot": "2025-01-09 21:29:31 +0000",
+      "enchanted_golden_apple": "2025-01-10 23:10:47 +0000",
       "carrot": "2024-12-17 01:56:24 +0000"
     },
     "done": false
@@ -1856,6 +1860,7 @@
       "undergrowth": "2025-01-01 22:21:20 +0000",
       "rainforest": "2024-12-26 21:48:31 +0000",
       "crag": "2024-12-14 19:47:22 +0000",
+      "snowy_maple_woods": "2025-01-10 23:24:29 +0000",
       "ominous_woods": "2024-12-14 20:32:01 +0000"
     },
     "done": false
@@ -7015,9 +7020,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 23:46:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-10 22:44:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 23:52:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 23:33:49 +0000"
     },
     "done": true
   },
@@ -7039,9 +7062,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-10 23:10:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 23:46:32 +0000"
     },
     "done": true
   },
@@ -7051,9 +7086,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-10 23:32:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_jungle_boots": {
     "criteria": {
       "has_item": "2025-01-10 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-01-10 23:52:16 +0000"
     },
     "done": true
   },
@@ -7072,6 +7119,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 23:52:16 +0000"
     },
     "done": true
   },
@@ -7099,6 +7158,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 23:46:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
     "criteria": {
       "has_item": "2025-01-10 22:44:39 +0000"
@@ -7123,9 +7188,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 23:52:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-01-10 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-01-10 23:24:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-01-10 23:46:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 23:33:49 +0000"
     },
     "done": true
   },
@@ -7147,6 +7236,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-10 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 23:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
@@ -7162,6 +7263,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-01-11 00:00:08 +0000"
     },
     "done": true
   },
@@ -7183,9 +7290,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 23:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-10 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 23:46:32 +0000"
     },
     "done": true
   },

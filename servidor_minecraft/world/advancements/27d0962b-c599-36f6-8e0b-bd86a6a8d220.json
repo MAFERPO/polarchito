@@ -88,7 +88,9 @@
     "criteria": {
       "muskeg": "2025-01-09 23:25:57 +0000",
       "shrubland": "2025-01-09 23:32:12 +0000",
+      "erupting_inferno": "2025-01-10 23:56:02 +0000",
       "floodplain": "2025-01-09 23:32:45 +0000",
+      "withered_abyss": "2025-01-10 23:42:39 +0000",
       "field": "2025-01-09 23:06:15 +0000",
       "orchard": "2025-01-09 23:32:05 +0000",
       "overgrown_greens": "2025-01-02 22:40:54 +0000",
@@ -1044,6 +1046,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-10 22:33:22 +0000",
       "minecraft:skeleton": "2025-01-06 22:12:07 +0000",
+      "minecraft:magma_cube": "2025-01-10 23:39:56 +0000",
       "minecraft:spider": "2025-01-06 21:55:36 +0000",
       "minecraft:zombie": "2025-01-02 22:38:43 +0000",
       "minecraft:zombie_villager": "2025-01-09 23:15:53 +0000"
@@ -4760,15 +4763,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-10 23:37:49 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_nether": "2025-01-10 22:25:09 +0000"
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 23:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-10 23:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-01-10 22:31:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 23:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-10 23:40:56 +0000"
     },
     "done": true
   },
@@ -4778,9 +4841,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-01-10 22:31:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-10 23:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-10 23:37:49 +0000"
     },
     "done": true
   },
@@ -4790,9 +4871,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-10 23:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2025-01-10 22:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-10 23:54:15 +0000"
     },
     "done": true
   },
@@ -4808,9 +4913,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-10 23:28:27 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/warped": {
     "criteria": {
       "has_wood": "2025-01-10 22:21:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-10 23:37:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-10 23:37:49 +0000"
     },
     "done": true
   },

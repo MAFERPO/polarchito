@@ -6327,3 +6327,518 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 23:08:56.476] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-18, z=2545}
 [10Jan2025 23:08:56.476] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-18, z=2575}
 [10Jan2025 23:08:56.476] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=-18, z=2566}
+[10Jan2025 23:10:00.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Hydra
+[10Jan2025 23:10:02.281] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[10Jan2025 23:10:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:10:59.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [The Twelve Labors of Hercules]
+[10Jan2025 23:11:01.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[10Jan2025 23:11:01.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/brown_cap/giant_brown_mushroom_cap_01
+[10Jan2025 23:11:02.250] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=-18, z=2580}
+[10Jan2025 23:11:02.413] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-18, z=2605}
+[10Jan2025 23:11:02.415] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-957, y=-18, z=2578}
+[10Jan2025 23:11:02.415] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-949, y=-18, z=2577}
+[10Jan2025 23:11:02.416] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=-18, z=2580}
+[10Jan2025 23:11:02.419] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-18, z=2605}
+[10Jan2025 23:13:06.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 23:13:56.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:13:56.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:14:28.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[10Jan2025 23:14:28.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[10Jan2025 23:14:28.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_0
+[10Jan2025 23:14:28.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[10Jan2025 23:14:28.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[10Jan2025 23:14:28.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_sorcerer_house
+[10Jan2025 23:14:28.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_2
+[10Jan2025 23:14:28.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[10Jan2025 23:14:28.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[10Jan2025 23:14:28.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_brown_house_1
+[10Jan2025 23:14:28.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[10Jan2025 23:14:28.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[10Jan2025 23:14:28.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[10Jan2025 23:14:28.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[10Jan2025 23:14:28.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_brown_house_1
+[10Jan2025 23:14:28.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[10Jan2025 23:14:28.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_red_house_1
+[10Jan2025 23:14:28.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[10Jan2025 23:14:28.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[10Jan2025 23:14:28.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[10Jan2025 23:14:28.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_1
+[10Jan2025 23:14:28.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[10Jan2025 23:14:29.142] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-919, y=-5, z=2640}
+[10Jan2025 23:14:30.343] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-950, y=-18, z=2614}
+[10Jan2025 23:14:30.539] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-18, z=2608}
+[10Jan2025 23:14:30.540] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-950, y=-18, z=2614}
+[10Jan2025 23:14:30.540] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-956, y=-18, z=2625}
+[10Jan2025 23:14:30.855] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-980, y=-18, z=2694}
+[10Jan2025 23:14:30.855] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-975, y=-18, z=2700}
+[10Jan2025 23:14:30.856] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-981, y=-18, z=2712}
+[10Jan2025 23:14:31.349] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-18, z=2672}
+[10Jan2025 23:14:31.354] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-963, y=-18, z=2644}
+[10Jan2025 23:14:31.355] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-956, y=-18, z=2642}
+[10Jan2025 23:14:31.510] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-18, z=2672}
+[10Jan2025 23:14:31.518] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-956, y=-18, z=2625}
+[10Jan2025 23:14:31.522] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-18, z=2672}
+[10Jan2025 23:14:31.530] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-956, y=-18, z=2642}
+[10Jan2025 23:14:31.530] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-956, y=-18, z=2625}
+[10Jan2025 23:14:31.542] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=-18, z=2596}
+[10Jan2025 23:14:31.545] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-949, y=-18, z=2607}
+[10Jan2025 23:14:31.546] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=-18, z=2596}
+[10Jan2025 23:14:31.546] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-18, z=2605}
+[10Jan2025 23:14:31.547] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-957, y=-18, z=2578}
+[10Jan2025 23:14:31.550] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-18, z=2605}
+[10Jan2025 23:14:31.552] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-966, y=-11, z=2606}
+[10Jan2025 23:14:31.789] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-18, z=2605}
+[10Jan2025 23:14:31.795] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-18, z=2672}
+[10Jan2025 23:14:31.807] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-18, z=2672}
+[10Jan2025 23:14:33.470] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1006, y=-18, z=2685}
+[10Jan2025 23:14:33.471] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1007, y=-18, z=2674}
+[10Jan2025 23:14:33.472] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=-18, z=2686}
+[10Jan2025 23:14:33.472] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1000, y=-18, z=2680}
+[10Jan2025 23:14:33.473] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-11, z=2673}
+[10Jan2025 23:14:33.478] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-993, y=-20, z=2658}
+[10Jan2025 23:14:33.479] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1023, y=-18, z=2656}
+[10Jan2025 23:14:33.479] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1006, y=-18, z=2657}
+[10Jan2025 23:14:33.480] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-11, z=2673}
+[10Jan2025 23:14:34.296] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1016, y=-18, z=2651}
+[10Jan2025 23:14:34.764] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1016, y=-18, z=2651}
+[10Jan2025 23:14:34.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:14:34.906] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1007, y=-18, z=2674}
+[10Jan2025 23:14:34.907] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-11, z=2673}
+[10Jan2025 23:14:34.913] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1023, y=-18, z=2656}
+[10Jan2025 23:14:34.913] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1041, y=-18, z=2656}
+[10Jan2025 23:14:34.913] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1006, y=-18, z=2657}
+[10Jan2025 23:14:34.914] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1023, y=-18, z=2657}
+[10Jan2025 23:14:34.914] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-11, z=2673}
+[10Jan2025 23:14:35.428] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[10Jan2025 23:14:39.905] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1041, y=-18, z=2656}
+[10Jan2025 23:14:39.905] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1033, y=-18, z=2651}
+[10Jan2025 23:14:40.035] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1041, y=-18, z=2656}
+[10Jan2025 23:14:40.035] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1023, y=-18, z=2657}
+[10Jan2025 23:14:40.747] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1041, y=-18, z=2656}
+[10Jan2025 23:14:40.747] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1048, y=-18, z=2651}
+[10Jan2025 23:14:40.768] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1041, y=-18, z=2656}
+[10Jan2025 23:14:40.768] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1048, y=-18, z=2651}
+[10Jan2025 23:14:40.769] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1049, y=-18, z=2666}
+[10Jan2025 23:14:40.770] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1049, y=-18, z=2693}
+[10Jan2025 23:14:40.783] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1048, y=-18, z=2651}
+[10Jan2025 23:14:40.783] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1049, y=-18, z=2693}
+[10Jan2025 23:14:40.783] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1070, y=-18, z=2694}
+[10Jan2025 23:14:40.784] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1048, y=-18, z=2677}
+[10Jan2025 23:14:40.902] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1049, y=-18, z=2693}
+[10Jan2025 23:14:40.902] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1070, y=-18, z=2694}
+[10Jan2025 23:14:41.684] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-704, y=4, z=2642}
+[10Jan2025 23:14:41.684] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-702, y=4, z=2642}
+[10Jan2025 23:14:44.046] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-880, y=-41, z=2897}
+[10Jan2025 23:14:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[10Jan2025 23:14:46.048] [Worker-Main-19/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1049, y=-18, z=2666}
+[10Jan2025 23:14:46.054] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1070, y=-18, z=2694}
+[10Jan2025 23:14:46.054] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1057, y=-18, z=2695}
+[10Jan2025 23:14:46.055] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-18, z=2695}
+[10Jan2025 23:14:46.058] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1070, y=-18, z=2694}
+[10Jan2025 23:14:46.058] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1069, y=-18, z=2685}
+[10Jan2025 23:14:46.059] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-18, z=2695}
+[10Jan2025 23:14:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[10Jan2025 23:14:50.526] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-752, y=-18, z=2909}
+[10Jan2025 23:15:12.486] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-634, y=-40, z=2874}
+[10Jan2025 23:15:12.486] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-633, y=-40, z=2874}
+[10Jan2025 23:15:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:15:35.166] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[10Jan2025 23:15:41.849] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-925, y=-43, z=2947}
+[10Jan2025 23:15:53.743] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-866, y=-33, z=2988}
+[10Jan2025 23:16:02.255] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-850, y=-24, z=3035}
+[10Jan2025 23:16:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:16:15.843] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-647, y=-12, z=3110}
+[10Jan2025 23:16:18.242] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-603, y=-50, z=2751}
+[10Jan2025 23:16:20.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[10Jan2025 23:16:20.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[10Jan2025 23:16:20.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[10Jan2025 23:16:20.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[10Jan2025 23:16:20.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[10Jan2025 23:16:20.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[10Jan2025 23:16:20.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[10Jan2025 23:16:20.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[10Jan2025 23:16:20.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[10Jan2025 23:16:20.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[10Jan2025 23:16:20.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[10Jan2025 23:16:20.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[10Jan2025 23:16:20.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[10Jan2025 23:16:21.041] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-918, y=27, z=3152}
+[10Jan2025 23:16:30.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-968, y=-22, z=3188}
+[10Jan2025 23:16:35.119] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-569, y=-34, z=3118}
+[10Jan2025 23:16:53.584] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-497, y=40, z=3093}
+[10Jan2025 23:16:53.944] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-507, y=21, z=3183}
+[10Jan2025 23:16:58.646] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-492, y=-11, z=3212}
+[10Jan2025 23:16:59.792] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-486, y=39, z=3286}
+[10Jan2025 23:16:59.792] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-486, y=39, z=3288}
+[10Jan2025 23:17:12.653] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-811, y=-27, z=3351}
+[10Jan2025 23:17:20.590] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_11
+[10Jan2025 23:17:23.391] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[10Jan2025 23:17:23.403] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[10Jan2025 23:17:23.405] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[10Jan2025 23:17:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:17:47.791] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-642, y=-47, z=3484}
+[10Jan2025 23:17:47.791] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-642, y=-47, z=3485}
+[10Jan2025 23:17:47.791] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-642, y=-47, z=3486}
+[10Jan2025 23:18:03.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:18:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:18:36.405] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[10Jan2025 23:18:56.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:18:56.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:19:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[10Jan2025 23:19:14.922] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:19:16.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:19:39.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:21:44.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has completed the challenge [Praise the Sun]
+[10Jan2025 23:22:51.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 23:23:13.686] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:frostmaw_spawn took 135 ms
+[10Jan2025 23:23:24.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[10Jan2025 23:23:24.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to -2255.500000, 120.000000, 2080.500000]
+[10Jan2025 23:23:27.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:23:27.839] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_0
+[10Jan2025 23:23:31.646] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_6
+[10Jan2025 23:23:31.740] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_2
+[10Jan2025 23:23:32.401] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_8
+[10Jan2025 23:23:33.759] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_1
+[10Jan2025 23:23:33.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_7
+[10Jan2025 23:23:35.054] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_4
+[10Jan2025 23:23:37.268] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_10
+[10Jan2025 23:23:38.359] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[10Jan2025 23:23:39.219] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_3
+[10Jan2025 23:23:40.214] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_11
+[10Jan2025 23:23:47.747] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_5
+[10Jan2025 23:23:56.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:23:56.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:24:05.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy_16 moved too quickly! 9.171709587372334,-4.116857347386883,1.1351666557343378
+[10Jan2025 23:24:32.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was shot by Skeleton
+[10Jan2025 23:24:34.527] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[10Jan2025 23:24:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has completed the challenge [Rude Awakening]
+[10Jan2025 23:24:41.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:26:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to -1134.500000, 68.000000, 1136.500000]
+[10Jan2025 23:26:20.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:26:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:27:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Fire Dragon
+[10Jan2025 23:27:07.735] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[10Jan2025 23:27:16.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:27:27.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Fire Dragon
+[10Jan2025 23:27:28.986] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:27:31.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:27:36.502] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[10Jan2025 23:27:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Fire Dragon
+[10Jan2025 23:27:38.592] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:27:40.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:27:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was incinerated by Fire Dragon
+[10Jan2025 23:27:49.716] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:27:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:28:14.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was turned into KFC by Fire Dragon
+[10Jan2025 23:28:14.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 moved wrongly!
+[10Jan2025 23:28:17.709] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[10Jan2025 23:28:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:28:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was burnt to a crisp whilst fighting Fire Dragon
+[10Jan2025 23:28:46.135] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:28:47.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:28:56.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:28:56.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:29:04.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:29:29.773] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[10Jan2025 23:29:37.329] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[10Jan2025 23:31:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was incinerated by Fire Dragon
+[10Jan2025 23:31:23.875] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:31:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:31:59.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 23:32:18.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 23:32:19.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:32:24.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was incinerated by Fire Dragon
+[10Jan2025 23:32:26.394] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[10Jan2025 23:32:34.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy_16]
+[10Jan2025 23:32:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Dragonslayer]
+[10Jan2025 23:33:56.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:33:56.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:34:54.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to -1134.500000, 68.000000, 1136.500000]
+[10Jan2025 23:35:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to JAUZAMETT]
+[10Jan2025 23:36:05.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_03
+[10Jan2025 23:36:32.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:37:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:37:20.881] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-9184, y=4, z=9308}
+[10Jan2025 23:37:23.091] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1148, y=68, z=1126}
+[10Jan2025 23:37:23.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT moved too quickly! 8035.033394050373,64.07840000152588,-8183.123099622258
+[10Jan2025 23:37:27.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:37:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was incinerated by Fire Dragon
+[10Jan2025 23:37:38.041] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:37:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:38:22.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Fire Dragon
+[10Jan2025 23:38:25.144] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[10Jan2025 23:38:42.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[10Jan2025 23:38:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was turned into KFC by Fire Dragon
+[10Jan2025 23:38:47.867] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:38:50.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[10Jan2025 23:38:50.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:38:56.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:38:56.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:38:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[10Jan2025 23:39:11.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[10Jan2025 23:39:25.655] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-458, y=-7, z=801}
+[10Jan2025 23:39:44.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Fire Dragon
+[10Jan2025 23:39:46.299] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[10Jan2025 23:41:16.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-783, y=64, z=997} BlockPos{x=-783, y=62, z=997}
+[10Jan2025 23:42:26.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 23:42:49.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT has made the advancement [Nightmare Fuel]
+[10Jan2025 23:43:36.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 23:43:38.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:43:41.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Enderman
+[10Jan2025 23:43:43.038] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[10Jan2025 23:43:56.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:43:56.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:44:37.644] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-370, y=22, z=1028}
+[10Jan2025 23:44:37.645] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-368, y=22, z=1028}
+[10Jan2025 23:44:51.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was doomed to fall
+[10Jan2025 23:44:52.663] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:44:54.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:45:29.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:46:22.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Crimson Mosquito
+[10Jan2025 23:46:25.338] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[10Jan2025 23:47:57.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[10Jan2025 23:48:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:48:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[10Jan2025 23:48:26.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[10Jan2025 23:48:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to JAUZAMETT]
+[10Jan2025 23:48:37.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[10Jan2025 23:48:42.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:48:56.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:48:56.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:49:50.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Enderman
+[10Jan2025 23:49:52.635] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[10Jan2025 23:50:44.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.324992186385316
+[10Jan2025 23:51:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Straddler
+[10Jan2025 23:51:36.335] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[10Jan2025 23:52:38.539] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[10Jan2025 23:53:17.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jan2025 23:53:54.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.2876021033266625
+[10Jan2025 23:53:56.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:53:56.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:54:10.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5441566271931606
+[10Jan2025 23:54:10.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.7075136291106219
+[10Jan2025 23:54:25.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.2975140029925569
+[10Jan2025 23:54:25.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.6596603071384379
+[10Jan2025 23:54:30.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[10Jan2025 23:54:35.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[10Jan2025 23:54:40.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[10Jan2025 23:55:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
+[10Jan2025 23:55:22.303] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:55:23.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.6039694945258596
+[10Jan2025 23:55:25.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[10Jan2025 23:55:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:55:29.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Sea Serpent
+[10Jan2025 23:55:40.167] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[10Jan2025 23:55:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:56:53.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[10Jan2025 23:56:55.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:57:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[10Jan2025 23:57:46.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.29099072850010543
+[10Jan2025 23:57:46.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.5905917027644421
+[10Jan2025 23:57:46.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.8980928989282404
+[10Jan2025 23:57:47.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 1.2128371086629102
+[10Jan2025 23:57:47.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.32093154230258847
+[10Jan2025 23:57:47.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.32665768026760134
+[10Jan2025 23:57:47.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.34209813409876233
+[10Jan2025 23:57:48.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.3449241778053249
+[10Jan2025 23:57:48.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.47170993679472417
+[10Jan2025 23:58:11.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Enderman
+[10Jan2025 23:58:13.316] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[10Jan2025 23:58:53.349] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[10Jan2025 23:58:53.349] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[10Jan2025 23:58:53.349] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[10Jan2025 23:58:53.349] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[10Jan2025 23:58:53.349] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[10Jan2025 23:58:53.350] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[10Jan2025 23:58:53.351] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[10Jan2025 23:58:53.351] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[10Jan2025 23:58:53.351] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[10Jan2025 23:58:53.351] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[10Jan2025 23:58:53.351] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[10Jan2025 23:58:53.351] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[10Jan2025 23:58:53.365] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[10Jan2025 23:58:53.366] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@4dfdfe7d
+[10Jan2025 23:58:53.366] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[10Jan2025 23:58:53.378] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[10Jan2025 23:58:53.378] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[10Jan2025 23:58:53.382] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
+	... 33 more
+[10Jan2025 23:58:56.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:58:56.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:59:48.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2671, y=53, z=17} BlockPos{x=-2671, y=54, z=17}
+[11Jan2025 00:00:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 has made the advancement [Free Willy]
+[11Jan2025 00:00:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was doomed to fall by Crimson Mosquito
+[11Jan2025 00:00:35.232] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[11Jan2025 00:00:38.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.7981408432604408
+[11Jan2025 00:02:09.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.8070720220494311
+[11Jan2025 00:02:09.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.8070720220494311
+[11Jan2025 00:02:11.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 3.191583659686248
+[11Jan2025 00:02:12.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.6225439806153941
+[11Jan2025 00:02:12.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.6839119202664794
+[11Jan2025 00:02:13.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.6843472316025188
+[11Jan2025 00:02:21.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.8073888684211978
+[11Jan2025 00:02:24.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.6904619270324068
+[11Jan2025 00:02:26.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.6702343030034297
+[11Jan2025 00:02:29.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.4767554224438032
+[11Jan2025 00:02:30.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.6654378001502003
+[11Jan2025 00:02:33.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.734534990073398
+[11Jan2025 00:02:34.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.7688792771327193
+[11Jan2025 00:02:34.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.7688792771327193
+[11Jan2025 00:02:34.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maufer772) moved wrongly! 0.37109629196356764
+[11Jan2025 00:02:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.39387510843697904
+[11Jan2025 00:02:39.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.4840721035324287
+[11Jan2025 00:02:39.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.4840721035324287
+[11Jan2025 00:02:39.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.4840721035324287
+[11Jan2025 00:02:39.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.4840721035324287
+[11Jan2025 00:02:44.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Best Friends Forever]
+[11Jan2025 00:02:44.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Free Willy]
+[11Jan2025 00:03:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was slain by Piglin
+[11Jan2025 00:03:22.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[11Jan2025 00:03:28.729] [Server thread/DEBUG] [twilightforest/]: Player JAUZAMETT (27d0962b-c599-36f6-8e0b-bd86a6a8d220) respawned and received items held in storage
+[11Jan2025 00:03:37.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[11Jan2025 00:03:41.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.2705781269112741
+[11Jan2025 00:03:42.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.4184780543517044
+[11Jan2025 00:03:42.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.5809484242327537
+[11Jan2025 00:03:42.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.6103733238713404
+[11Jan2025 00:03:43.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.3786785953739716
+[11Jan2025 00:03:43.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.3807068978898333
+[11Jan2025 00:03:43.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.7596409226820519
+[11Jan2025 00:03:44.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.7912046029615757
+[11Jan2025 00:03:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[11Jan2025 00:03:56.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 00:03:56.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 00:04:02.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Glutton Fish
+[11Jan2025 00:04:03.681] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[11Jan2025 00:04:07.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[11Jan2025 00:04:16.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[11Jan2025 00:04:42.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Glutton Fish
+[11Jan2025 00:04:43.864] [Server thread/DEBUG] [twilightforest/]: Player Topy_16 (19202c85-9d4b-3427-b74b-e43523119222) respawned and received items held in storage
+[11Jan2025 00:04:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[11Jan2025 00:04:51.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[11Jan2025 00:04:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 drowned whilst trying to escape Glutton Fish
+[11Jan2025 00:05:04.842] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[11Jan2025 00:05:16.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[11Jan2025 00:05:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Glutton Fish
+[11Jan2025 00:05:22.331] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[11Jan2025 00:05:35.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[11Jan2025 00:05:42.368] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[11Jan2025 00:05:50.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[11Jan2025 00:06:40.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set the time to 1000]
+[11Jan2025 00:06:58.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.8273889839642092
+[11Jan2025 00:07:00.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.718362140346462
+[11Jan2025 00:07:01.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.7639430496828286
+[11Jan2025 00:07:02.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.719310060782915
+[11Jan2025 00:07:02.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.8069680236473565
+[11Jan2025 00:07:02.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.8069680236473565
+[11Jan2025 00:07:03.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.7294277590820415
+[11Jan2025 00:07:04.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.4204018444747603
+[11Jan2025 00:07:06.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.8303109865006146
+[11Jan2025 00:07:06.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.4324267428429847
+[11Jan2025 00:07:06.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.8304293215172178
+[11Jan2025 00:07:33.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.7902660273984135
+[11Jan2025 00:07:34.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.5831011850307765
+[11Jan2025 00:07:35.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.7112446272430838
+[11Jan2025 00:07:35.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.7882905553316959
+[11Jan2025 00:07:36.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.47532558939317676
+[11Jan2025 00:07:36.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.47532558939317676
+[11Jan2025 00:07:37.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.7048071809219416
+[11Jan2025 00:07:38.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.4702077532664327
+[11Jan2025 00:07:39.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.6666971228543443
+[11Jan2025 00:07:40.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.805495024868816
+[11Jan2025 00:07:40.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.81082542524794
+[11Jan2025 00:07:40.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved wrongly! 0.8091941340076202
+[11Jan2025 00:07:54.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 2.3881803523295275,0.0,10.080192302856858
+[11Jan2025 00:07:54.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 2.629953089484843,0.0,10.82430412519625
+[11Jan2025 00:07:54.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 2.883756007770444,0.0,11.572016104980321
+[11Jan2025 00:07:54.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 3.1506256935217607,0.0,12.32177357050125
+[11Jan2025 00:07:54.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 3.4300904312162857,0.0,13.072817405991714
+[11Jan2025 00:07:54.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 3.72298093114523,0.0,13.823820230100182
+[11Jan2025 00:07:54.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 3.9218991187531174,0.0,9.715961788734262
+[11Jan2025 00:07:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 4.289612871064037,0.0,10.460716915666694
+[11Jan2025 00:07:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 4.662532460799866,0.0,11.204989010967438
+[11Jan2025 00:07:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 5.04004359914461,0.0,11.948835072369093
+[11Jan2025 00:07:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 5.421981094103103,0.0,12.69209490203093
+[11Jan2025 00:07:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 5.8082066716988265,0.0,13.434620847166684
+[11Jan2025 00:07:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 6.198589097661625,0.0,14.176285756954258
+[11Jan2025 00:07:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 6.593102936584728,0.0,14.916922978163711
+[11Jan2025 00:07:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 6.991732574712842,0.0,15.65637817408458
+[11Jan2025 00:07:54.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! 7.393992347740095,0.0,16.394790823700987
+[11Jan2025 00:07:54.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -9.319475682838402,0.0,-20.108371014779664
+[11Jan2025 00:07:54.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -9.319475682838402,0.0,-20.108371014779664
+[11Jan2025 00:07:54.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -9.319475682838402,0.0,-20.108371014779664
+[11Jan2025 00:07:54.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -9.319475682838402,0.0,-20.108371014779664
+[11Jan2025 00:07:54.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -9.319475682838402,0.0,-20.108371014779664
+[11Jan2025 00:07:54.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -9.319475682838402,0.0,-20.108371014779664
+[11Jan2025 00:07:54.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -9.019999541460948,0.0,-19.34332723786838
+[11Jan2025 00:07:54.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -8.749233331927826,0.0,-18.570783032614486
+[11Jan2025 00:07:54.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -8.503789282281105,0.0,-17.791623449562394
+[11Jan2025 00:07:54.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -8.280679377654451,0.0,-17.006629103292312
+[11Jan2025 00:07:54.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.759388006390509,0.0,-11.137712007889036
+[11Jan2025 00:07:54.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.555658133380803,0.0,-10.347593527136041
+[11Jan2025 00:07:54.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.367541526775767,0.0,-9.553071999354188
+[11Jan2025 00:07:54.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Topy_16) moved too quickly! -5.192877598307859,0.0,-8.754694975388588
+[11Jan2025 00:08:04.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.6875354074447259
+[11Jan2025 00:08:04.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.6467127256744923
+[11Jan2025 00:08:11.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.73166742901497
+[11Jan2025 00:08:15.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Maufer772) moved wrongly! 0.2804267054890138
+[11Jan2025 00:08:56.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 00:08:56.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 00:09:26.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Sea Serpent
+[11Jan2025 00:09:29.973] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[11Jan2025 00:09:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Sea Serpent
+[11Jan2025 00:09:51.618] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
