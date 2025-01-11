@@ -552,3 +552,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Jan2025 21:00:24.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
 [11Jan2025 21:00:27.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> apurate andy
 [11Jan2025 21:00:33.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[11Jan2025 21:01:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was killed by magic
+[11Jan2025 21:01:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> desactiva
+[11Jan2025 21:01:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[11Jan2025 21:01:26.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[11Jan2025 21:01:26.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[11Jan2025 21:01:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[11Jan2025 21:01:34.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[11Jan2025 21:01:42.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[11Jan2025 21:01:48.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[11Jan2025 21:01:59.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[11Jan2025 21:02:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[11Jan2025 21:02:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[11Jan2025 21:02:22.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was slain by Mitnal Monkey
+[11Jan2025 21:02:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[11Jan2025 21:02:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[11Jan2025 21:02:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[11Jan2025 21:02:36.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
+[11Jan2025 21:02:44.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[11Jan2025 21:02:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[11Jan2025 21:02:54.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[11Jan2025 21:03:17.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[11Jan2025 21:03:29.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Survival Mode]
+[11Jan2025 21:04:35.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[11Jan2025 21:04:35.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[11Jan2025 21:04:37.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maufer772[/127.39.80.53:40295] logged in with entity id 37812 at (-3511.301055953215, 34.0, -2043.699999988079)
+[11Jan2025 21:04:37.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 joined the game
+[11Jan2025 21:04:37.774] [Server thread/INFO] [Jade/]: Syncing config to Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf)
+[11Jan2025 21:05:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
+[11Jan2025 21:05:33.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[11Jan2025 21:05:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT was shot by Skeleton
+[11Jan2025 21:05:46.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> mauri
+[11Jan2025 21:05:51.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> modo esppectador
+[11Jan2025 21:06:07.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> apurate mauri
+[11Jan2025 21:06:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> nesecito
+[11Jan2025 21:06:27.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Spectator Mode]
+[11Jan2025 21:06:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> xd
+[11Jan2025 21:07:01.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAUZAMETT> ya
+[11Jan2025 21:07:12.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set JAUZAMETT's game mode to Survival Mode]
+[11Jan2025 21:08:05.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAUZAMETT lost connection: Timed out
+[11Jan2025 21:08:05.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAUZAMETT left the game
+[11Jan2025 21:08:42.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2acefae9[id=<null>,name=JAUZAMETT,properties={},legacy=false] (/127.2.243.6:34385) lost connection: Disconnected
+[11Jan2025 21:10:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy_16 was killed by magic
+[11Jan2025 21:10:50.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was killed by magic
+[11Jan2025 21:10:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy_16> queee
+[11Jan2025 21:10:57.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Applied effect Night Vision to Topy_16]
+[11Jan2025 21:11:00.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Set own game mode to Spectator Mode]
+[11Jan2025 21:11:11.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy_16: Teleported Topy_16 to Maufer772]
