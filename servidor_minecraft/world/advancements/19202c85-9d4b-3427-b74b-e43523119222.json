@@ -7392,9 +7392,27 @@
     },
     "done": true
   },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-01-11 20:26:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-01-11 20:15:32 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_blessing": {
+    "criteria": {
+      "obtain_blessing_0": "2025-01-11 20:32:40 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-01-11 20:27:26 +0000"
     },
     "done": true
   },
@@ -7410,9 +7428,39 @@
     },
     "done": true
   },
+  "call_of_yucutan:sacrifice_items": {
+    "criteria": {
+      "sacrifice_items_0": "2025-01-11 20:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-01-11 20:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-11 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-11 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-11 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-11 20:28:44 +0000"
     },
     "done": true
   },
