@@ -683,3 +683,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Jan2025 21:40:12.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
 [11Jan2025 21:40:20.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Spectator Mode]
 [11Jan2025 21:41:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Applied effect Night Vision to Maufer772]
+[11Jan2025 21:42:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[11Jan2025 21:43:56.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Gave 30 [Enchanted Golden Apple] to Maufer772]
+[11Jan2025 21:44:46.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Timed out
+[11Jan2025 21:44:46.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[11Jan2025 21:45:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jan2025 21:45:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jan2025 21:45:12.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jan2025 21:45:12.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jan2025 21:45:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jan2025 21:45:12.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jan2025 21:45:12.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[11Jan2025 21:45:12.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jan2025 21:45:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[11Jan2025 21:45:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2025 21:45:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2025 21:45:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11Jan2025 21:45:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2025 21:45:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[11Jan2025 21:45:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jan2025 21:45:12.889] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Jan2025 21:45:12.890] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[11Jan2025 21:45:12.892] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
