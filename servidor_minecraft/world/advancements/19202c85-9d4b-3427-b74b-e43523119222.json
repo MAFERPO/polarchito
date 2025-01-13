@@ -7392,15 +7392,9 @@
     },
     "done": true
   },
-  "call_of_yucutan:interact_with_mirror": {
+  "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
-      "interact_with_mirror_0": "2025-01-11 20:26:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-01-11 20:41:32 +0000"
+      "skeleton_creeper": "2025-01-11 20:05:56 +0000"
     },
     "done": true
   },
@@ -7410,45 +7404,27 @@
     },
     "done": true
   },
-  "call_of_yucutan:obtain_blessing": {
-    "criteria": {
-      "obtain_blessing_0": "2025-01-11 20:32:40 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:get_burnt_by_light": {
-    "criteria": {
-      "get_burnt_by_light_0": "2025-01-11 20:27:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-01-11 20:15:32 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "skeleton_creeper": "2025-01-11 20:05:56 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:defeat_boss": {
-    "criteria": {
-      "defeat_boss_0": "2025-01-11 21:24:17 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:sacrifice_items": {
-    "criteria": {
-      "sacrifice_items_0": "2025-01-11 20:32:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-01-11 20:15:32 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-01-11 20:26:58 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-01-11 20:27:26 +0000"
     },
     "done": true
   },
@@ -7470,6 +7446,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-11 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:sacrifice_items": {
+    "criteria": {
+      "sacrifice_items_0": "2025-01-11 20:32:05 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_blessing": {
+    "criteria": {
+      "obtain_blessing_0": "2025-01-11 20:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-11 20:41:32 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:obtain_both_discs": {
     "criteria": {
       "awake": "2025-01-11 20:47:06 +0000"
@@ -7482,9 +7482,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "call_of_yucutan:defeat_boss": {
     "criteria": {
-      "has_brick": "2025-01-11 20:28:44 +0000"
+      "defeat_boss_0": "2025-01-11 21:24:17 +0000"
     },
     "done": true
   },
